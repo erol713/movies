@@ -1,699 +1,250 @@
 ,Watched,Date,Day,Rating,title,budget,genres,release_date,revenue,vote_average,vote_count
-32,Family,2018-05-07,monday,1.0,Scary Movie 5,20000000,['Comedy'],2013-04-11,78378744.0,4.6,813.0
-1632,Family,2018-05-14,monday,1.0,Jack and Jill,79000000,['Comedy'],2011-11-11,149673788.0,4.0,619.0
-3232,Family,2018-07-07,saturday,1.0,The Legend of Hercules,70000000,"['Action', 'Adventure']",2014-01-10,61279452.0,4.4,542.0
-4832,Family,2018-12-25,tuesday,1.0,Catwoman,100000000,"['Action', 'Crime']",2004-07-22,82102379.0,4.2,833.0
-6432,Family,2018-04-16,monday,1.0,Knock Knock,2500000,"['Drama', 'Thriller']",2015-06-26,6341684.0,4.9,880.0
-8032,Family,2018-06-20,wednesday,1.0,The Human Centipede (First Sequence),2011799,['Horror'],2009-04-26,0.0,4.9,528.0
-384,Alone,2018-09-18,tuesday,2.0,47 Meters Down,5500000,"['Drama', 'Thriller', 'Horror', 'Adventure']",2017-06-15,44235023.0,5.1,548.0
-544,with gf,2018-04-10,tuesday,2.0,Dumb and Dumber To,40000000,['Comedy'],2014-11-12,169837010.0,5.4,1140.0
-640,Alone,2018-09-16,sunday,2.0,Ghost Ship,35000000,"['Horror', 'Mystery', 'Thriller']",2002-10-25,68349884.0,5.3,540.0
-768,Alone,2018-04-30,monday,2.0,The Mummy,125000000,"['Thriller', 'Action', 'Adventure']",2017-06-06,407778013.0,5.4,2122.0
-1504,with gf,2018-04-17,tuesday,2.0,Max Payne,35000000,['Action'],2008-10-15,85416905.0,5.2,625.0
-1696,with gf,2018-05-28,monday,2.0,Poltergeist,35000000,"['Horror', 'Thriller']",2015-05-20,95437994.0,5.0,924.0
-1888,with gf,2018-08-03,friday,2.0,Green Lantern,200000000,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",2011-06-16,219851172.0,5.1,2551.0
-2304,with gf,2018-11-19,monday,2.0,Fifty Shades of Grey,40000000,"['Drama', 'Romance', 'Thriller']",2015-02-11,571006128.0,5.2,3350.0
-2368,with gf,2018-12-08,saturday,2.0,Mortdecai,60000000,"['Comedy', 'Adventure']",2015-01-21,30418560.0,5.4,1078.0
-2656,with gf,2019-02-26,tuesday,2.0,Drive Angry,50000000,"['Fantasy', 'Thriller', 'Action', 'Crime']",2011-02-24,28931401.0,5.3,608.0
-3360,Alone,2018-09-07,friday,2.0,Mechanic: Resurrection,40000000,"['Action', 'Crime', 'Thriller']",2016-08-25,125729635.0,5.3,1236.0
-4128,with gf,2019-01-14,monday,2.0,Couples Retreat,70000000,"['Comedy', 'Romance']",2009-09-19,171844840.0,5.3,601.0
-4384,Alone,2018-06-19,tuesday,2.0,Fantastic 4: Rise of the Silver Surfer,130000000,"['Adventure', 'Fantasy', 'Action', 'Thriller']",2007-06-13,289047763.0,5.4,2648.0
-4896,Alone,2019-01-29,tuesday,2.0,Ghostbusters,144000000,"['Action', 'Fantasy', 'Comedy']",2016-07-14,229147509.0,5.3,2203.0
-5088,Family,2018-08-25,saturday,2.0,G.I. Joe: Retaliation,130000000,"['Adventure', 'Action', 'Science Fiction', 'Thriller']",2013-03-26,371876278.0,5.4,3045.0
-5344,with gf,2019-01-06,sunday,2.0,Babylon A.D.,70000000,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",2008-08-20,72108608.0,5.4,687.0
-5440,with gf,2018-03-30,friday,2.0,The Incredible Burt Wonderstone,30000000,['Comedy'],2013-03-14,27437881.0,5.3,732.0
-5760,Alone,2018-08-03,friday,2.0,R.I.P.D.,130000000,"['Fantasy', 'Action', 'Comedy', 'Crime']",2013-07-18,61648500.0,5.4,1280.0
-6336,Alone,2018-11-30,friday,2.0,Ben-Hur,100000000,"['Adventure', 'Drama', 'Action']",2016-08-17,94061311.0,5.3,642.0
-7168,with gf,2019-05-05,sunday,2.0,Blackhat,70000000,"['Crime', 'Drama', 'Mystery']",2015-01-13,17752940.0,5.1,842.0
-7264,Alone,2019-02-25,monday,2.0,"10,000 BC",105000000,"['Adventure', 'Action', 'Drama', 'Fantasy']",2008-02-22,266000000.0,5.1,934.0
-7296,with gf,2018-06-12,tuesday,2.0,Evan Almighty,175000000,"['Fantasy', 'Comedy', 'Family']",2007-06-09,173000000.0,5.3,1194.0
-7680,Alone,2018-12-28,friday,2.0,Race to Witch Mountain,50000000,"['Adventure', 'Family', 'Fantasy', 'Science Fiction', 'Thriller']",2009-03-12,106303988.0,5.4,520.0
-7840,Alone,2018-07-01,sunday,2.0,Brüno,42000000,['Comedy'],2009-07-08,0.0,5.4,528.0
-8128,with gf,2018-05-21,monday,2.0,Paul Blart: Mall Cop,26000000,"['Action', 'Adventure', 'Comedy', 'Family']",2009-01-15,183293131.0,5.2,807.0
-160,with gf,2018-11-11,sunday,3.0,Deliver Us from Evil,30000000,"['Thriller', 'Crime', 'Horror']",2014-07-01,0.0,5.9,705.0
-192,Family,2018-12-25,tuesday,3.0,Blades of Glory,53000000,"['Action', 'Comedy', 'Drama']",2007-03-30,0.0,5.9,578.0
-352,Family,2018-08-04,saturday,3.0,Pixels,88000000,"['Action', 'Comedy', 'Science Fiction']",2015-07-16,243637091.0,5.6,2564.0
-512,Family,2019-04-20,saturday,3.0,Paranormal Activity,15000,"['Horror', 'Mystery']",2007-09-14,193355800.0,5.9,1351.0
-672,Family,2019-01-05,saturday,3.0,Licence to Kill,32000000,"['Adventure', 'Action', 'Thriller']",1989-07-07,156167015.0,5.9,549.0
-736,with gf,2018-10-12,friday,3.0,Mad Max Beyond Thunderdome,12305523,"['Action', 'Adventure', 'Science Fiction']",1985-06-29,36230219.0,5.9,765.0
-832,Family,2019-03-28,thursday,3.0,Bedtime Stories,80000000,"['Fantasy', 'Comedy', 'Family', 'Romance']",2008-12-24,212874442.0,5.9,924.0
-864,with gf,2018-05-01,tuesday,3.0,The Three Musketeers,75000000,"['Adventure', 'Action', 'Thriller']",2011-08-31,132274484.0,5.6,945.0
-992,Family,2018-04-10,tuesday,3.0,Noah,125000000,"['Drama', 'Adventure']",2014-03-20,362637473.0,5.5,2408.0
-1152,Family,2018-12-07,friday,3.0,Dark Shadows,150000000,"['Comedy', 'Fantasy']",2012-05-08,245527149.0,5.7,2383.0
-1312,Family,2018-06-02,saturday,3.0,Ouija: Origin of Evil,9000000,"['Horror', 'Thriller']",2016-10-20,81705746.0,5.8,735.0
-1440,with gf,2018-04-07,saturday,3.0,Two Weeks Notice,60000000,"['Comedy', 'Romance']",2002-12-19,93354918.0,5.9,505.0
-1472,Family,2018-04-12,thursday,3.0,Sinister 2,10000000,['Horror'],2015-08-19,52882018.0,5.5,605.0
-1792,Family,2018-07-01,sunday,3.0,G.I. Joe: The Rise of Cobra,175000000,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",2009-08-04,302469017.0,5.6,1988.0
-1920,with gf,2018-08-11,saturday,3.0,Stuart Little,133000000,"['Animation', 'Fantasy', 'Family', 'Comedy']",1999-12-17,300135367.0,5.8,998.0
-1952,Family,2018-08-23,thursday,3.0,Die Another Day,140000000,"['Adventure', 'Action', 'Thriller']",2002-11-17,431971116.0,5.8,1112.0
-2112,Family,2018-10-02,tuesday,3.0,101 Dalmatians,54000000,"['Comedy', 'Family']",1996-11-17,320689294.0,5.6,722.0
-2272,Family,2018-11-13,tuesday,3.0,The Smurfs,110000000,"['Animation', 'Family', 'Adventure', 'Comedy', 'Fantasy']",2011-07-29,563749323.0,5.5,1201.0
-2400,with gf,2018-12-16,sunday,3.0,Night at the Museum: Battle of the Smithsonian,150000000,"['Adventure', 'Fantasy', 'Action', 'Comedy', 'Family']",2009-05-20,413106170.0,5.9,2026.0
-2432,Family,2018-12-26,wednesday,3.0,A Nightmare on Elm Street,35000000,"['Horror', 'Mystery', 'Thriller']",2010-04-30,115664037.0,5.5,771.0
-2592,Family,2019-02-08,friday,3.0,You Don't Mess with the Zohan,90000000,"['Comedy', 'Action']",2008-06-05,201596308.0,5.5,1068.0
-2752,Family,2019-03-26,tuesday,3.0,The Pacifier,56000000,"['Action', 'Comedy', 'Drama', 'Family', 'Thriller']",2005-03-04,113006880.0,5.8,865.0
-2912,Family,2018-04-08,sunday,3.0,Kindergarten Cop,15000000,['Comedy'],1990-12-21,201957688.0,5.8,643.0
-2976,Alone,2018-04-21,saturday,3.0,Big Momma's House,30000000,"['Crime', 'Comedy']",2000-05-31,173959438.0,5.6,514.0
-3072,Family,2018-05-13,sunday,3.0,Sisters,30000000,['Comedy'],2015-12-18,105011053.0,5.8,593.0
-3392,Family,2018-09-20,thursday,3.0,Identity Thief,35000000,"['Comedy', 'Crime']",2013-02-07,173965010.0,5.6,1667.0
-3424,Alone,2018-10-01,monday,3.0,The Dark Tower,60000000,"['Action', 'Western', 'Science Fiction', 'Fantasy', 'Horror']",2017-08-03,71000000.0,5.7,688.0
-3552,Family,2018-11-18,sunday,3.0,Broken City,56000000,"['Thriller', 'Crime', 'Drama']",2013-01-18,19701164.0,5.7,601.0
-3712,Family,2019-01-27,sunday,3.0,Terminator Salvation,200000000,"['Action', 'Science Fiction', 'Thriller']",2009-05-20,371353001.0,5.9,2496.0
-3872,Family,2019-03-31,sunday,3.0,I Know What You Did Last Summer,17000000,"['Horror', 'Thriller', 'Mystery']",1997-10-17,125586134.0,5.6,698.0
-3936,Alone,2019-04-29,monday,3.0,Ghost in the Shell,110000000,"['Action', 'Science Fiction', 'Thriller']",2017-03-29,169801921.0,5.9,2547.0
-4032,Family,2018-10-28,sunday,3.0,Fun with Dick and Jane,100000000,['Comedy'],2005-12-21,202026112.0,5.9,639.0
-4192,Family,2019-03-02,saturday,3.0,What to Expect When You're Expecting,40000000,"['Romance', 'Comedy', 'Drama']",2012-05-17,79700000.0,5.8,611.0
-4352,Family,2018-04-08,sunday,3.0,The Last Stand,30000000,"['Action', 'Crime', 'Thriller']",2013-01-12,0.0,5.7,1282.0
-4512,Family,2018-04-11,wednesday,3.0,The Grudge,10000000,"['Horror', 'Mystery', 'Thriller']",2004-10-22,183474602.0,5.8,889.0
-4672,Family,2018-07-19,thursday,3.0,National Lampoon’s Van Wilder,5000000,"['Comedy', 'Romance']",2002-03-29,38275483.0,5.9,867.0
-4992,Family,2019-02-28,thursday,3.0,Friday the 13th,19000000,['Horror'],2009-02-11,91379051.0,5.7,566.0
-5152,Family,2019-02-05,tuesday,3.0,The Legend of Tarzan,180000000,"['Action', 'Adventure']",2016-06-29,356743061.0,5.5,2488.0
-5312,Family,2018-05-04,friday,3.0,Snow White and the Huntsman,170000000,"['Adventure', 'Fantasy', 'Drama']",2012-05-30,396600000.0,5.8,3183.0
-5472,Family,2018-09-06,thursday,3.0,xXx: Return of Xander Cage,85000000,"['Action', 'Adventure', 'Crime']",2017-01-13,346147658.0,5.5,1497.0
-5632,Family,2018-05-14,monday,3.0,Jumper,85000000,"['Adventure', 'Fantasy', 'Science Fiction']",2008-02-10,222231186.0,5.9,1855.0
-5728,Alone,2018-05-11,friday,3.0,Transformers: Age of Extinction,210000000,"['Science Fiction', 'Action', 'Adventure']",2014-06-25,1091405097.0,5.8,3136.0
-5792,Family,2018-10-12,friday,3.0,Lara Croft: Tomb Raider,115000000,"['Adventure', 'Fantasy', 'Action', 'Thriller']",2001-06-11,274703340.0,5.7,2235.0
-5952,Family,2018-12-29,saturday,3.0,This Means War,65000000,"['Action', 'Comedy', 'Romance']",2012-02-14,156974557.0,5.9,1411.0
-6112,Family,2018-07-11,wednesday,3.0,Just My Luck,28000000,"['Comedy', 'Drama', 'Family', 'Fantasy', 'Romance']",2006-05-12,38159905.0,5.8,512.0
-6144,with gf,2018-10-23,tuesday,3.0,The X Files: I Want to Believe,30000000,"['Drama', 'Mystery', 'Science Fiction', 'Thriller']",2008-07-24,68369434.0,5.5,534.0
-6208,Alone,2018-04-15,sunday,3.0,The SpongeBob Movie: Sponge Out of Water,74000000,"['Animation', 'Adventure', 'Comedy', 'Family']",2015-02-05,311594032.0,5.7,733.0
-6272,Family,2018-08-08,wednesday,3.0,Anger Management,75000000,['Comedy'],2003-04-11,195745823.0,5.9,937.0
-6592,Family,2019-05-07,tuesday,3.0,The Lone Ranger,255000000,"['Action', 'Adventure', 'Western']",2013-07-03,89289910.0,5.9,2361.0
-6688,Alone,2018-08-19,sunday,3.0,Coyote Ugly,45000000,"['Comedy', 'Drama', 'Music', 'Romance']",2000-07-30,113916474.0,5.8,590.0
-6752,Family,2018-12-28,friday,3.0,Terminator 3: Rise of the Machines,200000000,"['Action', 'Thriller', 'Science Fiction']",2003-07-02,435000000.0,5.9,2177.0
-6912,Family,2018-11-22,thursday,3.0,The Golden Compass,180000000,"['Adventure', 'Fantasy']",2007-12-04,372234864.0,5.8,1347.0
-7072,Family,2018-08-24,friday,3.0,Brick Mansions,28000000,"['Action', 'Crime', 'Drama']",2014-04-22,68896829.0,5.7,628.0
-7232,Family,2018-10-16,tuesday,3.0,The Twilight Saga: Eclipse,68000000,"['Adventure', 'Fantasy', 'Drama', 'Romance']",2010-06-23,698491347.0,5.9,2382.0
-7392,Family,2018-12-25,tuesday,3.0,Jason Bourne,120000000,"['Action', 'Thriller']",2016-07-27,415484914.0,5.9,2386.0
-7456,with gf,2018-11-18,sunday,3.0,The Men Who Stare at Goats,24000000,"['Comedy', 'War']",2009-10-17,68729358.0,5.9,755.0
-7552,Family,2019-02-01,friday,3.0,Beastly,17000000,"['Drama', 'Fantasy', 'Romance']",2011-01-21,43165571.0,5.9,878.0
-7712,Family,2018-04-13,friday,3.0,She's Out of My League,20000000,"['Comedy', 'Romance']",2010-03-11,49779728.0,5.9,544.0
-7872,Family,2018-11-20,tuesday,3.0,Teenage Mutant Ninja Turtles: Out of the Shadows,135000000,"['Fantasy', 'Action', 'Adventure', 'Comedy']",2016-06-01,245623848.0,5.8,984.0
-7936,with gf,2018-06-13,wednesday,3.0,LOL,11000000,"['Drama', 'Comedy', 'Romance']",2012-02-10,0.0,5.8,905.0
-8192,Family,2018-05-12,saturday,3.0,Wall Street: Money Never Sleeps,70000000,"['Drama', 'Crime']",2010-09-02,134748021.0,5.8,504.0
-8352,Family,2019-04-07,sunday,3.0,Alien: Covenant,97000000,"['Horror', 'Science Fiction', 'Thriller']",2017-05-09,232380243.0,5.7,2677.0
-8512,Family,2019-04-22,monday,3.0,Chloe,15000000,"['Drama', 'Thriller', 'Mystery']",2009-03-25,8459458.0,5.9,514.0
-8608,Alone,2019-04-10,wednesday,3.0,The Twilight Saga: Breaking Dawn - Part 1,110000000,"['Adventure', 'Fantasy', 'Romance']",2011-03-15,712171856.0,5.8,2622.0
-8672,Family,2019-04-06,saturday,3.0,Mr. Popper's Penguins,55000000,"['Comedy', 'Family']",2011-06-17,187361754.0,5.7,775.0
-8704,Alone,2018-07-14,saturday,3.0,Planet of the Apes,100000000,"['Thriller', 'Science Fiction', 'Action', 'Adventure']",2001-07-25,362211740.0,5.6,1270.0
-8832,Family,2018-12-09,sunday,3.0,Keeping Up with the Joneses,40000000,"['Action', 'Comedy']",2016-10-20,29918745.0,5.9,608.0
-8928,Alone,2019-02-20,wednesday,3.0,The Monuments Men,70000000,"['War', 'Drama', 'History', 'Action']",2014-01-24,154984035.0,5.8,1545.0
-1,,,,,Jumanji,65000000,"['Adventure', 'Fantasy', 'Family']",1995-12-15,262797249.0,6.9,2413.0
-9,,,,,GoldenEye,58000000,"['Adventure', 'Action', 'Thriller']",1995-11-16,352194034.0,6.6,1194.0
-17,,,,,Four Rooms,4000000,"['Crime', 'Comedy']",1995-12-09,4300000.0,6.5,539.0
-38,,,,,Clueless,12000000,"['Comedy', 'Drama', 'Romance']",1995-07-19,0.0,6.9,828.0
-47,,,,,Pocahontas,55000000,"['Adventure', 'Animation', 'Drama', 'Family']",1995-06-14,346079773.0,6.7,1509.0
-69,,,,,From Dusk Till Dawn,19000000,"['Horror', 'Action', 'Thriller', 'Crime']",1996-01-19,25836616.0,6.9,1644.0
-102,,,,,Happy Gilmore,12000000,['Comedy'],1996-02-16,41205099.0,6.5,767.0
-142,,,,,Bad Boys,19000000,"['Action', 'Comedy', 'Crime', 'Thriller']",1995-04-07,141407024.0,6.5,1729.0
-160,,,,,Desperado,7000000,"['Thriller', 'Action', 'Crime']",1995-08-25,25405445.0,6.8,898.0
-162,,,,,Die Hard: With a Vengeance,90000000,"['Action', 'Thriller']",1995-05-19,366101666.0,6.9,2094.0
-227,,,,,Dumb and Dumber,16000000,['Comedy'],1994-12-16,247275374.0,6.5,1894.0
-284,,,,,Natural Born Killers,34000000,"['Crime', 'Thriller', 'Drama']",1994-08-25,50282766.0,6.9,927.0
-312,,,,,Stargate,55000000,"['Action', 'Adventure', 'Science Fiction']",1994-10-27,196567262.0,6.8,942.0
-352,,,,,Four Weddings and a Funeral,6000000,"['Comedy', 'Drama', 'Romance']",1994-03-09,254700832.0,6.6,654.0
-362,,,,,The Mask,23000000,"['Romance', 'Comedy', 'Crime', 'Fantasy']",1994-07-29,351583407.0,6.6,2550.0
-372,,,,,Speed,30000000,"['Action', 'Adventure', 'Crime']",1994-06-09,350448145.0,6.8,1814.0
-375,,,,,True Lies,115000000,"['Action', 'Thriller']",1994-07-14,378882411.0,6.8,1138.0
-449,,,,,The Firm,42000000,"['Drama', 'Mystery', 'Thriller']",1993-06-30,270248367.0,6.6,513.0
-534,,,,,Sleepless in Seattle,21000000,"['Comedy', 'Drama', 'Romance']",1993-06-24,227799884.0,6.5,630.0
-580,,,,,Ghost,22000000,"['Fantasy', 'Drama', 'Thriller', 'Mystery', 'Romance']",1990-07-12,505000000.0,6.9,1381.0
-587,,,,,Snow White and the Seven Dwarfs,1488423,"['Fantasy', 'Animation', 'Family']",1937-12-20,184925486.0,6.9,1973.0
-589,,,,,Pinocchio,2600000,"['Animation', 'Family']",1940-02-23,84300000.0,6.9,1412.0
-638,,,,,Mission: Impossible,80000000,"['Adventure', 'Action', 'Thriller']",1996-05-22,457696359.0,6.7,2677.0
-662,,,,,Space Jam,80000000,"['Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",1996-11-15,250200000.0,6.5,1335.0
-716,,,,,The Rock,75000000,"['Action', 'Adventure', 'Thriller']",1996-06-06,335062621.0,6.9,1474.0
-760,,,,,Independence Day,75000000,"['Action', 'Adventure', 'Science Fiction']",1996-06-25,816969268.0,6.7,3334.0
-763,,,,,The Hunchback of Notre Dame,100000000,"['Drama', 'Animation', 'Family']",1996-06-21,100138851.0,6.8,1182.0
-813,,,,,Matilda,36000000,"['Comedy', 'Family', 'Fantasy']",1996-08-02,33459416.0,6.9,892.0
-991,,,,,Cool Runnings,14000000,['Comedy'],1993-09-30,154864401.0,6.8,510.0
-993,,,,,Cinderella,2900000,"['Family', 'Fantasy', 'Animation', 'Romance']",1950-03-04,263591415.0,6.8,1760.0
-996,,,,,The Sword in the Stone,3000000,"['Animation', 'Family']",1963-12-25,22182353.0,6.9,935.0
-998,,,,,Robin Hood: Prince of Thieves,48000000,['Adventure'],1991-06-14,390493908.0,6.6,937.0
-1000,,,,,Dumbo,812000,"['Animation', 'Family']",1941-10-22,1600000.0,6.8,1206.0
-1029,,,,,Romeo + Juliet,14500000,"['Drama', 'Romance']",1996-10-31,147298761.0,6.7,1406.0
-1060,,,,,Basic Instinct,49000000,"['Thriller', 'Mystery']",1992-03-20,352927224.0,6.5,869.0
-1069,,,,,Top Gun,15000000,"['Action', 'Romance', 'War']",1986-05-16,356830601.0,6.7,1736.0
-1094,,,,,Escape from New York,6000000,"['Science Fiction', 'Action']",1981-05-22,50244700.0,6.9,720.0
-1230,,,,,Highlander,16000000,"['Adventure', 'Action', 'Fantasy']",1986-03-07,5900000.0,6.8,642.0
-1321,,,,,Die Hard 2,70000000,"['Action', 'Thriller']",1990-07-02,240031094.0,6.6,1920.0
-1328,,,,,Batman Returns,80000000,"['Action', 'Fantasy']",1992-06-19,280000000.0,6.6,1706.0
-1344,,,,,Jerry Maguire,50000000,"['Comedy', 'Drama', 'Romance']",1996-12-06,273552592.0,6.7,941.0
-1451,,,,,Austin Powers: International Man of Mystery,16500000,"['Science Fiction', 'Comedy', 'Crime']",1997-05-02,67683989.0,6.5,1033.0
-1482,,,,,Con Air,75000000,"['Action', 'Thriller', 'Crime']",1997-06-01,224012234.0,6.5,1289.0
-1502,,,,,Face/Off,80000000,"['Action', 'Crime', 'Science Fiction', 'Thriller']",1997-06-27,245676146.0,6.8,1612.0
-1508,,,,,Men in Black,90000000,"['Action', 'Adventure', 'Comedy', 'Science Fiction']",1997-07-02,589390539.0,6.9,4521.0
-1515,,,,,Conan the Barbarian,20000000,"['Adventure', 'Fantasy', 'Action']",1982-04-02,79114085.0,6.6,663.0
-1598,,,,,Starship Troopers,105000000,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",1997-11-06,121214377.0,6.7,1584.0
-1683,,,,,The Wedding Singer,18000000,"['Romance', 'Comedy']",1998-02-13,123306987.0,6.5,603.0
-1728,,,,,City of Angels,55000000,"['Drama', 'Fantasy', 'Romance']",1998-04-10,198685114.0,6.5,537.0
-1808,,,,,Armageddon,140000000,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",1998-07-01,553799566.0,6.5,2540.0
-1814,,,,,There's Something About Mary,23000000,"['Romance', 'Comedy']",1998-07-15,369884651.0,6.5,1616.0
-1892,,,,,Lethal Weapon 2,25000000,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",1989-07-07,227853986.0,6.7,1066.0
-1894,,,,,Gremlins,11000000,"['Fantasy', 'Horror', 'Comedy']",1984-06-07,153083102.0,6.9,1629.0
-1909,,,,,Bambi,858000,"['Animation', 'Drama', 'Family']",1942-08-14,267447150.0,6.8,1450.0
-1912,,,,,Dune,40000000,"['Action', 'Science Fiction', 'Adventure']",1984-12-14,30925690.0,6.5,576.0
-1949,,,,,The Negotiator,50000000,"['Action', 'Adventure', 'Crime', 'Drama', 'Mystery']",1998-07-29,44547681.0,6.8,593.0
-1976,,,,,One Hundred and One Dalmatians,4000000,"['Adventure', 'Animation', 'Comedy', 'Family']",1961-01-25,215880014.0,6.8,1643.0
-1981,,,,,The Rescuers,1200000,"['Fantasy', 'Family', 'Animation', 'Adventure']",1977-06-22,71215869.0,6.7,609.0
-1987,,,,,Sleeping Beauty,6000000,"['Fantasy', 'Animation', 'Romance', 'Family']",1959-01-28,51000000.0,6.8,1332.0
-1996,,,,,Tron,17000000,"['Science Fiction', 'Action', 'Adventure']",1982-07-09,33000000.0,6.6,717.0
-2015,,,,,The Addams Family,30000000,"['Horror', 'Comedy', 'Fantasy']",1991-11-22,191502426.0,6.7,871.0
-2058,,,,,Blade,45000000,"['Horror', 'Action']",1998-08-21,131183530.0,6.5,1950.0
-2121,,,,,Cube,250000,"['Thriller', 'Science Fiction', 'Mystery']",1997-09-09,501818.0,6.9,1101.0
-2160,,,,,Rush Hour,33000000,"['Action', 'Comedy', 'Crime', 'Thriller']",1998-09-18,244386864.0,6.8,1254.0
-2165,,,,,Ronin,55000000,"['Action', 'Thriller', 'Crime', 'Adventure']",1998-09-25,41610884.0,6.8,670.0
-2184,,,,,What Dreams May Come,85000000,"['Drama', 'Fantasy', 'Romance']",1998-10-02,71485043.0,6.8,596.0
-2227,,,,,Meet Joe Black,90000000,"['Fantasy', 'Drama', 'Mystery']",1998-11-12,142940100.0,6.9,1174.0
-2240,,,,,Enemy of the State,90000000,"['Action', 'Drama', 'Thriller']",1998-11-20,250649836.0,6.7,1266.0
-2242,,,,,A Bug's Life,120000000,"['Adventure', 'Animation', 'Comedy', 'Family']",1998-11-25,363258859.0,6.8,2379.0
-2265,,,,,Police Academy,4500000,"['Comedy', 'Crime']",1984-03-22,146198896.0,6.5,614.0
-2281,,,,,The Prince of Egypt,70000000,"['Adventure', 'Animation', 'Drama', 'Family', 'Music']",1998-12-15,218613188.0,6.9,847.0
-2283,,,,,Shakespeare in Love,25000000,"['Romance', 'History']",1998-12-11,289317794.0,6.8,831.0
-2296,,,,,Rocky II,7000000,['Drama'],1979-06-15,200182160.0,6.9,948.0
-2297,,,,,Rocky III,17000000,['Drama'],1982-05-28,270000000.0,6.6,894.0
-2298,,,,,Rocky IV,31000000,['Drama'],1985-11-21,300473716.0,6.6,984.0
-2307,,,,,The Karate Kid,8000000,['Drama'],1984-06-22,90815558.0,6.9,913.0
-2377,,,,,Payback,90000000,"['Drama', 'Action', 'Thriller', 'Crime']",1999-02-05,161626121.0,6.7,557.0
-2428,,,,,Cruel Intentions,10500000,"['Drama', 'Romance', 'Thriller']",1999-03-05,75902208.0,6.6,848.0
-2503,,,,,The Mummy,80000000,"['Adventure', 'Action', 'Fantasy']",1999-04-16,415885488.0,6.6,2796.0
-2526,,,,,Superman,55000000,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",1978-12-13,300218018.0,6.9,1042.0
-2527,,,,,Superman II,54000000,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",1980-12-04,190458706.0,6.5,642.0
-2682,,,,,Big,18000000,"['Fantasy', 'Drama', 'Comedy', 'Romance', 'Family']",1988-06-03,151668774.0,6.9,1022.0
-2774,,,,,Three Kings,75000000,"['Action', 'Adventure', 'Comedy']",1999-09-27,108000000.0,6.6,709.0
-2832,,,,,From Russia with Love,2000000,"['Action', 'Thriller', 'Adventure']",1963-10-11,78898765.0,6.9,773.0
-2833,,,,,Dr. No,950000,"['Adventure', 'Action', 'Thriller']",1962-10-04,59600000.0,6.9,953.0
-2877,,,,,Thunderball,5500000,"['Adventure', 'Action', 'Thriller']",1965-12-16,141195658.0,6.5,572.0
-2889,,,,,The Bone Collector,73000000,"['Drama', 'Mystery', 'Thriller', 'Crime']",1999-11-04,151493655.0,6.5,843.0
-2916,,,,,Spaceballs,22700000,"['Comedy', 'Science Fiction']",1987-06-24,38119483.0,6.7,924.0
-2935,,,,,Dogma,10000000,"['Fantasy', 'Comedy', 'Adventure']",1999-11-12,30652890.0,6.8,842.0
-2964,,,,,Sleepy Hollow,100000000,"['Drama', 'Fantasy', 'Thriller', 'Mystery']",1999-11-18,206071502.0,6.9,1774.0
-3039,,,,,Bicentennial Man,100000000,"['Comedy', 'Science Fiction']",1999-12-17,93700000.0,6.9,998.0
-3058,,,,,Galaxy Quest,45000000,"['Comedy', 'Family', 'Science Fiction']",1999-12-23,90683916.0,6.9,722.0
-3129,,,,,Sister Act,31000000,"['Music', 'Comedy']",1992-05-28,231605150.0,6.5,713.0
-3135,,,,,Wayne's World,20000000,"['Music', 'Comedy']",1992-02-14,121697323.0,6.5,738.0
-3182,,,,,Pitch Black,23000000,"['Thriller', 'Science Fiction', 'Action']",2000-02-18,53187659.0,6.7,1812.0
-3368,,,,,Hook,70000000,"['Adventure', 'Fantasy', 'Comedy', 'Family']",1991-12-11,300854823.0,6.7,1563.0
-3513,,,,,The Spy Who Loved Me,14000000,"['Adventure', 'Action', 'Thriller']",1977-07-07,185438673.0,6.6,515.0
-3580,,,,,Mad Max,400000,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",1979-04-12,100000000.0,6.6,1235.0
-3629,,,,,Chicken Run,45000000,"['Animation', 'Comedy', 'Family']",2000-06-21,224834564.0,6.5,1190.0
-3631,,,,,The Patriot,110000000,"['Drama', 'History', 'War', 'Action']",2000-06-28,215294342.0,6.8,1130.0
-3671,,,,,X-Men,75000000,"['Adventure', 'Action', 'Science Fiction']",2000-07-13,296339527.0,6.8,4172.0
-3745,,,,,The Naked Gun 2½: The Smell of Fear,23000000,"['Comedy', 'Crime']",1991-06-28,86930411.0,6.6,556.0
-3823,,,,,Meet the Parents,55000000,"['Comedy', 'Romance']",2000-10-06,330444045.0,6.6,1743.0
-3869,,,,,Unbreakable,75000000,"['Science Fiction', 'Thriller', 'Drama']",2000-11-13,248118121.0,6.9,1994.0
-3889,,,,,Chocolat,25000000,"['Comedy', 'Drama', 'Romance']",2000-12-14,152500343.0,6.8,979.0
-3898,,,,,The Family Man,60000000,"['Comedy', 'Drama', 'Romance', 'Fantasy']",2000-12-12,0.0,6.5,530.0
-3909,,,,,Traffic,48000000,"['Thriller', 'Drama', 'Crime']",2000-12-27,207515725.0,6.9,573.0
-3959,,,,,Beverly Hills Cop,15000000,"['Action', 'Comedy', 'Crime']",1984-11-29,316360478.0,6.8,985.0
-4002,,,,,The Lost Boys,8500000,"['Horror', 'Comedy']",1987-07-31,32222567.0,6.8,545.0
-4119,,,,,Bridget Jones's Diary,25000000,"['Comedy', 'Romance', 'Drama']",2001-04-13,281929795.0,6.6,1397.0
-4171,,,,,A Knight's Tale,65000000,"['Adventure', 'Drama', 'Romance', 'Action']",2001-05-11,117487473.0,6.6,933.0
-4182,,,,,Pearl Harbor,140000000,"['History', 'Romance', 'War']",2001-05-21,449220945.0,6.6,1833.0
-4223,,,,,Point Break,24000000,"['Action', 'Thriller', 'Crime']",1991-07-12,83531958.0,6.9,861.0
-4238,,,,,Atlantis: The Lost Empire,120000000,"['Animation', 'Family', 'Adventure', 'Science Fiction']",2001-06-02,186053725.0,6.7,1257.0
-4241,,,,,The Fast and the Furious,38000000,"['Action', 'Crime', 'Thriller']",2001-06-22,207283925.0,6.6,3485.0
-4242,,,,,A.I. Artificial Intelligence,100000000,"['Drama', 'Science Fiction', 'Adventure']",2001-06-29,235926552.0,6.8,2011.0
-4361,,,,,Coming to America,39000000,"['Comedy', 'Romance']",1988-06-28,288752301.0,6.5,944.0
-4571,,,,,The Princess Diaries,37000000,"['Comedy', 'Family', 'Romance']",2001-08-03,165335153.0,6.5,1063.0
-4693,,,,,Serendipity,28000000,"['Comedy', 'Romance']",2001-10-05,77516304.0,6.6,529.0
-4735,,,,,From Hell,35000000,"['Horror', 'Mystery', 'Thriller']",2001-10-19,74558115.0,6.6,758.0
-4771,,,,,Spy Game,92000000,"['Action', 'Crime', 'Thriller']",2001-11-18,143049560.0,6.8,592.0
-4845,,,,,Vanilla Sky,68000000,"['Drama', 'Mystery', 'Romance', 'Science Fiction', 'Thriller']",2001-12-10,203388341.0,6.5,1100.0
-5021,,,,,We Were Soldiers,75000000,"['Action', 'History', 'War']",2002-03-01,114660784.0,6.7,531.0
-5132,,,,,Panic Room,48000000,"['Crime', 'Drama', 'Thriller']",2002-03-29,196397415.0,6.6,1303.0
-5215,,,,,Spider-Man,139000000,"['Fantasy', 'Action']",2002-05-01,821708551.0,6.8,5398.0
-5243,,,,,About a Boy,27000000,"['Drama', 'Comedy', 'Romance']",2002-04-26,129000000.0,6.6,627.0
-5254,,,,,Insomnia,46000000,"['Crime', 'Mystery', 'Thriller']",2002-05-24,113714830.0,6.8,1181.0
-5439,,,,,The Transporter,21000000,"['Action', 'Crime', 'Thriller']",2002-10-02,43928932.0,6.6,1724.0
-5493,,,,,Red Dragon,78000000,"['Crime', 'Thriller', 'Horror']",2002-09-29,209196298.0,6.7,1142.0
-5536,,,,,Punch-Drunk Love,25000000,"['Comedy', 'Drama', 'Romance']",2002-10-25,17000000.0,6.9,542.0
-5542,,,,,The Ring,48000000,"['Horror', 'Mystery']",2002-10-18,249348933.0,6.5,1720.0
-5672,,,,,8 Mile,41000000,['Drama'],2002-11-08,215000000.0,6.8,1676.0
-5765,,,,,Equilibrium,20000000,"['Action', 'Science Fiction', 'Thriller']",2002-12-06,5359645.0,6.9,1584.0
-5853,,,,,Chicago,45000000,"['Action', 'Comedy', 'Crime', 'Drama', 'Music']",2002-12-26,306776732.0,6.9,695.0
-6050,,,,,Old School,24000000,['Comedy'],2003-02-21,87055349.0,6.6,552.0
-6143,,,,,Phone Booth,13000000,"['Thriller', 'Drama']",2002-09-09,97837138.0,6.7,1087.0
-6195,,,,,X2,110000000,"['Adventure', 'Action', 'Science Fiction', 'Thriller']",2003-04-24,407711549.0,6.8,3572.0
-6221,,,,,The Matrix Reloaded,150000000,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",2003-05-15,738599701.0,6.7,3500.0
-6233,,,,,The Italian Job,60000000,"['Action', 'Crime']",2003-05-30,176070171.0,6.6,1949.0
-6510,,,,,Tremors,11000000,"['Action', 'Horror']",1990-01-19,48572000.0,6.6,882.0
-6559,,,,,Matchstick Men,62000000,"['Comedy', 'Drama', 'Crime', 'Thriller']",2003-09-01,65565672.0,6.9,515.0
-6605,,,,,Underworld,22000000,"['Fantasy', 'Action', 'Thriller']",2003-09-19,95708457.0,6.6,2556.0
-6714,,,,,School of Rock,35000000,"['Comedy', 'Music']",2003-10-03,131282949.0,6.8,1454.0
-6740,,,,,Brother Bear,100000000,"['Adventure', 'Animation', 'Family']",2003-10-23,0.0,6.9,1410.0
-6796,,,,,Master and Commander: The Far Side of the World,150000000,['Adventure'],2003-11-14,212011111.0,6.9,808.0
-6855,,,,,The Last Boy Scout,29000000,"['Action', 'Thriller']",1991-12-11,59509925.0,6.5,502.0
-7009,,,,,Cold Mountain,79000000,['Drama'],2003-12-24,173013509.0,6.7,545.0
-7011,,,,,Peter Pan,100000000,"['Adventure', 'Fantasy', 'Family']",2003-12-25,121975011.0,6.9,671.0
-7140,,,,,50 First Dates,75000000,"['Comedy', 'Romance']",2004-02-13,196482882.0,6.6,2161.0
-7164,,,,,EuroTrip,25000000,['Comedy'],2004-02-20,20796847.0,6.5,673.0
-7165,,,,,The Passion of the Christ,30000000,['Drama'],2004-02-25,611899420.0,6.9,888.0
-7207,,,,,Dawn of the Dead,28000000,"['Fantasy', 'Horror', 'Action']",2004-03-19,102356381.0,6.8,1039.0
-7220,,,,,Hellboy,66000000,"['Fantasy', 'Action', 'Science Fiction']",2004-04-02,99318987.0,6.5,2278.0
-7284,,,,,Mean Girls,17000000,['Comedy'],2004-04-30,129042871.0,6.9,2401.0
-7291,,,,,Troy,175000000,"['Adventure', 'Drama', 'War']",2004-05-13,497409852.0,6.9,2841.0
-7329,,,,,You Only Live Twice,9500000,"['Action', 'Thriller', 'Adventure']",1967-06-12,111584787.0,6.5,541.0
-7717,,,,,Shrek 2,150000000,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",2004-05-19,919838758.0,6.7,3082.0
-7733,,,,,Napoleon Dynamite,400000,['Comedy'],2004-06-11,46118097.0,6.7,567.0
-7788,,,,,Super Size Me,65000,"['Documentary', 'Comedy', 'Drama']",2004-01-17,28575078.0,6.6,520.0
-7909,,,,,Spider-Man 2,200000000,"['Action', 'Adventure', 'Fantasy']",2004-06-25,783766341.0,6.7,4432.0
-7914,,,,,Anchorman: The Legend of Ron Burgundy,26000000,['Comedy'],2004-07-09,90574188.0,6.7,1523.0
-7917,,,,,"I, Robot",120000000,"['Action', 'Science Fiction']",2004-07-15,347234916.0,6.7,3889.0
-8080,,,,,Harold & Kumar Go to White Castle,9000000,"['Comedy', 'Adventure']",2004-05-30,23936908.0,6.6,709.0
-8187,,,,,Primer,7000,"['Science Fiction', 'Drama', 'Thriller']",2004-10-08,424760.0,6.9,671.0
-8190,,,,,Team America: World Police,32000000,"['Music', 'Adventure', 'Animation', 'Action', 'Comedy']",2004-10-10,50907422.0,6.6,667.0
-8247,,,,,The SpongeBob SquarePants Movie,30000000,"['Animation', 'Comedy', 'Family']",2004-11-14,140161792.0,6.7,593.0
-8254,,,,,Closer,27000000,"['Drama', 'Romance']",2004-12-01,115505027.0,6.7,845.0
-9392,,,,,Lemony Snicket's A Series of Unfortunate Events,140000000,"['Adventure', 'Comedy', 'Family']",2004-12-16,209073645.0,6.7,1521.0
-9510,,,,,A Scanner Darkly,8700000,"['Animation', 'Science Fiction', 'Thriller']",2006-05-25,7659918.0,6.8,540.0
-9536,,,,,Charlie and the Chocolate Factory,150000000,"['Adventure', 'Comedy', 'Family', 'Fantasy']",2005-07-13,474968763.0,6.7,3759.0
-9709,,,,,Constantine,100000000,"['Drama', 'Fantasy', 'Horror']",2005-02-08,230884728.0,6.6,1837.0
-9977,,,,,The Hitchhiker's Guide to the Galaxy,50000000,"['Adventure', 'Comedy', 'Family', 'Science Fiction']",2005-01-15,104478416.0,6.6,1340.0
-10012,,,,,Kingdom of Heaven,130000000,"['Drama', 'Action', 'Adventure', 'History', 'War']",2005-05-03,211643158.0,6.6,1187.0
-10061,,,,,Unleashed,45000000,"['Action', 'Crime']",2005-02-02,50871113.0,6.6,531.0
-10089,,,,,Madagascar,75000000,"['Family', 'Animation']",2005-05-25,532680671.0,6.6,3322.0
-10104,,,,,Mr. & Mrs. Smith,110000000,"['Action', 'Comedy', 'Drama', 'Thriller']",2005-06-07,478207520.0,6.5,3048.0
-10221,,,,,The Island,126000000,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",2005-07-20,162949164.0,6.5,1813.0
-10263,,,,,Four Brothers,45000000,"['Action', 'Crime']",2005-08-11,92374674.0,6.7,617.0
-10334,,,,,Just Like Heaven,58000000,"['Comedy', 'Fantasy', 'Romance']",2005-09-16,102854431.0,6.5,595.0
-10387,,,,,A History of Violence,32000000,"['Drama', 'Thriller', 'Crime']",2005-09-23,60740827.0,6.9,850.0
-10411,,,,,The Curse of the Were-Rabbit,30000000,"['Adventure', 'Animation', 'Comedy', 'Family']",2005-09-04,192452832.0,6.8,660.0
-10517,,,,,Jarhead,72000000,"['Drama', 'War']",2005-11-04,96889998.0,6.6,776.0
-10597,,,,,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",180000000,"['Adventure', 'Family', 'Fantasy']",2005-12-07,748806957.0,6.7,2709.0
-10598,,,,,King Kong,207000000,"['Adventure', 'Drama', 'Action']",2005-12-14,550000000.0,6.6,2403.0
-10700,,,,,District B13,12000000,"['Action', 'Thriller', 'Science Fiction']",2004-11-09,9584131.0,6.5,572.0
-10808,,,,,Eight Below,40000000,"['Adventure', 'Drama', 'Family']",2006-02-17,120455994.0,6.7,553.0
-10826,,,,,Ice Age: The Meltdown,80000000,"['Animation', 'Family', 'Comedy', 'Adventure']",2006-03-23,660940780.0,6.5,3034.0
-10928,,,,,Hard Candy,950000,"['Drama', 'Thriller']",2005-01-14,7022209.0,6.8,726.0
-10952,,,,,Mission: Impossible III,150000000,"['Adventure', 'Action', 'Thriller']",2006-05-03,397850012.0,6.5,2062.0
-10972,,,,,The Da Vinci Code,125000000,"['Thriller', 'Mystery']",2006-05-17,767820459.0,6.5,2773.0
-10979,,,,,Cars,120000000,"['Animation', 'Adventure', 'Comedy', 'Family']",2006-06-08,461983149.0,6.6,3991.0
-11001,,,,,The Lake House,40000000,"['Romance', 'Drama', 'Mystery']",2006-06-16,114830111.0,6.5,689.0
-11019,,,,,Marie Antoinette,40000000,"['Drama', 'History']",2006-05-24,60474340.0,6.5,662.0
-11087,,,,,Babel,25000000,['Drama'],2006-09-08,135330182.0,6.9,1083.0
-11152,,,,,Crank,12000000,"['Action', 'Thriller', 'Crime']",2006-08-31,42931041.0,6.6,1172.0
-11170,,,,,Step Up,12000000,"['Music', 'Drama', 'Romance', 'Crime']",2006-08-11,114194847.0,6.7,1092.0
-11263,,,,,The Fountain,35000000,"['Drama', 'Adventure', 'Science Fiction', 'Romance']",2006-09-06,15304890.0,6.8,852.0
-11306,,,,,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,18000000,['Comedy'],2006-11-01,261572744.0,6.5,1617.0
-11355,,,,,Flags of Our Fathers,90000000,"['War', 'Drama', 'History']",2006-10-18,65900249.0,6.7,532.0
-11407,,,,,Déjà Vu,75000000,"['Action', 'Thriller', 'Science Fiction']",2006-11-22,180557550.0,6.6,1519.0
-11411,,,,,The Holiday,85000000,"['Comedy', 'Romance']",2006-12-08,194168700.0,6.7,1259.0
-11446,,,,,Rocky Balboa,24000000,['Drama'],2006-12-20,155721132.0,6.5,858.0
-11670,,,,,The Host,11000000,"['Horror', 'Drama', 'Science Fiction']",2006-07-27,88489643.0,6.7,546.0
-11692,,,,,Shooter,61000000,"['Action', 'Drama', 'Mystery', 'Thriller', 'Crime']",2007-03-22,95696996.0,6.9,1495.0
-11727,,,,,Meet the Robinsons,150000000,"['Animation', 'Comedy', 'Family']",2007-03-23,169332978.0,6.7,787.0
-11746,,,,,Disturbia,20000000,"['Thriller', 'Drama', 'Mystery']",2007-04-12,117760134.0,6.6,1038.0
-11812,,,,,Hairspray,50000000,"['Family', 'Comedy', 'Music', 'Romance']",2007-07-13,90450008.0,6.5,738.0
-11815,,,,,28 Weeks Later,15000000,"['Horror', 'Thriller', 'Science Fiction']",2007-04-26,64238440.0,6.5,1225.0
-11827,,,,,Pirates of the Caribbean: At World's End,300000000,"['Adventure', 'Fantasy', 'Action']",2007-05-19,961000000.0,6.9,4627.0
-11829,,,,,Mr. Brooks,20000000,"['Drama', 'Crime', 'Mystery', 'Thriller']",2007-06-01,41637263.0,6.8,543.0
-11845,,,,,Ocean's Thirteen,85000000,"['Crime', 'Thriller']",2007-06-07,311312624.0,6.5,2040.0
-11869,,,,,Death Proof,25000000,"['Action', 'Thriller']",2007-05-21,25037897.0,6.7,1359.0
-11917,,,,,1408,25000000,"['Horror', 'Thriller']",2007-07-12,94679598.0,6.5,1372.0
-11918,,,,,Death at a Funeral,9000000,"['Comedy', 'Drama']",2007-02-09,46.0,6.9,508.0
-11925,,,,,Transformers,150000000,"['Adventure', 'Science Fiction', 'Action']",2007-06-27,709709780.0,6.6,4113.0
-11959,,,,,The Simpsons Movie,75000000,"['Animation', 'Comedy', 'Family']",2007-07-25,527068851.0,6.9,2335.0
-12009,,,,,The Kingdom,70000000,"['Thriller', 'Action', 'Drama']",2007-08-22,86658558.0,6.5,517.0
-12042,,,,,3:10 to Yuma,55000000,['Western'],2007-09-06,70016220.0,6.9,1210.0
-12094,,,,,Michael Clayton,25000000,"['Drama', 'Mystery', 'Crime']",2007-09-28,92991835.0,6.6,508.0
-12209,,,,,The Mist,18000000,"['Science Fiction', 'Horror', 'Thriller']",2007-11-21,57096190.0,6.7,1438.0
-12210,,,,,Enchanted,85000000,"['Comedy', 'Family', 'Fantasy', 'Romance']",2007-11-20,340487652.0,6.6,1512.0
-12217,,,,,I Am Legend,150000000,"['Drama', 'Horror', 'Action', 'Thriller', 'Science Fiction']",2007-12-14,585349010.0,6.9,4977.0
-12365,,,,,Hellboy II: The Golden Army,85000000,"['Adventure', 'Fantasy', 'Science Fiction']",2008-07-11,160388063.0,6.5,1555.0
-12417,,,,,Step Up 2: The Streets,23000000,"['Music', 'Drama', 'Romance']",2008-02-14,150816700.0,6.5,658.0
-12442,,,,,The Bank Job,20000000,"['Thriller', 'Crime', 'Drama']",2008-02-28,64822796.0,6.6,708.0
-12490,,,,,Never Back Down,20000000,"['Drama', 'Action']",2008-03-04,41627431.0,6.5,511.0
-12508,,,,,21,35000000,"['Drama', 'Crime']",2008-03-27,69823199.0,6.5,1406.0
-12648,,,,,Kung Fu Panda,130000000,"['Adventure', 'Animation', 'Family', 'Comedy']",2008-06-04,631744560.0,6.9,3231.0
-12770,,,,,Welcome to the Sticks,11000000,['Comedy'],2008-01-09,53191886.0,6.7,638.0
-12826,,,,,Step Brothers,65000000,['Comedy'],2008-07-25,128107642.0,6.5,1084.0
-12855,,,,,Vicky Cristina Barcelona,15000000,"['Drama', 'Romance']",2008-08-15,96408652.0,6.7,1050.0
-12866,,,,,Pineapple Express,27000000,"['Action', 'Comedy']",2008-08-06,101624843.0,6.6,1169.0
-12883,,,,,Tropic Thunder,92000000,"['Action', 'Comedy']",2008-08-09,188072649.0,6.5,1707.0
-12910,,,,,Burn After Reading,37000000,"['Comedy', 'Drama']",2008-09-05,163720069.0,6.5,1251.0
-13000,,,,,Body of Lies,70000000,"['Action', 'Drama', 'Thriller']",2008-10-10,113280098.0,6.5,919.0
-13042,,,,,RockNRolla,18000000,"['Action', 'Crime', 'Thriller']",2008-09-04,25739015.0,6.9,851.0
-13059,,,,,The Road,32000000,"['Adventure', 'Drama']",2009-11-25,27635305.0,6.8,1113.0
-13224,,,,,Valkyrie,75000000,"['Drama', 'Thriller', 'History', 'War']",2008-12-25,200276000.0,6.7,1195.0
-13245,,,,,Revolutionary Road,35000000,"['Drama', 'Romance']",2008-12-19,75225693.0,6.8,824.0
-13255,,,,,Defiance,32000000,"['Action', 'Drama', 'History', 'War']",2008-12-31,51155219.0,6.7,580.0
-13258,,,,,Marley & Me,60000000,"['Comedy', 'Family']",2008-12-25,244082376.0,6.9,1392.0
-13492,,,,,"I Love You, Man",41000000,['Comedy'],2009-03-20,91636986.0,6.5,531.0
-13581,,,,,Fast & Furious,85000000,"['Action', 'Crime', 'Drama', 'Thriller']",2009-04-02,363164265.0,6.5,2426.0
-13670,,,,,Angels & Demons,150000000,"['Thriller', 'Mystery']",2009-05-13,356613439.0,6.5,2183.0
-13798,,,,,The Proposal,40000000,"['Comedy', 'Romance', 'Drama']",2009-06-01,317375031.0,6.7,1858.0
-13847,,,,,Public Enemies,80000000,"['History', 'Crime', 'Drama']",2009-07-01,214104620.0,6.5,1371.0
-13848,,,,,Ice Age: Dawn of the Dinosaurs,90000000,"['Animation', 'Comedy', 'Family', 'Adventure']",2009-06-29,886686817.0,6.5,2330.0
-13948,,,,,Orphan,20000000,"['Horror', 'Thriller', 'Mystery']",2009-07-24,41596251.0,6.7,1296.0
-13967,,,,,Julie & Julia,40000000,"['Romance', 'Drama']",2009-08-06,129540499.0,6.6,579.0
-14024,,,,,The Time Traveler's Wife,39000000,"['Drama', 'Romance', 'Fantasy']",2009-08-14,101229792.0,6.7,815.0
-14052,,,,,Bronson,230000,"['Drama', 'Action', 'Crime']",2008-10-09,2260712.0,6.9,756.0
-14117,,,,,9,30000000,"['Action', 'Adventure', 'Animation', 'Science Fiction', 'Thriller']",2009-08-19,48428063.0,6.6,1291.0
-14134,,,,,Pandorum,33000000,"['Action', 'Horror', 'Mystery', 'Science Fiction', 'Thriller']",2009-09-08,20645327.0,6.5,783.0
-14167,,,,,Cloudy with a Chance of Meatballs,100000000,"['Animation', 'Comedy', 'Family']",2009-09-17,242988466.0,6.5,1799.0
-14334,,,,,Up in the Air,25000000,"['Drama', 'Romance']",2009-09-05,163670000.0,6.7,1246.0
-14394,,,,,A Christmas Carol,200000000,"['Animation', 'Drama']",2009-11-04,325233863.0,6.6,1137.0
-14452,,,,,Brothers,26000000,"['Drama', 'Thriller', 'War']",2009-01-27,43318349.0,6.8,650.0
-14493,,,,,The Lovely Bones,65000000,"['Fantasy', 'Drama']",2009-12-26,93525586.0,6.6,1101.0
-14496,,,,,The Princess and the Frog,105000000,"['Romance', 'Family', 'Animation', 'Music']",2009-12-08,267045765.0,6.7,1293.0
-14631,,,,,The Book of Eli,80000000,"['Action', 'Thriller', 'Science Fiction']",2010-01-14,157107755.0,6.6,2207.0
-14784,,,,,Triangle,12000000,['Horror'],2009-10-16,0.0,6.9,623.0
-14845,,,,,The Ghost Writer,45000000,"['Thriller', 'Mystery']",2010-02-12,60222298.0,6.7,681.0
-14873,,,,,Dear John,25000000,"['Drama', 'Romance', 'War']",2010-02-04,114977104.0,6.6,1302.0
-14915,,,,,Remember Me,16000000,"['Drama', 'Romance']",2010-03-12,56032889.0,6.9,980.0
-15153,,,,,Iron Man 2,200000000,"['Adventure', 'Action', 'Science Fiction']",2010-04-28,623933331.0,6.6,6969.0
-15241,,,,,Blue Valentine,3500000,"['Drama', 'Romance']",2010-12-27,16566240.0,6.9,911.0
-15257,,,,,Buried,1987650,"['Drama', 'Thriller', 'Mystery']",2010-09-24,19152480.0,6.6,853.0
-15310,,,,,Letters to Juliet,30000000,"['Comedy', 'Drama', 'Romance']",2010-05-14,0.0,6.6,823.0
-15357,,,,,Winter's Bone,2000000,['Drama'],2010-06-11,13831503.0,6.8,575.0
-15504,,,,,The Kids Are All Right,3500000,"['Comedy', 'Drama']",2010-07-09,34705850.0,6.5,512.0
-15579,,,,,Charlie St. Cloud,44000000,['Drama'],2010-05-01,48190704.0,6.8,589.0
-15736,,,,,Step Up 3D,30000000,"['Drama', 'Romance']",2010-08-04,159291809.0,6.6,595.0
-15814,,,,,Easy A,8000000,['Comedy'],2010-09-10,74952305.0,6.7,2282.0
-15834,,,,,Legend of the Guardians: The Owls of Ga'Hoole,80000000,"['Animation', 'Adventure', 'Family', 'Fantasy']",2010-07-10,140073390.0,6.5,715.0
-15851,,,,,It's Kind of a Funny Story,8000000,"['Comedy', 'Drama']",2010-07-06,6491240.0,6.9,691.0
-15889,,,,,Let Me In,20000000,"['Drama', 'Horror', 'Mystery']",2010-10-01,24145613.0,6.7,656.0
-15897,,,,,Life As We Know It,38000000,"['Comedy', 'Romance', 'Drama']",2010-10-02,105610124.0,6.6,873.0
-15922,,,,,Never Let Me Go,15000000,"['Drama', 'Romance', 'Science Fiction']",2010-09-15,9455232.0,6.8,755.0
-15989,,,,,RED,58000000,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",2010-10-13,71664962.0,6.6,2858.0
-16058,,,,,Megamind,130000000,"['Animation', 'Action', 'Comedy', 'Family', 'Science Fiction']",2010-10-28,321887208.0,6.7,1968.0
-16117,,,,,The Next Three Days,30000000,"['Romance', 'Drama', 'Thriller', 'Crime']",2010-11-18,51148651.0,6.9,927.0
-16209,,,,,Love & Other Drugs,30000000,"['Drama', 'Comedy', 'Romance']",2010-11-22,102820008.0,6.6,1268.0
-16379,,,,,Burlesque,55000000,"['Drama', 'Romance']",2010-11-23,89519773.0,6.9,581.0
-16670,,,,,Unknown,30000000,"['Action', 'Mystery', 'Thriller']",2011-02-16,130786397.0,6.5,1288.0
-16705,,,,,Paul,40000000,"['Adventure', 'Comedy', 'Science Fiction']",2011-02-14,97552050.0,6.5,1825.0
-16738,,,,,Rango,135000000,"['Animation', 'Comedy', 'Family', 'Western', 'Adventure']",2011-03-02,245724603.0,6.6,2094.0
-16742,,,,,The Adjustment Bureau,50200000,"['Science Fiction', 'Thriller', 'Romance']",2011-03-03,127869379.0,6.5,1677.0
-16832,,,,,Troll Hunter,3500000,"['Fantasy', 'Horror']",2010-10-29,4159678.0,6.7,590.0
-16884,,,,,Insidious,1500000,"['Horror', 'Thriller']",2010-09-13,97009150.0,6.8,1775.0
-16946,,,,,Hanna,30000000,"['Action', 'Thriller', 'Adventure']",2011-04-07,63782078.0,6.5,1284.0
-16964,,,,,Rio,90000000,"['Animation', 'Adventure', 'Comedy', 'Family']",2011-04-03,484635760.0,6.5,2213.0
-16974,,,,,Thor,150000000,"['Adventure', 'Fantasy', 'Action']",2011-04-21,449326618.0,6.6,6678.0
-17031,,,,,Water for Elephants,38000000,"['Drama', 'Romance']",2011-03-15,114156230.0,6.7,879.0
-17107,,,,,Bridesmaids,32500000,"['Comedy', 'Romance']",2011-04-28,288383523.0,6.5,1697.0
-17130,,,,,The Tree of Life,32000000,"['Drama', 'Fantasy']",2011-05-18,54674226.0,6.5,1009.0
-17213,,,,,Kung Fu Panda 2,150000000,"['Animation', 'Family']",2011-05-25,665692281.0,6.7,1925.0
-17238,,,,,Super 8,50000000,"['Thriller', 'Science Fiction', 'Mystery']",2011-06-08,260095987.0,6.6,2496.0
-17444,,,,,Captain America: The First Avenger,140000000,"['Action', 'Adventure', 'Science Fiction']",2011-07-22,370569774.0,6.6,7174.0
-17508,,,,,Friends with Benefits,35000000,"['Romance', 'Comedy']",2011-07-21,150483765.0,6.5,2306.0
-17653,,,,,Another Earth,100000,"['Drama', 'Science Fiction']",2011-07-22,1776935.0,6.8,535.0
-17667,,,,,Colombiana,40000000,"['Action', 'Thriller', 'Crime', 'Drama']",2011-07-27,60965854.0,6.5,848.0
-17820,,,,,Tinker Tailor Soldier Spy,30000000,"['Drama', 'Thriller', 'Mystery']",2011-09-16,0.0,6.6,856.0
-17835,,,,,The Ides of March,12500000,['Drama'],2011-09-24,75993061.0,6.5,924.0
-17935,,,,,Real Steel,110000000,"['Action', 'Science Fiction', 'Drama']",2011-09-28,299268508.0,6.6,2749.0
-17980,,,,,In Time,40000000,"['Action', 'Thriller', 'Science Fiction']",2011-10-27,173930596.0,6.7,3512.0
-17989,,,,,Margin Call,3500000,"['Thriller', 'Drama']",2011-09-28,19504039.0,6.7,531.0
-18069,,,,,The Adventures of Tintin,130000000,"['Adventure', 'Animation', 'Mystery']",2011-10-25,371940071.0,6.7,2095.0
-18146,,,,,The Descendants,20000000,"['Comedy', 'Drama']",2011-09-09,177243185.0,6.7,956.0
-18148,,,,,The Muppets,45000000,"['Comedy', 'Family', 'Music']",2011-11-22,165184237.0,6.5,509.0
-18206,,,,,Extremely Loud & Incredibly Close,40000000,['Drama'],2011-12-24,55247881.0,6.9,726.0
-18244,,,,,The Hunger Games,75000000,"['Science Fiction', 'Adventure', 'Fantasy']",2012-03-12,691210692.0,6.9,9634.0
-18289,,,,,Mission: Impossible - Ghost Protocol,145000000,"['Action', 'Thriller', 'Adventure']",2011-12-07,694713380.0,6.8,4026.0
-18291,,,,,We Bought a Zoo,50000000,"['Drama', 'Comedy', 'Family']",2011-12-22,120081841.0,6.5,928.0
-18499,,,,,Chronicle,15000000,"['Science Fiction', 'Drama', 'Thriller']",2012-02-01,145000000.0,6.6,1965.0
-18667,,,,,Project X,12000000,"['Comedy', 'Crime']",2012-03-01,100000000.0,6.5,1624.0
-18723,,,,,21 Jump Street,42000000,"['Action', 'Comedy', 'Crime']",2012-03-12,201585328.0,6.7,4151.0
-18796,,,,,The Cabin in the Woods,30000000,"['Horror', 'Thriller']",2012-04-12,66486080.0,6.6,2314.0
-18895,,,,,The Lucky One,25000000,"['Drama', 'Romance']",2012-04-19,99357138.0,6.8,981.0
-19050,,,,,Safety Not Guaranteed,750000,"['Comedy', 'Romance', 'Science Fiction', 'Drama']",2012-06-08,4007792.0,6.8,562.0
-19071,,,,,Brave,185000000,"['Animation', 'Adventure', 'Comedy', 'Family', 'Action']",2012-06-21,538983207.0,6.7,4760.0
-19129,,,,,The Amazing Spider-Man,215000000,"['Action', 'Adventure', 'Fantasy']",2012-06-27,752215857.0,6.5,6734.0
-19261,,,,,Skyfall,200000000,"['Action', 'Adventure', 'Thriller']",2012-10-25,1108561013.0,6.9,7718.0
-19307,,,,,ParaNorman,60000000,"['Family', 'Animation', 'Adventure', 'Comedy']",2012-08-03,107139399.0,6.7,808.0
-19340,,,,,Lawless,26000000,"['Crime', 'Drama']",2012-08-29,53676580.0,6.8,1055.0
-19394,,,,,Looper,30000000,"['Action', 'Thriller', 'Science Fiction']",2012-09-26,47042000.0,6.6,4777.0
-19432,,,,,Dredd,50000000,"['Action', 'Science Fiction']",2012-09-07,41037742.0,6.6,1971.0
-19556,,,,,Frankenweenie,39000000,"['Animation', 'Comedy', 'Family']",2012-10-04,35287788.0,6.6,951.0
-19561,,,,,Sinister,3000000,"['Horror', 'Thriller', 'Mystery']",2012-03-29,77712439.0,6.8,1611.0
-19569,,,,,Hotel Transylvania,85000000,"['Animation', 'Comedy', 'Family', 'Fantasy']",2012-09-20,358375603.0,6.8,2622.0
-19591,,,,,Seven Psychopaths,15000000,"['Comedy', 'Crime']",2012-09-07,19422261.0,6.7,1224.0
-19669,,,,,Cloud Atlas,102000000,"['Drama', 'Science Fiction']",2012-10-26,130482868.0,6.6,3031.0
-19732,,,,,Flight,31000000,['Drama'],2012-11-02,161772375.0,6.5,2449.0
-19799,,,,,Lincoln,65000000,"['History', 'Drama']",2012-11-09,275293450.0,6.7,1456.0
-19862,,,,,Step Up Revolution,33000000,"['Music', 'Drama', 'Romance']",2012-07-26,140470746.0,6.7,679.0
-20008,,,,,Zero Dark Thirty,40000000,"['Thriller', 'Drama', 'History']",2012-12-19,132820716.0,6.7,1723.0
-20457,,,,,Safe Haven,28000000,['Romance'],2013-02-07,97594140.0,6.9,840.0
-20539,,,,,Stoker,12000000,"['Drama', 'Horror', 'Thriller']",2013-02-28,12077441.0,6.5,895.0
-20550,,,,,The Croods,135000000,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",2013-03-20,585178928.0,6.8,2447.0
-20619,,,,,The Call,13000000,"['Crime', 'Thriller']",2013-03-14,68572378.0,6.6,1275.0
-20663,,,,,The Place Beyond the Pines,15000000,"['Drama', 'Crime']",2013-03-20,35485608.0,6.8,1689.0
-20721,,,,,Trance,20000000,"['Thriller', 'Crime', 'Drama', 'Mystery']",2013-03-27,24261569.0,6.5,975.0
-20759,,,,,42,40000000,['Drama'],2013-04-12,95020213.0,6.8,795.0
-20830,,,,,Iron Man 3,200000000,"['Action', 'Adventure', 'Science Fiction']",2013-04-18,1215439994.0,6.8,8951.0
-20970,,,,,Fast & Furious 6,160000000,"['Action', 'Thriller', 'Crime']",2013-05-06,788679850.0,6.7,5282.0
-21068,,,,,Man of Steel,225000000,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",2013-06-12,662845518.0,6.5,6462.0
-21123,,,,,Pacific Rim,180000000,"['Action', 'Science Fiction', 'Adventure']",2013-07-11,407602906.0,6.7,4903.0
-21130,,,,,World War Z,200000000,"['Action', 'Drama', 'Horror', 'Science Fiction', 'Thriller']",2013-06-20,531865000.0,6.7,5683.0
-21163,,,,,The World's End,20000000,"['Comedy', 'Action', 'Science Fiction']",2013-07-18,46089287.0,6.7,1820.0
-21171,,,,,The Heat,43000000,"['Action', 'Comedy', 'Crime']",2013-06-27,158674180.0,6.5,1595.0
-21219,,,,,The Spectacular Now,2500000,"['Comedy', 'Drama', 'Romance']",2013-08-02,6854611.0,6.8,1074.0
-21337,,,,,2 Guns,61000000,"['Action', 'Comedy', 'Crime']",2013-08-02,131940411.0,6.6,1611.0
-21407,,,,,We're the Millers,37000000,"['Comedy', 'Crime']",2013-08-07,269994119.0,6.8,3053.0
-21598,,,,,What If,11000000,"['Drama', 'Comedy', 'Romance']",2013-09-07,7847000.0,6.7,688.0
-21605,,,,,Out of the Furnace,22000000,"['Thriller', 'Drama', 'Crime']",2013-12-06,15400000.0,6.5,731.0
-21609,,,,,Insidious: Chapter 2,5000000,"['Horror', 'Thriller']",2013-09-12,0.0,6.5,1237.0
-21817,,,,,Filth,5000000,"['Crime', 'Drama', 'Comedy']",2013-09-23,9114264.0,6.8,628.0
-21830,,,,,Escape Plan,50000000,"['Action', 'Thriller']",2013-10-09,122915111.0,6.7,1688.0
-21907,,,,,All Is Lost,9000000,"['Action', 'Adventure', 'Drama']",2013-10-18,6108720.0,6.6,679.0
-21922,,,,,Ender's Game,110000000,"['Science Fiction', 'Action', 'Adventure']",2013-10-23,125537191.0,6.6,2354.0
-21941,,,,,Thor: The Dark World,170000000,"['Action', 'Adventure', 'Fantasy']",2013-10-29,644571402.0,6.8,4873.0
-22166,,,,,American Hustle,40000000,"['Drama', 'Crime']",2013-12-12,251171807.0,6.8,2868.0
-22300,,,,,Snowpiercer,39200000,"['Action', 'Science Fiction', 'Drama']",2013-08-01,86758912.0,6.7,2910.0
-22525,,,,,Divergent,85000000,"['Adventure', 'Action', 'Science Fiction']",2014-03-14,288747895.0,6.9,4784.0
-22786,,,,,Endless Love,20000000,"['Drama', 'Romance']",2014-02-12,34077920.0,6.7,555.0
-22899,,,,,Non-Stop,50000000,"['Action', 'Thriller', 'Mystery']",2014-01-26,222809600.0,6.8,2302.0
-22979,,,,,Mr. Peabody & Sherman,145000000,"['Animation', 'Adventure', 'Family']",2014-02-07,272912430.0,6.7,861.0
-23187,,,,,The Amazing Spider-Man 2,200000000,"['Action', 'Adventure', 'Fantasy']",2014-04-16,705717432.0,6.5,4274.0
-23276,,,,,Locke,2000000,"['Drama', 'Thriller']",2014-04-10,4635300.0,6.9,780.0
-23421,,,,,Blended,40000000,['Comedy'],2014-05-21,123494610.0,6.6,1028.0
-23467,,,,,Serial (Bad) Weddings,13000000,['Comedy'],2014-04-16,0.0,6.9,1114.0
-23665,,,,,The Babadook,2000000,"['Drama', 'Thriller', 'Horror']",2014-05-22,6676471.0,6.5,1890.0
-23748,,,,,The Purge: Anarchy,9000000,"['Horror', 'Thriller']",2014-07-17,108782847.0,6.6,2008.0
-23780,,,,,A Most Wanted Man,15000000,['Thriller'],2014-07-25,31554855.0,6.5,545.0
-23830,,,,,Step Up All In,45000000,"['Romance', 'Drama', 'Music']",2014-07-16,86165646.0,6.7,649.0
-23861,,,,,Magic in the Moonlight,16800000,"['Comedy', 'Drama', 'Romance']",2014-07-25,51029361.0,6.5,749.0
-24038,,,,,The Guest,5000000,"['Mystery', 'Thriller', 'Action']",2014-09-17,2367161.0,6.5,661.0
-24089,,,,,The Drop,12600000,"['Drama', 'Crime']",2014-09-12,19054534.0,6.7,859.0
-24208,,,,,The Boxtrolls,60000000,"['Animation', 'Comedy', 'Family', 'Fantasy']",2014-09-10,108255770.0,6.6,689.0
-24226,,,,,This Is Where I Leave You,19800000,"['Drama', 'Comedy']",2014-09-10,41296320.0,6.5,512.0
-24640,,,,,Foxcatcher,24000000,"['Drama', 'Thriller']",2014-05-19,12096300.0,6.5,965.0
-24861,,,,,Inherent Vice,20000000,"['Comedy', 'Romance', 'Crime', 'Drama', 'Mystery']",2014-12-25,11110975.0,6.5,852.0
-24873,,,,,The Hunger Games: Mockingjay - Part 1,125000000,"['Science Fiction', 'Adventure', 'Thriller']",2014-11-18,752100229.0,6.6,5767.0
-25055,,,,,In the Heart of the Sea,100000000,"['Thriller', 'Drama', 'Adventure', 'Action', 'History']",2015-11-20,93820758.0,6.5,1300.0
-25084,,,,,Jurassic World,150000000,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",2015-06-09,1513528810.0,6.5,8842.0
-25184,,,,,Penguins of Madagascar,132000000,"['Family', 'Animation', 'Adventure', 'Comedy']",2014-11-22,373552094.0,6.5,1375.0
-25206,,,,,Maze Runner: The Scorch Trials,61000000,['Action'],2015-09-09,311256926.0,6.5,3148.0
-25466,,,,,A Most Violent Year,20000000,"['Crime', 'Drama', 'Thriller']",2014-12-30,12007070.0,6.5,550.0
-25501,,,,,Big Eyes,10000000,['Drama'],2014-12-24,28883511.0,6.8,1236.0
-25797,,,,,Chappie,49000000,"['Crime', 'Action', 'Science Fiction']",2015-03-04,104399548.0,6.6,3124.0
-26031,,,,,It Follows,2000000,"['Horror', 'Thriller']",2015-02-04,14674076.0,6.6,1894.0
-26560,,,,,Pirates of the Caribbean: Dead Men Tell No Tales,230000000,"['Adventure', 'Action', 'Fantasy', 'Comedy']",2017-05-23,794191988.0,6.6,2814.0
-27665,,,,,The DUFF,8500000,"['Romance', 'Comedy']",2015-02-20,43528634.0,6.8,1372.0
-28175,,,,,The Wedding Ringer,23000000,['Comedy'],2015-01-16,79799880.0,6.5,632.0
-28443,,,,,Focus,50100000,"['Romance', 'Comedy', 'Crime', 'Drama']",2015-02-25,153962963.0,6.7,2588.0
-28664,,,,,Cinderella,95000000,"['Romance', 'Fantasy', 'Family', 'Drama']",2015-03-12,543514353.0,6.7,2426.0
-28795,,,,,Home,135000000,"['Fantasy', 'Comedy', 'Animation', 'Science Fiction', 'Family']",2015-03-18,368871007.0,6.8,1539.0
-29799,,,,,Pitch Perfect 2,29000000,"['Comedy', 'Music']",2015-05-07,287506194.0,6.8,1997.0
-29916,,,,,The Lobster,4000000,"['Thriller', 'Comedy', 'Drama', 'Romance', 'Science Fiction']",2015-10-08,15656193.0,6.7,1340.0
-30079,,,,,Youth,13360000,"['Comedy', 'Drama']",2015-05-20,2000000.0,6.7,625.0
-30134,,,,,Spy,65000000,"['Action', 'Comedy', 'Crime']",2015-05-06,235666219.0,6.9,2590.0
-30396,,,,,The Hunger Games: Mockingjay - Part 2,160000000,"['Action', 'Adventure', 'Science Fiction']",2015-11-18,653428261.0,6.6,4117.0
-30557,,,,,Star Trek Beyond,185000000,"['Action', 'Adventure', 'Science Fiction']",2016-07-07,343471816.0,6.6,2636.0
-30759,,,,,The Good Dinosaur,175000000,"['Adventure', 'Animation', 'Family']",2015-11-14,331926147.0,6.6,1782.0
-30942,,,,,Steve Jobs,30000000,"['Drama', 'History']",2015-10-09,34441873.0,6.8,1608.0
-31390,,,,,The Jungle Book,175000000,"['Family', 'Adventure', 'Drama', 'Fantasy']",2016-04-07,966550600.0,6.7,2977.0
-31484,,,,,The Walk,35000000,"['Adventure', 'Drama', 'Thriller']",2015-09-30,61181942.0,6.9,1151.0
-32174,,,,,The Gift,5000000,"['Thriller', 'Mystery']",2015-07-30,58978653.0,6.7,1077.0
-32371,,,,,No Escape,5000000,"['Action', 'Thriller']",2015-08-26,54418872.0,6.7,798.0
-32730,,,,,Legend,25000000,"['Crime', 'Thriller']",2015-09-09,42972994.0,6.7,994.0
-32801,,,,,Green Room,5000000,"['Horror', 'Crime', 'Thriller']",2016-04-15,3220371.0,6.7,696.0
-32951,,,,,Demolition,10000000,"['Comedy', 'Drama']",2016-04-06,1978592.0,6.6,661.0
-33022,,,,,Everest,55000000,"['Adventure', 'Drama']",2015-09-10,203427584.0,6.7,1805.0
-33246,,,,,Hotel Transylvania 2,80000000,"['Animation', 'Comedy', 'Family']",2015-09-21,473226958.0,6.7,1528.0
-33958,,,,,Bone Tomahawk,1800000,"['Horror', 'Western', 'Adventure', 'Drama']",2015-10-23,0.0,6.6,511.0
-34215,,,,,The Peanuts Movie,99000000,['Animation'],2015-11-05,246233113.0,6.5,608.0
-35387,,,,,Kung Fu Panda 3,145000000,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",2016-01-23,521170825.0,6.7,1630.0
-36251,,,,,10 Cloverfield Lane,15000000,"['Thriller', 'Science Fiction', 'Drama']",2016-03-10,108286421.0,6.8,2537.0
-38140,,,,,Money Monster,27000000,['Thriller'],2016-05-12,93282604.0,6.5,1096.0
-38166,,,,,The Choice,10000000,"['Drama', 'Romance']",2016-02-04,18730891.0,6.7,527.0
-38176,,,,,Finding Dory,200000000,"['Adventure', 'Animation', 'Comedy', 'Family']",2016-06-16,1028570889.0,6.8,4333.0
-38727,,,,,Alice Through the Looking Glass,170000000,"['Family', 'Fantasy']",2016-05-25,299370084.0,6.5,1782.0
-38850,,,,,Now You See Me 2,90000000,"['Action', 'Adventure', 'Comedy', 'Crime', 'Mystery']",2016-06-02,334901337.0,6.7,3362.0
-38968,,,,,Swiss Army Man,3000000,"['Comedy', 'Drama', 'Romance', 'Fantasy', 'Adventure']",2016-06-24,4210454.0,6.8,839.0
-39537,,,,,The Infiltrator,25000000,"['Crime', 'Drama', 'Thriller']",2016-07-13,15436808.0,6.6,592.0
-39539,,,,,War Dogs,40000000,"['Comedy', 'Crime', 'Drama']",2016-08-17,86234523.0,6.8,1392.0
-39688,,,,,Don't Breathe,9900000,"['Crime', 'Horror', 'Thriller']",2016-08-25,157100845.0,6.7,1830.0
-40024,,,,,Deepwater Horizon,110000000,"['Drama', 'Action']",2016-09-29,121790373.0,6.5,1478.0
-40025,,,,,Miss Peregrine's Home for Peculiar Children,110000000,"['Drama', 'Fantasy', 'Adventure']",2016-09-28,296485719.0,6.5,3213.0
-40028,,,,,The Accountant,44000000,"['Crime', 'Thriller', 'Drama']",2016-10-14,155160045.0,6.9,2121.0
-40596,,,,,A Monster Calls,43000000,"['Drama', 'Fantasy']",2016-10-07,46652768.0,6.8,1023.0
-40608,,,,,Storks,70000000,"['Adventure', 'Animation', 'Comedy', 'Family']",2016-09-22,182379278.0,6.7,706.0
-40914,,,,,Allied,85000000,"['Action', 'Drama', 'War', 'Romance', 'Thriller']",2016-11-17,119520023.0,6.6,1415.0
-40969,,,,,Trolls,125000000,"['Adventure', 'Animation', 'Family']",2016-10-13,346864462.0,6.7,1054.0
-41280,,,,,Collateral Beauty,36000000,"['Drama', 'Romance']",2016-12-06,87416021.0,6.9,1553.0
-41468,,,,,Jackie,9000000,['Drama'],2016-12-02,13960394.0,6.5,737.0
-41536,,,,,Passengers,110000000,"['Adventure', 'Drama', 'Romance', 'Science Fiction']",2016-12-21,303144152.0,6.7,4134.0
-41562,,,,,Fences,24000000,['Drama'],2016-12-16,64414761.0,6.7,750.0
-41688,,,,,Sing,75000000,"['Animation', 'Comedy', 'Drama', 'Family', 'Music']",2016-11-23,632443719.0,6.8,2363.0
-41814,,,,,A Dog's Purpose,22000000,"['Comedy', 'Drama', 'Family', 'Fantasy']",2017-01-19,194647323.0,6.6,657.0
-41888,,,,,Patriots Day,45000000,"['Crime', 'Drama', 'Thriller']",2016-12-12,50548152.0,6.8,631.0
-42168,,,,,John Wick: Chapter 2,40000000,"['Thriller', 'Action', 'Crime']",2017-02-08,171539887.0,6.7,2924.0
-42185,,,,,Before I Fall,5000000,"['Mystery', 'Drama', 'Thriller']",2017-03-02,10025571.0,6.8,651.0
-42214,,,,,King Arthur: Legend of the Sword,175000000,"['Action', 'Drama', 'Fantasy']",2017-04-27,146175066.0,6.5,1506.0
-42222,,,,,Beauty and the Beast,160000000,"['Family', 'Fantasy', 'Romance']",2017-03-16,1262886337.0,6.8,5530.0
-43059,,,,,Going in Style,25000000,"['Crime', 'Comedy', 'Drama']",2017-04-06,84618541.0,6.6,543.0
-43255,,,,,The Fate of the Furious,250000000,"['Action', 'Crime', 'Thriller']",2017-04-12,1238764765.0,6.8,3803.0
-43294,,,,,Cars 3,175000000,"['Family', 'Comedy', 'Animation', 'Adventure']",2017-06-15,350170057.0,6.6,718.0
-44274,,,,,War for the Planet of the Apes,152000000,"['Drama', 'Science Fiction', 'War']",2017-07-11,369907963.0,6.7,1675.0
-44337,,,,,Valerian and the City of a Thousand Planets,197471676,"['Adventure', 'Science Fiction', 'Action']",2017-07-20,90024292.0,6.7,905.0
-0,with gf,2018-03-30,friday,4.0,The Matrix,63000000,"['Action', 'Science Fiction']",1999-03-30,463517383.0,7.9,9079.0
-64,with gf,2018-06-10,sunday,4.0,Aliens,18500000,"['Horror', 'Action', 'Thriller', 'Science Fiction']",1986-07-18,183316455.0,7.7,3282.0
-96,with gf,2018-08-05,sunday,4.0,Kill Bill: Vol. 2,30000000,"['Action', 'Crime', 'Thriller']",2004-04-16,152159461.0,7.7,4061.0
-288,Alone,2018-04-30,monday,4.0,Jaws,7000000,"['Horror', 'Thriller', 'Adventure']",1975-06-18,470654000.0,7.5,2628.0
-448,Alone,2018-12-28,friday,4.0,Harry Potter and the Prisoner of Azkaban,130000000,"['Adventure', 'Fantasy', 'Family']",2004-05-31,789804554.0,7.7,6037.0
-576,with gf,2018-10-27,saturday,4.0,Harry Potter and the Philosopher's Stone,125000000,"['Adventure', 'Fantasy', 'Family']",2001-11-16,976475550.0,7.5,7188.0
-1024,Alone,2018-05-10,thursday,4.0,Straight Outta Compton,28000000,"['Drama', 'Music']",2015-08-13,201634991.0,7.7,1381.0
-1120,Alone,2018-10-08,monday,4.0,The Blues Brothers,27000000,"['Music', 'Comedy', 'Action', 'Crime']",1980-06-17,115229890.0,7.5,1092.0
-1216,Alone,2019-03-22,friday,4.0,Gifted,7000000,['Drama'],2017-04-12,37461045.0,7.7,549.0
-1248,Family,2018-07-09,monday,4.0,Braveheart,72000000,"['Action', 'Drama', 'History', 'War']",1995-05-24,210000000.0,7.7,3404.0
-1344,Alone,2018-10-12,friday,4.0,The King's Speech,15000000,"['Drama', 'History']",2010-09-06,414211549.0,7.6,2817.0
-1728,with gf,2018-06-06,wednesday,4.0,The Fault in Our Stars,12000000,"['Romance', 'Drama']",2014-05-16,307166834.0,7.6,3868.0
-1984,with gf,2018-09-02,sunday,4.0,Million Dollar Baby,30000000,['Drama'],2004-12-15,216763646.0,7.7,2519.0
-2016,with gf,2018-09-11,tuesday,4.0,Batman Begins,150000000,"['Action', 'Crime', 'Drama']",2005-06-10,374218673.0,7.5,7511.0
-2080,with gf,2018-09-25,tuesday,4.0,3 Idiots,9000000,"['Drama', 'Comedy', 'Romance']",2009-12-23,70000000.0,7.8,850.0
-2208,with gf,2018-10-25,thursday,4.0,The Princess Bride,16000000,"['Adventure', 'Family', 'Fantasy', 'Comedy', 'Romance']",1987-09-18,30857814.0,7.6,1518.0
-2560,with gf,2019-02-03,sunday,4.0,Gattaca,36000000,"['Thriller', 'Science Fiction', 'Mystery', 'Romance']",1997-09-07,12532777.0,7.5,1846.0
-2688,with gf,2019-03-08,friday,4.0,Shaun of the Dead,4000000,"['Horror', 'Comedy']",2004-04-09,30039392.0,7.5,2479.0
-2848,with gf,2019-04-24,wednesday,4.0,Ip Man,11715578,"['Drama', 'Action', 'History']",2008-12-12,21888598.0,7.5,1309.0
-3040,Alone,2018-05-05,saturday,4.0,How to Train Your Dragon,165000000,"['Fantasy', 'Adventure', 'Animation', 'Family']",2010-03-05,494878759.0,7.5,4319.0
-3136,Alone,2018-05-30,wednesday,4.0,Manchester by the Sea,9000000,['Drama'],2016-11-18,75026965.0,7.5,1553.0
-3328,Alone,2018-08-25,saturday,4.0,The Help,25000000,['Drama'],2011-08-09,124272124.0,7.9,1966.0
-3520,Alone,2018-11-10,saturday,4.0,Mr. Nobody,47000000,"['Science Fiction', 'Drama', 'Romance', 'Fantasy']",2009-09-11,3547209.0,7.9,1616.0
-3648,Alone,2018-12-30,sunday,4.0,The Raid 2,4500000,"['Action', 'Crime', 'Thriller']",2014-03-27,2627209.0,7.6,832.0
-3744,Alone,2019-02-10,sunday,4.0,Train to Busan,8820000,"['Action', 'Horror', 'Thriller']",2016-07-20,2129768.0,7.7,984.0
-3808,Alone,2019-03-05,tuesday,4.0,Singin' in the Rain,2540800,"['Comedy', 'Music', 'Romance']",1952-04-10,7200000.0,7.9,747.0
-4096,Family,2019-05-09,thursday,4.0,Das Boot,14000000,"['Action', 'Drama', 'History', 'War', 'Adventure']",1981-09-16,85000000.0,7.9,623.0
-4224,Family,2018-09-21,friday,4.0,Alien,11000000,"['Horror', 'Action', 'Thriller', 'Science Fiction']",1979-05-25,104931801.0,7.9,4564.0
-4320,with gf,2019-01-18,friday,4.0,Moonrise Kingdom,16000000,"['Comedy', 'Drama', 'Romance']",2012-05-16,68263166.0,7.6,1701.0
-4480,Alone,2019-03-11,monday,4.0,Rocky,1000000,['Drama'],1976-11-21,117235147.0,7.5,1843.0
-4576,with gf,2018-10-20,saturday,4.0,Breakfast at Tiffany's,2500000,"['Comedy', 'Drama', 'Romance']",1961-10-05,9500000.0,7.6,1082.0
-4608,with gf,2019-02-13,wednesday,4.0,Dog Day Afternoon,1800000,"['Crime', 'Drama', 'Thriller']",1975-08-11,46665856.0,7.6,685.0
-4704,Alone,2018-11-02,friday,4.0,Star Wars: The Force Awakens,245000000,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",2015-12-15,2068223624.0,7.5,7993.0
-4800,Family,2019-02-28,thursday,4.0,Brazil,15000000,"['Comedy', 'Science Fiction']",1985-02-20,0.0,7.6,877.0
-5056,Alone,2019-01-04,friday,4.0,The Big Lebowski,15000000,"['Comedy', 'Crime']",1998-03-06,46189568.0,7.8,3001.0
-5376,Alone,2018-05-29,tuesday,4.0,Lawrence of Arabia,15000000,"['Adventure', 'Drama', 'History', 'War']",1962-12-10,69995385.0,7.8,870.0
-5568,Alone,2018-11-28,wednesday,4.0,The Nightmare Before Christmas,18000000,"['Fantasy', 'Animation', 'Family']",1993-10-09,75634409.0,7.6,2135.0
-5664,with gf,2018-11-11,sunday,4.0,Platoon,6000000,"['Drama', 'War', 'Action']",1986-12-18,138530565.0,7.5,1236.0
-5920,with gf,2018-07-02,monday,4.0,Toy Story,30000000,"['Animation', 'Comedy', 'Family']",1995-10-30,373554033.0,7.7,5415.0
-6016,Alone,2018-10-03,wednesday,4.0,Okja,50000000,"['Adventure', 'Drama', 'Fantasy', 'Science Fiction']",2017-05-19,0.0,7.7,795.0
-6240,Alone,2018-06-02,saturday,4.0,Toy Story 3,200000000,"['Animation', 'Family', 'Comedy']",2010-06-16,1066969703.0,7.6,4710.0
-6400,Alone,2019-04-19,friday,4.0,The Little Prince,64000000,"['Adventure', 'Animation', 'Fantasy']",2015-07-29,97571250.0,7.6,771.0
-6496,with gf,2018-09-05,wednesday,4.0,Dial M for Murder,1400000,"['Crime', 'Mystery', 'Thriller']",1954-05-29,3000000.0,7.9,539.0
-6784,Alone,2019-03-01,friday,4.0,Fargo,7000000,"['Crime', 'Drama', 'Thriller']",1996-04-05,60611975.0,7.7,2080.0
-6816,Family,2018-06-10,sunday,4.0,Dogville,10000000,"['Crime', 'Drama', 'Thriller']",2003-05-19,16680836.0,7.6,619.0
-6880,with gf,2018-08-15,wednesday,4.0,The Notebook,29000000,"['Romance', 'Drama']",2004-06-25,115603229.0,7.7,3163.0
-7008,Alone,2018-09-21,friday,4.0,Ferris Bueller's Day Off,6000000,['Comedy'],1986-06-11,70136369.0,7.5,1340.0
-7104,with gf,2018-07-07,saturday,4.0,Kubo and the Two Strings,60000000,"['Animation', 'Adventure', 'Family']",2016-08-18,69929545.0,7.7,982.0
-7488,Alone,2018-05-06,sunday,4.0,Guardians of the Galaxy,170000000,"['Action', 'Science Fiction', 'Adventure']",2014-07-30,773328629.0,7.9,10014.0
-7584,Family,2018-07-27,friday,4.0,The Bridge on the River Kwai,3000000,"['Drama', 'History', 'War']",1957-10-02,27200000.0,7.7,554.0
-7776,with gf,2018-12-15,saturday,4.0,The Great Escape,4000000,"['Adventure', 'Drama', 'History', 'Thriller', 'War']",1963-06-20,11744471.0,7.8,731.0
-7968,with gf,2018-10-29,monday,4.0,Rush,38000000,"['Drama', 'Action']",2013-09-02,90247624.0,7.7,2310.0
-8064,Alone,2018-11-11,sunday,4.0,Life of Brian,4000000,['Comedy'],1979-08-17,20045115.0,7.7,1230.0
-8224,Alone,2018-10-28,sunday,4.0,Magnolia,37000000,['Drama'],1999-12-08,48451803.0,7.5,844.0
-8448,with gf,2018-04-10,tuesday,4.0,Full Metal Jacket,17000000,"['Drama', 'War']",1987-06-26,46357676.0,7.9,2595.0
-8736,Alone,2018-12-08,saturday,4.0,Saving Private Ryan,70000000,"['Drama', 'History', 'War']",1998-07-24,481840909.0,7.9,5148.0
-8800,with gf,2018-06-28,thursday,4.0,Dunkirk,100000000,"['Action', 'Drama', 'History', 'Thriller', 'War']",2017-07-19,519876949.0,7.5,2712.0
-224,with gf,2019-02-28,thursday,4.5,The Imitation Game,14000000,"['History', 'Drama', 'Thriller', 'War']",2014-11-14,233555708.0,8.0,5895.0
-416,Alone,2018-11-05,monday,4.5,Once Upon a Time in America,30000000,"['Drama', 'Crime']",1984-02-16,0.0,8.3,1104.0
-608,Alone,2018-05-02,wednesday,4.5,Apocalypse Now,31500000,"['Drama', 'War']",1979-08-15,89460381.0,8.0,2112.0
-800,Alone,2018-10-20,saturday,4.5,Metropolis,92620000,"['Drama', 'Science Fiction']",1927-01-10,650422.0,8.0,666.0
-1184,Alone,2019-01-27,sunday,4.5,Room,6000000,"['Drama', 'Thriller']",2015-10-16,35401758.0,8.1,2838.0
-1568,with gf,2018-04-29,sunday,4.5,The Lord of the Rings: The Fellowship of the Ring,93000000,"['Adventure', 'Fantasy', 'Action']",2001-12-18,871368364.0,8.0,8892.0
-1760,with gf,2018-06-16,saturday,4.5,The Great Dictator,2000000,['Comedy'],1940-10-15,11000000.0,8.1,756.0
-2144,with gf,2018-10-09,tuesday,4.5,The Prestige,40000000,"['Drama', 'Mystery', 'Thriller']",2006-10-19,109676311.0,8.0,4510.0
-2336,with gf,2018-11-29,thursday,4.5,Grave of the Fireflies,3700000,"['Animation', 'Drama', 'War']",1988-04-16,0.0,8.2,974.0
-2528,with gf,2019-01-26,saturday,4.5,Taxi Driver,1300000,"['Crime', 'Drama']",1976-02-07,28262574.0,8.1,2632.0
-3104,Alone,2018-05-23,wednesday,4.5,Life Is Beautiful,20000000,"['Comedy', 'Drama']",1997-12-20,229400000.0,8.3,3643.0
-3296,Alone,2018-08-12,sunday,4.5,Spirited Away,15000000,"['Fantasy', 'Adventure', 'Animation', 'Family']",2001-07-20,274925095.0,8.3,3968.0
-3488,Alone,2018-10-28,sunday,4.5,Back to the Future,19000000,"['Adventure', 'Comedy', 'Science Fiction', 'Family']",1985-07-03,381109762.0,8.0,6239.0
-3680,Alone,2019-01-16,wednesday,4.5,The Lord of the Rings: The Return of the King,94000000,"['Adventure', 'Fantasy', 'Action']",2003-12-01,1118888979.0,8.1,8226.0
-4256,with gf,2018-04-27,friday,4.5,Once Upon a Time in the West,5000000,['Western'],1968-12-21,5321508.0,8.1,1160.0
-4448,Alone,2018-12-19,wednesday,4.5,Interstellar,165000000,"['Adventure', 'Drama', 'Science Fiction']",2014-11-05,675120017.0,8.1,11187.0
-4640,Alone,2018-04-28,saturday,4.5,The Pianist,35000000,"['Drama', 'War']",2002-09-24,120072577.0,8.1,1927.0
-5024,Alone,2018-08-06,monday,4.5,City of God,3300000,"['Drama', 'Crime']",2002-02-05,30641770.0,8.2,1852.0
-5216,Alone,2018-08-20,monday,4.5,Scarface,25000000,"['Action', 'Crime', 'Drama', 'Thriller']",1983-12-08,65884703.0,8.0,3017.0
-5600,Alone,2019-04-18,thursday,4.5,Modern Times,1,"['Drama', 'Comedy']",1936-02-05,8500000.0,8.1,881.0
-5984,Alone,2018-05-26,saturday,4.5,The Shining,19000000,"['Horror', 'Thriller']",1980-05-22,44017374.0,8.1,3890.0
-6176,with gf,2019-02-03,sunday,4.5,One Flew Over the Cuckoo's Nest,3000000,['Drama'],1975-11-18,108981275.0,8.3,3001.0
-6368,Alone,2019-02-06,wednesday,4.5,Inception,160000000,"['Action', 'Thriller', 'Science Fiction', 'Mystery', 'Adventure']",2010-07-14,825532764.0,8.1,14075.0
-6560,with gf,2019-01-27,sunday,4.5,Star Wars,11000000,"['Adventure', 'Action', 'Science Fiction']",1977-05-25,775398007.0,8.1,6778.0
-6944,with gf,2019-04-21,sunday,4.5,Oldboy,3000000,"['Drama', 'Thriller', 'Mystery', 'Action']",2003-01-01,14980005.0,8.0,2000.0
-7136,with gf,2018-12-03,monday,4.5,The Green Mile,60000000,"['Fantasy', 'Drama', 'Crime']",1999-12-10,284600000.0,8.2,4166.0
-7328,with gf,2019-04-26,friday,4.5,The Dark Knight,185000000,"['Drama', 'Action', 'Crime', 'Thriller']",2008-07-16,1004558444.0,8.3,12269.0
-7520,Alone,2018-08-31,friday,4.5,The Silence of the Lambs,19000000,"['Crime', 'Drama', 'Thriller']",1991-02-01,272742922.0,8.1,4549.0
-7904,Alone,2019-04-21,sunday,4.5,Some Like It Hot,2883848,"['Comedy', 'Romance']",1959-03-18,25000000.0,8.0,835.0
-8288,with gf,2018-06-23,saturday,4.5,Reservoir Dogs,1200000,"['Crime', 'Thriller']",1992-09-02,14661007.0,8.1,3821.0
-8480,with gf,2018-09-19,wednesday,4.5,American History X,20000000,['Drama'],1998-10-30,23875127.0,8.2,3120.0
-8864,Alone,2018-05-01,tuesday,4.5,12 Angry Men,350000,['Drama'],1957-03-25,1000000.0,8.2,2130.0
-256,Alone,2018-03-30,friday,5.0,The Imitation Game,14000000,"['History', 'Drama', 'Thriller', 'War']",2014-11-14,233555708.0,8.0,5895.0
-480,Alone,2019-03-02,saturday,5.0,Once Upon a Time in America,30000000,"['Drama', 'Crime']",1984-02-16,0.0,8.3,1104.0
-704,Family,2018-10-04,thursday,5.0,Apocalypse Now,31500000,"['Drama', 'War']",1979-08-15,89460381.0,8.0,2112.0
-928,with gf,2018-11-12,monday,5.0,Metropolis,92620000,"['Drama', 'Science Fiction']",1927-01-10,650422.0,8.0,666.0
-960,with gf,2019-02-18,monday,5.0,Room,6000000,"['Drama', 'Thriller']",2015-10-16,35401758.0,8.1,2838.0
-1056,Alone,2018-06-27,wednesday,5.0,The Lord of the Rings: The Fellowship of the Ring,93000000,"['Adventure', 'Fantasy', 'Action']",2001-12-18,871368364.0,8.0,8892.0
-1376,Alone,2019-02-21,thursday,5.0,The Great Dictator,2000000,['Comedy'],1940-10-15,11000000.0,8.1,756.0
-1408,with gf,2018-04-01,sunday,5.0,The Prestige,40000000,"['Drama', 'Mystery', 'Thriller']",2006-10-19,109676311.0,8.0,4510.0
-1536,with gf,2018-04-24,tuesday,5.0,Grave of the Fireflies,3700000,"['Animation', 'Drama', 'War']",1988-04-16,0.0,8.2,974.0
-1600,with gf,2018-05-08,tuesday,5.0,Taxi Driver,1300000,"['Crime', 'Drama']",1976-02-07,28262574.0,8.1,2632.0
-1824,with gf,2018-07-07,saturday,5.0,Life Is Beautiful,20000000,"['Comedy', 'Drama']",1997-12-20,229400000.0,8.3,3643.0
-2048,with gf,2018-09-20,thursday,5.0,Spirited Away,15000000,"['Fantasy', 'Adventure', 'Animation', 'Family']",2001-07-20,274925095.0,8.3,3968.0
-2176,with gf,2018-10-16,tuesday,5.0,Back to the Future,19000000,"['Adventure', 'Comedy', 'Science Fiction', 'Family']",1985-07-03,381109762.0,8.0,6239.0
-2464,with gf,2019-01-05,saturday,5.0,The Lord of the Rings: The Return of the King,94000000,"['Adventure', 'Fantasy', 'Action']",2003-12-01,1118888979.0,8.1,8226.0
-2496,with gf,2019-01-17,thursday,5.0,Once Upon a Time in the West,5000000,['Western'],1968-12-21,5321508.0,8.1,1160.0
-2720,with gf,2019-03-18,monday,5.0,Interstellar,165000000,"['Adventure', 'Drama', 'Science Fiction']",2014-11-05,675120017.0,8.1,11187.0
-2784,with gf,2019-04-03,wednesday,5.0,The Pianist,35000000,"['Drama', 'War']",2002-09-24,120072577.0,8.1,1927.0
-2880,Alone,2018-03-30,friday,5.0,City of God,3300000,"['Drama', 'Crime']",2002-02-05,30641770.0,8.2,1852.0
-2944,Alone,2018-04-14,saturday,5.0,Scarface,25000000,"['Action', 'Crime', 'Drama', 'Thriller']",1983-12-08,65884703.0,8.0,3017.0
-3168,Alone,2018-06-13,wednesday,5.0,Modern Times,1,"['Drama', 'Comedy']",1936-02-05,8500000.0,8.1,881.0
-3264,Alone,2018-07-29,sunday,5.0,The Shining,19000000,"['Horror', 'Thriller']",1980-05-22,44017374.0,8.1,3890.0
-3456,Alone,2018-10-12,friday,5.0,One Flew Over the Cuckoo's Nest,3000000,['Drama'],1975-11-18,108981275.0,8.3,3001.0
-3616,Alone,2018-12-16,sunday,5.0,Inception,160000000,"['Action', 'Thriller', 'Science Fiction', 'Mystery', 'Adventure']",2010-07-14,825532764.0,8.1,14075.0
-3840,Alone,2019-03-19,tuesday,5.0,Star Wars,11000000,"['Adventure', 'Action', 'Science Fiction']",1977-05-25,775398007.0,8.1,6778.0
-3904,Alone,2019-04-14,sunday,5.0,Oldboy,3000000,"['Drama', 'Thriller', 'Mystery', 'Action']",2003-01-01,14980005.0,8.0,2000.0
-4000,Family,2018-07-30,monday,5.0,The Green Mile,60000000,"['Fantasy', 'Drama', 'Crime']",1999-12-10,284600000.0,8.2,4166.0
-4064,Family,2019-02-28,thursday,5.0,The Dark Knight,185000000,"['Drama', 'Action', 'Crime', 'Thriller']",2008-07-16,1004558444.0,8.3,12269.0
-4288,with gf,2018-08-30,thursday,5.0,The Silence of the Lambs,19000000,"['Crime', 'Drama', 'Thriller']",1991-02-01,272742922.0,8.1,4549.0
-4416,Alone,2018-09-23,sunday,5.0,Some Like It Hot,2883848,"['Comedy', 'Romance']",1959-03-18,25000000.0,8.0,835.0
-4736,Alone,2019-02-12,tuesday,5.0,Reservoir Dogs,1200000,"['Crime', 'Thriller']",1992-09-02,14661007.0,8.1,3821.0
-4768,Family,2018-04-18,wednesday,5.0,American History X,20000000,['Drama'],1998-10-30,23875127.0,8.2,3120.0
-4864,Alone,2018-06-24,sunday,5.0,12 Angry Men,350000,['Drama'],1957-03-25,1000000.0,8.2,2130.0
-4960,with gf,2018-07-31,tuesday,5.0,The Lion King,45000000,"['Family', 'Animation', 'Drama']",1994-06-23,788241776.0,8.0,5520.0
-5184,Alone,2018-05-09,wednesday,5.0,Citizen Kane,839727,"['Mystery', 'Drama']",1941-04-30,23217674.0,8.0,1244.0
-5248,Alone,2018-11-16,friday,5.0,Se7en,33000000,"['Crime', 'Mystery', 'Thriller']",1995-09-22,327311859.0,8.1,5915.0
-5280,Alone,2019-02-28,thursday,5.0,Whiplash,3300000,['Drama'],2014-10-10,13092000.0,8.3,4376.0
-5408,Alone,2018-12-14,friday,5.0,The Legend of 1900,9000000,['Fantasy'],1998-10-28,0.0,8.1,554.0
-5536,Alone,2018-07-03,tuesday,5.0,The Grand Budapest Hotel,30000000,"['Comedy', 'Drama']",2014-02-26,174600318.0,8.0,4644.0
-5824,Alone,2018-12-24,monday,5.0,Sing Street,4000000,"['Romance', 'Drama', 'Music']",2016-03-11,13624522.0,8.0,669.0
-5856,Alone,2019-03-18,monday,5.0,Vertigo,2479000,"['Mystery', 'Romance', 'Thriller']",1958-05-09,28000000.0,8.0,1162.0
-6048,Alone,2019-02-05,tuesday,5.0,The Empire Strikes Back,18000000,"['Adventure', 'Action', 'Science Fiction']",1980-05-17,538400000.0,8.2,5998.0
-6080,with gf,2018-04-14,saturday,5.0,Dead Poets Society,16400000,['Drama'],1989-06-02,235860116.0,8.1,2786.0
-6304,Alone,2018-10-04,thursday,5.0,The Godfather: Part II,13000000,"['Drama', 'Crime']",1974-12-20,47542841.0,8.3,3418.0
-6528,with gf,2018-11-12,monday,5.0,Fight Club,63000000,['Drama'],1999-10-15,100853753.0,8.3,9678.0
-6624,Alone,2018-05-03,thursday,5.0,The Intouchables,13000000,"['Drama', 'Comedy']",2011-11-02,426480871.0,8.2,5410.0
-6720,Alone,2018-10-07,sunday,5.0,"The Good, the Bad and the Ugly",1200000,['Western'],1966-12-23,6000000.0,8.1,2371.0
-6976,Alone,2018-05-18,friday,5.0,Leon: The Professional,16000000,"['Thriller', 'Crime', 'Drama']",1994-09-14,45284974.0,8.2,4293.0
-7200,Alone,2018-06-17,sunday,5.0,Rear Window,1000000,"['Drama', 'Mystery', 'Thriller']",1954-08-01,36764313.0,8.2,1531.0
-7360,Alone,2018-08-02,thursday,5.0,Psycho,806948,"['Drama', 'Horror', 'Thriller']",1960-06-16,32000000.0,8.3,2405.0
-7424,Family,2018-08-17,friday,5.0,GoodFellas,25000000,"['Drama', 'Crime']",1990-09-12,46836394.0,8.2,3211.0
-7648,Alone,2018-06-02,saturday,5.0,Princess Mononoke,26500000,"['Adventure', 'Fantasy', 'Animation']",1997-07-12,159375308.0,8.2,2041.0
-7744,with gf,2018-08-15,wednesday,5.0,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1800000,"['Drama', 'Comedy', 'War']",1964-01-29,9440272.0,8.0,1472.0
-8096,Alone,2019-03-15,friday,5.0,Howl's Moving Castle,24000000,"['Fantasy', 'Animation', 'Adventure']",2004-11-19,234710455.0,8.2,2049.0
-8160,with gf,2018-12-24,monday,5.0,It's a Wonderful Life,3180000,"['Drama', 'Family', 'Fantasy']",1946-12-20,9644124.0,8.0,1103.0
-8256,Alone,2019-05-07,tuesday,5.0,Band of Brothers,125000000,"['Action', 'Drama', 'War']",2001-09-09,0.0,8.2,725.0
-8320,with gf,2018-11-11,sunday,5.0,Paths of Glory,935000,"['Drama', 'War']",1957-09-18,0.0,8.2,565.0
-8416,Alone,2019-01-07,monday,5.0,The Lord of the Rings: The Two Towers,79000000,"['Adventure', 'Fantasy', 'Action']",2002-12-18,926287400.0,8.0,7641.0
-8544,Alone,2018-08-01,wednesday,5.0,A Clockwork Orange,2200000,"['Science Fiction', 'Drama']",1971-12-18,26589000.0,8.0,3432.0
-8640,with gf,2018-08-02,thursday,5.0,The Shawshank Redemption,25000000,"['Drama', 'Crime']",1994-09-23,28341469.0,8.5,8358.0
-8768,Alone,2019-05-07,tuesday,5.0,Memento,9000000,"['Mystery', 'Thriller']",2000-10-11,39723096.0,8.1,4168.0
-8896,Alone,2018-09-27,thursday,5.0,Forrest Gump,55000000,"['Comedy', 'Drama', 'Romance']",1994-07-06,677945399.0,8.2,8147.0
+384,with gf,2018-09-18,saturday,2.0,47 Meters Down,5500000,"['Drama', 'Thriller', 'Horror', 'Adventure']",2017-06-15,44235023,5.1,548
+640,with gf,2018-09-16,saturday,2.0,Ghost Ship,35000000,"['Horror', 'Mystery', 'Thriller']",2002-10-25,68349884,5.3,540
+768,Alone,2018-04-30,monday,2.0,The Mummy,125000000,"['Thriller', 'Action', 'Adventure']",2017-06-06,407778013,5.4,2122
+3360,Alone,2018-09-07,friday,2.0,Mechanic: Resurrection,40000000,"['Action', 'Crime', 'Thriller']",2016-08-25,125729635,5.3,1236
+4384,Alone,2018-06-19,tuesday,2.0,Fantastic 4: Rise of the Silver Surfer,130000000,"['Adventure', 'Fantasy', 'Action', 'Thriller']",2007-06-13,289047763,5.4,2648
+4896,Alone,2019-01-29,tuesday,2.0,Ghostbusters,144000000,"['Action', 'Fantasy', 'Comedy']",2016-07-14,229147509,5.3,2203
+5760,Alone,2018-08-03,friday,2.0,R.I.P.D.,130000000,"['Fantasy', 'Action', 'Comedy', 'Crime']",2013-07-18,61648500,5.4,1280
+6336,Alone,2018-11-30,friday,2.0,Ben-Hur,100000000,"['Adventure', 'Drama', 'Action']",2016-08-17,94061311,5.3,642
+7264,Alone,2019-02-25,monday,2.0,"10,000 BC",105000000,"['Adventure', 'Action', 'Drama', 'Fantasy']",2008-02-22,266000000,5.1,934
+7680,Family,2018-12-28,friday,2.0,Race to Witch Mountain,50000000,"['Adventure', 'Family', 'Fantasy', 'Science Fiction', 'Thriller']",2009-03-12,106303988,5.4,520
+7840,with gf,2018-07-01,sunday,2.0,Brüno,42000000,['Comedy'],2009-07-08,0,5.4,528
+2976,Alone,2018-04-21,saturday,3.0,Big Momma's House,30000000,"['Crime', 'Comedy']",2000-05-31,173959438,5.6,514
+3424,with gf,2018-10-01,saturday,3.0,The Dark Tower,60000000,"['Action', 'Western', 'Science Fiction', 'Fantasy', 'Horror']",2017-08-03,71000000,5.7,688
+3936,Alone,2019-04-29,monday,3.0,Ghost in the Shell,110000000,"['Action', 'Science Fiction', 'Thriller']",2017-03-29,169801921,5.9,2547
+5728,Alone,2018-05-11,friday,3.0,Transformers: Age of Extinction,210000000,"['Science Fiction', 'Action', 'Adventure']",2014-06-25,1091405097,5.8,3136
+6208,Family,2018-04-15,sunday,3.0,The SpongeBob Movie: Sponge Out of Water,74000000,"['Animation', 'Adventure', 'Comedy', 'Family']",2015-02-05,311594032,5.7,733
+6688,Alone,2018-08-19,sunday,3.0,Coyote Ugly,45000000,"['Comedy', 'Drama', 'Music', 'Romance']",2000-07-30,113916474,5.8,590
+8608,Alone,2019-04-10,wednesday,3.0,The Twilight Saga: Breaking Dawn - Part 1,110000000,"['Adventure', 'Fantasy', 'Romance']",2011-03-15,712171856,5.8,2622
+8704,Alone,2018-07-14,saturday,3.0,Planet of the Apes,100000000,"['Thriller', 'Science Fiction', 'Action', 'Adventure']",2001-07-25,362211740,5.6,1270
+8928,Alone,2019-02-20,wednesday,3.0,The Monuments Men,70000000,"['War', 'Drama', 'History', 'Action']",2014-01-24,154984035,5.8,1545
+288,with gf,2018-04-30,saturday,4.0,Jaws,7000000,"['Horror', 'Thriller', 'Adventure']",1975-06-18,470654000,7.5,2628
+448,Family,2018-12-28,friday,4.0,Harry Potter and the Prisoner of Azkaban,130000000,"['Adventure', 'Fantasy', 'Family']",2004-05-31,789804554,7.7,6037
+1024,Alone,2018-05-10,thursday,4.0,Straight Outta Compton,28000000,"['Drama', 'Music']",2015-08-13,201634991,7.7,1381
+1120,Alone,2018-10-08,monday,4.0,The Blues Brothers,27000000,"['Music', 'Comedy', 'Action', 'Crime']",1980-06-17,115229890,7.5,1092
+1216,Alone,2019-03-22,friday,4.0,Gifted,7000000,['Drama'],2017-04-12,37461045,7.7,549
+1344,Alone,2018-10-12,friday,4.0,The King's Speech,15000000,"['Drama', 'History']",2010-09-06,414211549,7.6,2817
+3040,Family,2018-05-05,saturday,4.0,How to Train Your Dragon,165000000,"['Fantasy', 'Adventure', 'Animation', 'Family']",2010-03-05,494878759,7.5,4319
+3136,Alone,2018-05-30,wednesday,4.0,Manchester by the Sea,9000000,['Drama'],2016-11-18,75026965,7.5,1553
+3328,Alone,2018-08-25,saturday,4.0,The Help,25000000,['Drama'],2011-08-09,124272124,7.9,1966
+3520,Alone,2018-11-10,saturday,4.0,Mr. Nobody,47000000,"['Science Fiction', 'Drama', 'Romance', 'Fantasy']",2009-09-11,3547209,7.9,1616
+3648,Alone,2018-12-30,sunday,4.0,The Raid 2,4500000,"['Action', 'Crime', 'Thriller']",2014-03-27,2627209,7.6,832
+3744,with gf,2019-02-10,saturday,4.0,Train to Busan,8820000,"['Action', 'Horror', 'Thriller']",2016-07-20,2129768,7.7,984
+3808,Alone,2019-03-05,sunday,4.0,Singin' in the Rain,2540800,"['Comedy', 'Music', 'Romance']",1952-04-10,7200000,7.9,747
+4480,Alone,2019-03-11,monday,4.0,Rocky,1000000,['Drama'],1976-11-21,117235147,7.5,1843
+4704,Alone,2018-11-02,friday,4.0,Star Wars: The Force Awakens,245000000,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",2015-12-15,2068223624,7.5,7993
+5056,Alone,2019-01-04,friday,4.0,The Big Lebowski,15000000,"['Comedy', 'Crime']",1998-03-06,46189568,7.8,3001
+5376,Alone,2018-05-29,sunday,4.0,Lawrence of Arabia,15000000,"['Adventure', 'Drama', 'History', 'War']",1962-12-10,69995385,7.8,870
+5568,Family,2018-11-28,wednesday,4.0,The Nightmare Before Christmas,18000000,"['Fantasy', 'Animation', 'Family']",1993-10-09,75634409,7.6,2135
+6016,Alone,2018-10-03,wednesday,4.0,Okja,50000000,"['Adventure', 'Drama', 'Fantasy', 'Science Fiction']",2017-05-19,0,7.7,795
+6240,Family,2018-06-02,saturday,4.0,Toy Story 3,200000000,"['Animation', 'Family', 'Comedy']",2010-06-16,1066969703,7.6,4710
+6400,Alone,2019-04-19,friday,4.0,The Little Prince,64000000,"['Adventure', 'Animation', 'Fantasy']",2015-07-29,97571250,7.6,771
+6784,Alone,2019-03-01,friday,4.0,Fargo,7000000,"['Crime', 'Drama', 'Thriller']",1996-04-05,60611975,7.7,2080
+7008,with gf,2018-09-21,friday,4.0,Ferris Bueller's Day Off,6000000,['Comedy'],1986-06-11,70136369,7.5,1340
+7488,Alone,2018-05-06,sunday,4.0,Guardians of the Galaxy,170000000,"['Action', 'Science Fiction', 'Adventure']",2014-07-30,773328629,7.9,10014
+8064,with gf,2018-11-11,sunday,4.0,Life of Brian,4000000,['Comedy'],1979-08-17,20045115,7.7,1230
+8224,Alone,2018-10-28,sunday,4.0,Magnolia,37000000,['Drama'],1999-12-08,48451803,7.5,844
+8736,Alone,2018-12-08,saturday,4.0,Saving Private Ryan,70000000,"['Drama', 'History', 'War']",1998-07-24,481840909,7.9,5148
+416,Alone,2018-11-05,monday,4.5,Once Upon a Time in America,30000000,"['Drama', 'Crime']",1984-02-16,0,8.3,1104
+608,Alone,2018-05-02,wednesday,4.5,Apocalypse Now,31500000,"['Drama', 'War']",1979-08-15,89460381,8.0,2112
+800,Alone,2018-10-20,sunday,4.5,Metropolis,92620000,"['Drama', 'Science Fiction']",1927-01-10,650422,8.0,666
+1184,Alone,2019-01-27,sunday,4.5,Room,6000000,"['Drama', 'Thriller']",2015-10-16,35401758,8.1,2838
+3104,Alone,2018-05-23,wednesday,4.5,Life Is Beautiful,20000000,"['Comedy', 'Drama']",1997-12-20,229400000,8.3,3643
+3296,Family,2018-08-12,sunday,4.5,Spirited Away,15000000,"['Fantasy', 'Adventure', 'Animation', 'Family']",2001-07-20,274925095,8.3,3968
+3488,Family,2018-10-28,sunday,4.5,Back to the Future,19000000,"['Adventure', 'Comedy', 'Science Fiction', 'Family']",1985-07-03,381109762,8.0,6239
+3680,Alone,2019-01-16,wednesday,4.5,The Lord of the Rings: The Return of the King,94000000,"['Adventure', 'Fantasy', 'Action']",2003-12-01,1118888979,8.1,8226
+4448,Alone,2018-12-19,wednesday,4.5,Interstellar,165000000,"['Adventure', 'Drama', 'Science Fiction']",2014-11-05,675120017,8.1,11187
+4640,Alone,2018-04-28,saturday,4.5,The Pianist,35000000,"['Drama', 'War']",2002-09-24,120072577,8.1,1927
+5024,Alone,2018-08-06,monday,4.5,City of God,3300000,"['Drama', 'Crime']",2002-02-05,30641770,8.2,1852
+5216,Alone,2018-08-20,monday,4.5,Scarface,25000000,"['Action', 'Crime', 'Drama', 'Thriller']",1983-12-08,65884703,8.0,3017
+5600,Alone,2019-04-18,sunday,4.5,Modern Times,1,"['Drama', 'Comedy']",1936-02-05,8500000,8.1,881
+5984,with gf,2018-05-26,saturday,4.5,The Shining,19000000,"['Horror', 'Thriller']",1980-05-22,44017374,8.1,3890
+6368,Alone,2019-02-06,wednesday,4.5,Inception,160000000,"['Action', 'Thriller', 'Science Fiction', 'Mystery', 'Adventure']",2010-07-14,825532764,8.1,14075
+7520,Alone,2018-08-31,friday,4.5,The Silence of the Lambs,19000000,"['Crime', 'Drama', 'Thriller']",1991-02-01,272742922,8.1,4549
+7904,Family,2019-04-21,sunday,4.5,Some Like It Hot,2883848,"['Comedy', 'Romance']",1959-03-18,25000000,8.0,835
+8864,Alone,2018-05-01,sunday,4.5,12 Angry Men,350000,['Drama'],1957-03-25,1000000,8.2,2130
+256,Alone,2018-03-30,friday,5.0,The Imitation Game,14000000,"['History', 'Drama', 'Thriller', 'War']",2014-11-14,233555708,8.0,5895
+480,Alone,2019-03-02,saturday,5.0,Once Upon a Time in America,30000000,"['Drama', 'Crime']",1984-02-16,0,8.3,1104
+1056,Alone,2018-06-27,wednesday,5.0,The Lord of the Rings: The Fellowship of the Ring,93000000,"['Adventure', 'Fantasy', 'Action']",2001-12-18,871368364,8.0,8892
+1376,with gf,2019-02-21,sunday,5.0,The Great Dictator,2000000,['Comedy'],1940-10-15,11000000,8.1,756
+2880,Alone,2018-03-30,friday,5.0,City of God,3300000,"['Drama', 'Crime']",2002-02-05,30641770,8.2,1852
+2944,Alone,2018-04-14,saturday,5.0,Scarface,25000000,"['Action', 'Crime', 'Drama', 'Thriller']",1983-12-08,65884703,8.0,3017
+3168,Alone,2018-06-13,sunday,5.0,Modern Times,1,"['Drama', 'Comedy']",1936-02-05,8500000,8.1,881
+3264,with gf,2018-07-29,saturday,5.0,The Shining,19000000,"['Horror', 'Thriller']",1980-05-22,44017374,8.1,3890
+3456,Alone,2018-10-12,friday,5.0,One Flew Over the Cuckoo's Nest,3000000,['Drama'],1975-11-18,108981275,8.3,3001
+3616,Alone,2018-12-16,sunday,5.0,Inception,160000000,"['Action', 'Thriller', 'Science Fiction', 'Mystery', 'Adventure']",2010-07-14,825532764,8.1,14075
+3840,Alone,2019-03-19,tuesday,5.0,Star Wars,11000000,"['Adventure', 'Action', 'Science Fiction']",1977-05-25,775398007,8.1,6778
+3904,Alone,2019-04-14,sunday,5.0,Oldboy,3000000,"['Drama', 'Thriller', 'Mystery', 'Action']",2003-01-01,14980005,8.0,2000
+4416,Family,2018-09-23,sunday,5.0,Some Like It Hot,2883848,"['Comedy', 'Romance']",1959-03-18,25000000,8.0,835
+4736,Alone,2019-02-12,tuesday,5.0,Reservoir Dogs,1200000,"['Crime', 'Thriller']",1992-09-02,14661007,8.1,3821
+4864,Alone,2018-06-24,sunday,5.0,12 Angry Men,350000,['Drama'],1957-03-25,1000000,8.2,2130
+5184,Alone,2018-05-09,sunday,5.0,Citizen Kane,839727,"['Mystery', 'Drama']",1941-04-30,23217674,8.0,1244
+5248,Alone,2018-11-16,friday,5.0,Se7en,33000000,"['Crime', 'Mystery', 'Thriller']",1995-09-22,327311859,8.1,5915
+5280,Alone,2019-02-28,thursday,5.0,Whiplash,3300000,['Drama'],2014-10-10,13092000,8.3,4376
+5408,Alone,2018-12-14,friday,5.0,The Legend of 1900,9000000,['Fantasy'],1998-10-28,0,8.1,554
+5536,Alone,2018-07-03,tuesday,5.0,The Grand Budapest Hotel,30000000,"['Comedy', 'Drama']",2014-02-26,174600318,8.0,4644
+5824,Alone,2018-12-24,monday,5.0,Sing Street,4000000,"['Romance', 'Drama', 'Music']",2016-03-11,13624522,8.0,669
+5856,Alone,2019-03-18,sunday,5.0,Vertigo,2479000,"['Mystery', 'Romance', 'Thriller']",1958-05-09,28000000,8.0,1162
+6048,Alone,2019-02-05,tuesday,5.0,The Empire Strikes Back,18000000,"['Adventure', 'Action', 'Science Fiction']",1980-05-17,538400000,8.2,5998
+6304,Alone,2018-10-04,thursday,5.0,The Godfather: Part II,13000000,"['Drama', 'Crime']",1974-12-20,47542841,8.3,3418
+6624,Alone,2018-05-03,thursday,5.0,The Intouchables,13000000,"['Drama', 'Comedy']",2011-11-02,426480871,8.2,5410
+6720,Alone,2018-10-07,sunday,5.0,"The Good, the Bad and the Ugly",1200000,['Western'],1966-12-23,6000000,8.1,2371
+6976,Alone,2018-05-18,friday,5.0,Leon: The Professional,16000000,"['Thriller', 'Crime', 'Drama']",1994-09-14,45284974,8.2,4293
+7200,Alone,2018-06-17,sunday,5.0,Rear Window,1000000,"['Drama', 'Mystery', 'Thriller']",1954-08-01,36764313,8.2,1531
+7360,with gf,2018-08-02,sunday,5.0,Psycho,806948,"['Drama', 'Horror', 'Thriller']",1960-06-16,32000000,8.3,2405
+7648,Alone,2018-06-02,saturday,5.0,Princess Mononoke,26500000,"['Adventure', 'Fantasy', 'Animation']",1997-07-12,159375308,8.2,2041
+8096,Alone,2019-03-15,friday,5.0,Howl's Moving Castle,24000000,"['Fantasy', 'Animation', 'Adventure']",2004-11-19,234710455,8.2,2049
+8256,Alone,2019-05-07,tuesday,5.0,Band of Brothers,125000000,"['Action', 'Drama', 'War']",2001-09-09,0,8.2,725
+8416,Alone,2019-01-07,monday,5.0,The Lord of the Rings: The Two Towers,79000000,"['Adventure', 'Fantasy', 'Action']",2002-12-18,926287400,8.0,7641
+8544,Alone,2018-08-01,wednesday,5.0,A Clockwork Orange,2200000,"['Science Fiction', 'Drama']",1971-12-18,26589000,8.0,3432
+8768,Alone,2019-05-07,tuesday,5.0,Memento,9000000,"['Mystery', 'Thriller']",2000-10-11,39723096,8.1,4168
+8896,Alone,2018-09-27,thursday,5.0,Forrest Gump,55000000,"['Comedy', 'Drama', 'Romance']",1994-07-06,677945399,8.2,8147
+32,with gf,2018-05-07,monday,1.0,Scary Movie 5,20000000,['Comedy'],2013-04-11,78378744,4.6,813
+1632,with gf,2018-05-14,monday,1.0,Jack and Jill,79000000,['Comedy'],2011-11-11,149673788,4.0,619
+3232,Family,2018-07-07,saturday,1.0,The Legend of Hercules,70000000,"['Action', 'Adventure']",2014-01-10,61279452,4.4,542
+4832,Family,2018-12-25,tuesday,1.0,Catwoman,100000000,"['Action', 'Crime']",2004-07-22,82102379,4.2,833
+6432,Family,2018-04-16,monday,1.0,Knock Knock,2500000,"['Drama', 'Thriller']",2015-06-26,6341684,4.9,880
+8032,with gf,2018-06-20,saturday,1.0,The Human Centipede (First Sequence),2011799,['Horror'],2009-04-26,0,4.9,528
+5088,Family,2018-08-25,saturday,2.0,G.I. Joe: Retaliation,130000000,"['Adventure', 'Action', 'Science Fiction', 'Thriller']",2013-03-26,371876278,5.4,3045
+192,Family,2018-12-25,tuesday,3.0,Blades of Glory,53000000,"['Action', 'Comedy', 'Drama']",2007-03-30,0,5.9,578
+352,Family,2018-08-04,saturday,3.0,Pixels,88000000,"['Action', 'Comedy', 'Science Fiction']",2015-07-16,243637091,5.6,2564
+512,with gf,2019-04-20,saturday,3.0,Paranormal Activity,15000,"['Horror', 'Mystery']",2007-09-14,193355800,5.9,1351
+672,Family,2019-01-05,saturday,3.0,Licence to Kill,32000000,"['Adventure', 'Action', 'Thriller']",1989-07-07,156167015,5.9,549
+832,Family,2019-03-28,thursday,3.0,Bedtime Stories,80000000,"['Fantasy', 'Comedy', 'Family', 'Romance']",2008-12-24,212874442,5.9,924
+992,Family,2018-04-10,tuesday,3.0,Noah,125000000,"['Drama', 'Adventure']",2014-03-20,362637473,5.5,2408
+1152,Family,2018-12-07,friday,3.0,Dark Shadows,150000000,"['Comedy', 'Fantasy']",2012-05-08,245527149,5.7,2383
+1312,with gf,2018-06-02,saturday,3.0,Ouija: Origin of Evil,9000000,"['Horror', 'Thriller']",2016-10-20,81705746,5.8,735
+1472,with gf,2018-04-12,saturday,3.0,Sinister 2,10000000,['Horror'],2015-08-19,52882018,5.5,605
+1792,Family,2018-07-01,sunday,3.0,G.I. Joe: The Rise of Cobra,175000000,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",2009-08-04,302469017,5.6,1988
+1952,Family,2018-08-23,thursday,3.0,Die Another Day,140000000,"['Adventure', 'Action', 'Thriller']",2002-11-17,431971116,5.8,1112
+2112,Family,2018-10-02,tuesday,3.0,101 Dalmatians,54000000,"['Comedy', 'Family']",1996-11-17,320689294,5.6,722
+2272,Family,2018-11-13,tuesday,3.0,The Smurfs,110000000,"['Animation', 'Family', 'Adventure', 'Comedy', 'Fantasy']",2011-07-29,563749323,5.5,1201
+2432,with gf,2018-12-26,saturday,3.0,A Nightmare on Elm Street,35000000,"['Horror', 'Mystery', 'Thriller']",2010-04-30,115664037,5.5,771
+2592,Family,2019-02-08,friday,3.0,You Don't Mess with the Zohan,90000000,"['Comedy', 'Action']",2008-06-05,201596308,5.5,1068
+2752,Family,2019-03-26,tuesday,3.0,The Pacifier,56000000,"['Action', 'Comedy', 'Drama', 'Family', 'Thriller']",2005-03-04,113006880,5.8,865
+2912,with gf,2018-04-08,sunday,3.0,Kindergarten Cop,15000000,['Comedy'],1990-12-21,201957688,5.8,643
+3072,with gf,2018-05-13,sunday,3.0,Sisters,30000000,['Comedy'],2015-12-18,105011053,5.8,593
+3392,Family,2018-09-20,thursday,3.0,Identity Thief,35000000,"['Comedy', 'Crime']",2013-02-07,173965010,5.6,1667
+3552,Family,2018-11-18,sunday,3.0,Broken City,56000000,"['Thriller', 'Crime', 'Drama']",2013-01-18,19701164,5.7,601
+3712,Family,2019-01-27,sunday,3.0,Terminator Salvation,200000000,"['Action', 'Science Fiction', 'Thriller']",2009-05-20,371353001,5.9,2496
+3872,with gf,2019-03-31,saturday,3.0,I Know What You Did Last Summer,17000000,"['Horror', 'Thriller', 'Mystery']",1997-10-17,125586134,5.6,698
+4032,with gf,2018-10-28,sunday,3.0,Fun with Dick and Jane,100000000,['Comedy'],2005-12-21,202026112,5.9,639
+4192,Family,2019-03-02,saturday,3.0,What to Expect When You're Expecting,40000000,"['Romance', 'Comedy', 'Drama']",2012-05-17,79700000,5.8,611
+4352,Family,2018-04-08,sunday,3.0,The Last Stand,30000000,"['Action', 'Crime', 'Thriller']",2013-01-12,0,5.7,1282
+4512,with gf,2018-04-11,saturday,3.0,The Grudge,10000000,"['Horror', 'Mystery', 'Thriller']",2004-10-22,183474602,5.8,889
+4672,Family,2018-07-19,thursday,3.0,National Lampoon’s Van Wilder,5000000,"['Comedy', 'Romance']",2002-03-29,38275483,5.9,867
+4992,with gf,2019-02-28,saturday,3.0,Friday the 13th,19000000,['Horror'],2009-02-11,91379051,5.7,566
+5152,Family,2019-02-05,tuesday,3.0,The Legend of Tarzan,180000000,"['Action', 'Adventure']",2016-06-29,356743061,5.5,2488
+5312,Family,2018-05-04,friday,3.0,Snow White and the Huntsman,170000000,"['Adventure', 'Fantasy', 'Drama']",2012-05-30,396600000,5.8,3183
+5472,Family,2018-09-06,thursday,3.0,xXx: Return of Xander Cage,85000000,"['Action', 'Adventure', 'Crime']",2017-01-13,346147658,5.5,1497
+5632,Family,2018-05-14,monday,3.0,Jumper,85000000,"['Adventure', 'Fantasy', 'Science Fiction']",2008-02-10,222231186,5.9,1855
+5792,Family,2018-10-12,friday,3.0,Lara Croft: Tomb Raider,115000000,"['Adventure', 'Fantasy', 'Action', 'Thriller']",2001-06-11,274703340,5.7,2235
+5952,Family,2018-12-29,saturday,3.0,This Means War,65000000,"['Action', 'Comedy', 'Romance']",2012-02-14,156974557,5.9,1411
+6112,Family,2018-07-11,wednesday,3.0,Just My Luck,28000000,"['Comedy', 'Drama', 'Family', 'Fantasy', 'Romance']",2006-05-12,38159905,5.8,512
+6272,with gf,2018-08-08,wednesday,3.0,Anger Management,75000000,['Comedy'],2003-04-11,195745823,5.9,937
+6592,Family,2019-05-07,tuesday,3.0,The Lone Ranger,255000000,"['Action', 'Adventure', 'Western']",2013-07-03,89289910,5.9,2361
+6752,Family,2018-12-28,friday,3.0,Terminator 3: Rise of the Machines,200000000,"['Action', 'Thriller', 'Science Fiction']",2003-07-02,435000000,5.9,2177
+6912,Family,2018-11-22,thursday,3.0,The Golden Compass,180000000,"['Adventure', 'Fantasy']",2007-12-04,372234864,5.8,1347
+7072,Family,2018-08-24,friday,3.0,Brick Mansions,28000000,"['Action', 'Crime', 'Drama']",2014-04-22,68896829,5.7,628
+7232,Family,2018-10-16,tuesday,3.0,The Twilight Saga: Eclipse,68000000,"['Adventure', 'Fantasy', 'Drama', 'Romance']",2010-06-23,698491347,5.9,2382
+7392,Family,2018-12-25,tuesday,3.0,Jason Bourne,120000000,"['Action', 'Thriller']",2016-07-27,415484914,5.9,2386
+7552,Family,2019-02-01,friday,3.0,Beastly,17000000,"['Drama', 'Fantasy', 'Romance']",2011-01-21,43165571,5.9,878
+7712,Family,2018-04-13,friday,3.0,She's Out of My League,20000000,"['Comedy', 'Romance']",2010-03-11,49779728,5.9,544
+7872,Family,2018-11-20,tuesday,3.0,Teenage Mutant Ninja Turtles: Out of the Shadows,135000000,"['Fantasy', 'Action', 'Adventure', 'Comedy']",2016-06-01,245623848,5.8,984
+8192,Alone,2018-05-12,saturday,3.0,Wall Street: Money Never Sleeps,70000000,"['Drama', 'Crime']",2010-09-02,134748021,5.8,504
+8352,with gf,2019-04-07,saturday,3.0,Alien: Covenant,97000000,"['Horror', 'Science Fiction', 'Thriller']",2017-05-09,232380243,5.7,2677
+8512,Family,2019-04-22,monday,3.0,Chloe,15000000,"['Drama', 'Thriller', 'Mystery']",2009-03-25,8459458,5.9,514
+8672,Family,2019-04-06,saturday,3.0,Mr. Popper's Penguins,55000000,"['Comedy', 'Family']",2011-06-17,187361754,5.7,775
+8832,Family,2018-12-09,sunday,3.0,Keeping Up with the Joneses,40000000,"['Action', 'Comedy']",2016-10-20,29918745,5.9,608
+1248,Family,2018-07-09,monday,4.0,Braveheart,72000000,"['Action', 'Drama', 'History', 'War']",1995-05-24,210000000,7.7,3404
+4096,Family,2019-05-09,thursday,4.0,Das Boot,14000000,"['Action', 'Drama', 'History', 'War', 'Adventure']",1981-09-16,85000000,7.9,623
+4224,with gf,2018-09-21,saturday,4.0,Alien,11000000,"['Horror', 'Action', 'Thriller', 'Science Fiction']",1979-05-25,104931801,7.9,4564
+4800,Family,2019-02-28,thursday,4.0,Brazil,15000000,"['Comedy', 'Science Fiction']",1985-02-20,0,7.6,877
+6816,Alone,2018-06-10,sunday,4.0,Dogville,10000000,"['Crime', 'Drama', 'Thriller']",2003-05-19,16680836,7.6,619
+7584,Family,2018-07-27,sunday,4.0,The Bridge on the River Kwai,3000000,"['Drama', 'History', 'War']",1957-10-02,27200000,7.7,554
+704,Alone,2018-10-04,thursday,5.0,Apocalypse Now,31500000,"['Drama', 'War']",1979-08-15,89460381,8.0,2112
+4000,Family,2018-07-30,monday,5.0,The Green Mile,60000000,"['Fantasy', 'Drama', 'Crime']",1999-12-10,284600000,8.2,4166
+4064,Family,2019-02-28,thursday,5.0,The Dark Knight,185000000,"['Drama', 'Action', 'Crime', 'Thriller']",2008-07-16,1004558444,8.3,12269
+4768,Alone,2018-04-18,wednesday,5.0,American History X,20000000,['Drama'],1998-10-30,23875127,8.2,3120
+7424,Alone,2018-08-17,friday,5.0,GoodFellas,25000000,"['Drama', 'Crime']",1990-09-12,46836394,8.2,3211
+544,with gf,2018-04-10,tuesday,2.0,Dumb and Dumber To,40000000,['Comedy'],2014-11-12,169837010,5.4,1140
+1504,with gf,2018-04-17,tuesday,2.0,Max Payne,35000000,['Action'],2008-10-15,85416905,5.2,625
+1696,with gf,2018-05-28,saturday,2.0,Poltergeist,35000000,"['Horror', 'Thriller']",2015-05-20,95437994,5.0,924
+1888,with gf,2018-08-03,friday,2.0,Green Lantern,200000000,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",2011-06-16,219851172,5.1,2551
+2304,with gf,2018-11-19,monday,2.0,Fifty Shades of Grey,40000000,"['Drama', 'Romance', 'Thriller']",2015-02-11,571006128,5.2,3350
+2368,with gf,2018-12-08,saturday,2.0,Mortdecai,60000000,"['Comedy', 'Adventure']",2015-01-21,30418560,5.4,1078
+2656,with gf,2019-02-26,tuesday,2.0,Drive Angry,50000000,"['Fantasy', 'Thriller', 'Action', 'Crime']",2011-02-24,28931401,5.3,608
+4128,Family,2019-01-14,monday,2.0,Couples Retreat,70000000,"['Comedy', 'Romance']",2009-09-19,171844840,5.3,601
+5344,with gf,2019-01-06,sunday,2.0,Babylon A.D.,70000000,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",2008-08-20,72108608,5.4,687
+5440,with gf,2018-03-30,friday,2.0,The Incredible Burt Wonderstone,30000000,['Comedy'],2013-03-14,27437881,5.3,732
+7168,with gf,2019-05-05,sunday,2.0,Blackhat,70000000,"['Crime', 'Drama', 'Mystery']",2015-01-13,17752940,5.1,842
+7296,Family,2018-06-12,tuesday,2.0,Evan Almighty,175000000,"['Fantasy', 'Comedy', 'Family']",2007-06-09,173000000,5.3,1194
+8128,Family,2018-05-21,monday,2.0,Paul Blart: Mall Cop,26000000,"['Action', 'Adventure', 'Comedy', 'Family']",2009-01-15,183293131,5.2,807
+160,with gf,2018-11-11,saturday,3.0,Deliver Us from Evil,30000000,"['Thriller', 'Crime', 'Horror']",2014-07-01,0,5.9,705
+736,with gf,2018-10-12,friday,3.0,Mad Max Beyond Thunderdome,12305523,"['Action', 'Adventure', 'Science Fiction']",1985-06-29,36230219,5.9,765
+864,with gf,2018-05-01,tuesday,3.0,The Three Musketeers,75000000,"['Adventure', 'Action', 'Thriller']",2011-08-31,132274484,5.6,945
+1440,Family,2018-04-07,saturday,3.0,Two Weeks Notice,60000000,"['Comedy', 'Romance']",2002-12-19,93354918,5.9,505
+1920,Family,2018-08-11,saturday,3.0,Stuart Little,133000000,"['Animation', 'Fantasy', 'Family', 'Comedy']",1999-12-17,300135367,5.8,998
+2400,Family,2018-12-16,sunday,3.0,Night at the Museum: Battle of the Smithsonian,150000000,"['Adventure', 'Fantasy', 'Action', 'Comedy', 'Family']",2009-05-20,413106170,5.9,2026
+6144,with gf,2018-10-23,tuesday,3.0,The X Files: I Want to Believe,30000000,"['Drama', 'Mystery', 'Science Fiction', 'Thriller']",2008-07-24,68369434,5.5,534
+7456,with gf,2018-11-18,sunday,3.0,The Men Who Stare at Goats,24000000,"['Comedy', 'War']",2009-10-17,68729358,5.9,755
+7936,with gf,2018-06-13,wednesday,3.0,LOL,11000000,"['Drama', 'Comedy', 'Romance']",2012-02-10,0,5.8,905
+0,with gf,2018-03-30,friday,4.0,The Matrix,63000000,"['Action', 'Science Fiction']",1999-03-30,463517383,7.9,9079
+64,with gf,2018-06-10,saturday,4.0,Aliens,18500000,"['Horror', 'Action', 'Thriller', 'Science Fiction']",1986-07-18,183316455,7.7,3282
+96,with gf,2018-08-05,sunday,4.0,Kill Bill: Vol. 2,30000000,"['Action', 'Crime', 'Thriller']",2004-04-16,152159461,7.7,4061
+576,Family,2018-10-27,saturday,4.0,Harry Potter and the Philosopher's Stone,125000000,"['Adventure', 'Fantasy', 'Family']",2001-11-16,976475550,7.5,7188
+1728,with gf,2018-06-06,wednesday,4.0,The Fault in Our Stars,12000000,"['Romance', 'Drama']",2014-05-16,307166834,7.6,3868
+1984,Alone,2018-09-02,sunday,4.0,Million Dollar Baby,30000000,['Drama'],2004-12-15,216763646,7.7,2519
+2016,with gf,2018-09-11,tuesday,4.0,Batman Begins,150000000,"['Action', 'Crime', 'Drama']",2005-06-10,374218673,7.5,7511
+2080,with gf,2018-09-25,tuesday,4.0,3 Idiots,9000000,"['Drama', 'Comedy', 'Romance']",2009-12-23,70000000,7.8,850
+2208,Family,2018-10-25,thursday,4.0,The Princess Bride,16000000,"['Adventure', 'Family', 'Fantasy', 'Comedy', 'Romance']",1987-09-18,30857814,7.6,1518
+2560,with gf,2019-02-03,sunday,4.0,Gattaca,36000000,"['Thriller', 'Science Fiction', 'Mystery', 'Romance']",1997-09-07,12532777,7.5,1846
+2688,with gf,2019-03-08,saturday,4.0,Shaun of the Dead,4000000,"['Horror', 'Comedy']",2004-04-09,30039392,7.5,2479
+2848,with gf,2019-04-24,wednesday,4.0,Ip Man,11715578,"['Drama', 'Action', 'History']",2008-12-12,21888598,7.5,1309
+4320,with gf,2019-01-18,friday,4.0,Moonrise Kingdom,16000000,"['Comedy', 'Drama', 'Romance']",2012-05-16,68263166,7.6,1701
+4576,with gf,2018-10-20,sunday,4.0,Breakfast at Tiffany's,2500000,"['Comedy', 'Drama', 'Romance']",1961-10-05,9500000,7.6,1082
+4608,Alone,2019-02-13,wednesday,4.0,Dog Day Afternoon,1800000,"['Crime', 'Drama', 'Thriller']",1975-08-11,46665856,7.6,685
+5664,with gf,2018-11-11,sunday,4.0,Platoon,6000000,"['Drama', 'War', 'Action']",1986-12-18,138530565,7.5,1236
+5920,Family,2018-07-02,monday,4.0,Toy Story,30000000,"['Animation', 'Comedy', 'Family']",1995-10-30,373554033,7.7,5415
+6496,with gf,2018-09-05,sunday,4.0,Dial M for Murder,1400000,"['Crime', 'Mystery', 'Thriller']",1954-05-29,3000000,7.9,539
+6880,with gf,2018-08-15,wednesday,4.0,The Notebook,29000000,"['Romance', 'Drama']",2004-06-25,115603229,7.7,3163
+7104,Family,2018-07-07,saturday,4.0,Kubo and the Two Strings,60000000,"['Animation', 'Adventure', 'Family']",2016-08-18,69929545,7.7,982
+7776,with gf,2018-12-15,sunday,4.0,The Great Escape,4000000,"['Adventure', 'Drama', 'History', 'Thriller', 'War']",1963-06-20,11744471,7.8,731
+7968,with gf,2018-10-29,monday,4.0,Rush,38000000,"['Drama', 'Action']",2013-09-02,90247624,7.7,2310
+8448,Alone,2018-04-10,tuesday,4.0,Full Metal Jacket,17000000,"['Drama', 'War']",1987-06-26,46357676,7.9,2595
+8800,with gf,2018-06-28,thursday,4.0,Dunkirk,100000000,"['Action', 'Drama', 'History', 'Thriller', 'War']",2017-07-19,519876949,7.5,2712
+224,with gf,2019-02-28,thursday,4.5,The Imitation Game,14000000,"['History', 'Drama', 'Thriller', 'War']",2014-11-14,233555708,8.0,5895
+1568,Alone,2018-04-29,sunday,4.5,The Lord of the Rings: The Fellowship of the Ring,93000000,"['Adventure', 'Fantasy', 'Action']",2001-12-18,871368364,8.0,8892
+1760,with gf,2018-06-16,sunday,4.5,The Great Dictator,2000000,['Comedy'],1940-10-15,11000000,8.1,756
+2144,with gf,2018-10-09,tuesday,4.5,The Prestige,40000000,"['Drama', 'Mystery', 'Thriller']",2006-10-19,109676311,8.0,4510
+2336,Alone,2018-11-29,thursday,4.5,Grave of the Fireflies,3700000,"['Animation', 'Drama', 'War']",1988-04-16,0,8.2,974
+2528,with gf,2019-01-26,saturday,4.5,Taxi Driver,1300000,"['Crime', 'Drama']",1976-02-07,28262574,8.1,2632
+4256,with gf,2018-04-27,sunday,4.5,Once Upon a Time in the West,5000000,['Western'],1968-12-21,5321508,8.1,1160
+6176,Alone,2019-02-03,sunday,4.5,One Flew Over the Cuckoo's Nest,3000000,['Drama'],1975-11-18,108981275,8.3,3001
+6560,with gf,2019-01-27,sunday,4.5,Star Wars,11000000,"['Adventure', 'Action', 'Science Fiction']",1977-05-25,775398007,8.1,6778
+6944,with gf,2019-04-21,sunday,4.5,Oldboy,3000000,"['Drama', 'Thriller', 'Mystery', 'Action']",2003-01-01,14980005,8.0,2000
+7136,with gf,2018-12-03,monday,4.5,The Green Mile,60000000,"['Fantasy', 'Drama', 'Crime']",1999-12-10,284600000,8.2,4166
+7328,with gf,2019-04-26,friday,4.5,The Dark Knight,185000000,"['Drama', 'Action', 'Crime', 'Thriller']",2008-07-16,1004558444,8.3,12269
+8288,with gf,2018-06-23,saturday,4.5,Reservoir Dogs,1200000,"['Crime', 'Thriller']",1992-09-02,14661007,8.1,3821
+8480,Alone,2018-09-19,wednesday,4.5,American History X,20000000,['Drama'],1998-10-30,23875127,8.2,3120
+928,with gf,2018-11-12,sunday,5.0,Metropolis,92620000,"['Drama', 'Science Fiction']",1927-01-10,650422,8.0,666
+960,with gf,2019-02-18,monday,5.0,Room,6000000,"['Drama', 'Thriller']",2015-10-16,35401758,8.1,2838
+1408,with gf,2018-04-01,sunday,5.0,The Prestige,40000000,"['Drama', 'Mystery', 'Thriller']",2006-10-19,109676311,8.0,4510
+1536,Alone,2018-04-24,tuesday,5.0,Grave of the Fireflies,3700000,"['Animation', 'Drama', 'War']",1988-04-16,0,8.2,974
+1600,with gf,2018-05-08,tuesday,5.0,Taxi Driver,1300000,"['Crime', 'Drama']",1976-02-07,28262574,8.1,2632
+1824,with gf,2018-07-07,saturday,5.0,Life Is Beautiful,20000000,"['Comedy', 'Drama']",1997-12-20,229400000,8.3,3643
+2048,Family,2018-09-20,thursday,5.0,Spirited Away,15000000,"['Fantasy', 'Adventure', 'Animation', 'Family']",2001-07-20,274925095,8.3,3968
+2176,Family,2018-10-16,tuesday,5.0,Back to the Future,19000000,"['Adventure', 'Comedy', 'Science Fiction', 'Family']",1985-07-03,381109762,8.0,6239
+2464,Alone,2019-01-05,saturday,5.0,The Lord of the Rings: The Return of the King,94000000,"['Adventure', 'Fantasy', 'Action']",2003-12-01,1118888979,8.1,8226
+2496,with gf,2019-01-17,sunday,5.0,Once Upon a Time in the West,5000000,['Western'],1968-12-21,5321508,8.1,1160
+2720,with gf,2019-03-18,monday,5.0,Interstellar,165000000,"['Adventure', 'Drama', 'Science Fiction']",2014-11-05,675120017,8.1,11187
+2784,Alone,2019-04-03,wednesday,5.0,The Pianist,35000000,"['Drama', 'War']",2002-09-24,120072577,8.1,1927
+4288,Alone,2018-08-30,thursday,5.0,The Silence of the Lambs,19000000,"['Crime', 'Drama', 'Thriller']",1991-02-01,272742922,8.1,4549
+4960,Family,2018-07-31,tuesday,5.0,The Lion King,45000000,"['Family', 'Animation', 'Drama']",1994-06-23,788241776,8.0,5520
+6080,Alone,2018-04-14,saturday,5.0,Dead Poets Society,16400000,['Drama'],1989-06-02,235860116,8.1,2786
+6528,Alone,2018-11-12,monday,5.0,Fight Club,63000000,['Drama'],1999-10-15,100853753,8.3,9678
+7744,with gf,2018-08-15,sunday,5.0,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1800000,"['Drama', 'Comedy', 'War']",1964-01-29,9440272,8.0,1472
+8160,Family,2018-12-24,sunday,5.0,It's a Wonderful Life,3180000,"['Drama', 'Family', 'Fantasy']",1946-12-20,9644124,8.0,1103
+8320,Alone,2018-11-11,sunday,5.0,Paths of Glory,935000,"['Drama', 'War']",1957-09-18,0,8.2,565
+8640,Alone,2018-08-02,thursday,5.0,The Shawshank Redemption,25000000,"['Drama', 'Crime']",1994-09-23,28341469,8.5,8358
