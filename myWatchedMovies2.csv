@@ -1,250 +1,250 @@
 ,Watched,Date,Day,Rating,movieId,title,budget,genres,release_date,revenue,vote_average,vote_count
-32,Family,2018-05-07,monday,1,4258,Scary Movie 5,20000000,Comedy,2013-04-11,78378744,4.6,813
-1632,Family,2018-05-14,monday,1,71880,Jack and Jill,79000000,Comedy,2011-11-11,149673788,4,619
-3232,Family,2018-07-07,saturday,1,188207,The Legend of Hercules,70000000,"Action, Adventure",2014-01-10,61279452,4.4,542
-4832,Family,2018-12-25,tuesday,1,314,Catwoman,100000000,"Action, Crime",2004-07-22,82102379,4.2,833
-6432,Family,2018-04-16,monday,1,263472,Knock Knock,2500000,"Drama, Thriller",2015-06-26,6341684,4.9,880
-8032,Family,2018-06-20,wednesday,1,37169,The Human Centipede (First Sequence),2011799,Horror,2009-04-26,0,4.9,528
-384,Alone,2018-09-18,tuesday,2,403119,47 Meters Down,5500000,"Drama, Thriller, Horror, Adventure",2017-06-15,44235023,5.1,548
-544,with gf,2018-04-10,tuesday,2,100042,Dumb and Dumber To,40000000,Comedy,2014-11-12,169837010,5.4,1140
-640,Alone,2018-09-16,sunday,2,9645,Ghost Ship,35000000,"Horror, Mystery, Thriller",2002-10-25,68349884,5.3,540
-768,Alone,2018-04-30,monday,2,282035,The Mummy,125000000,"Thriller, Action, Adventure",2017-06-06,407778013,5.4,2122
-1504,with gf,2018-04-17,tuesday,2,13051,Max Payne,35000000,Action,2008-10-15,85416905,5.2,625
-1696,with gf,2018-05-28,monday,2,243688,Poltergeist,35000000,"Horror, Thriller",2015-05-20,95437994,5,924
-1888,with gf,2018-08-03,friday,2,44912,Green Lantern,200000000,"Adventure, Action, Thriller, Science Fiction",2011-06-16,219851172,5.1,2551
-2304,with gf,2018-11-19,monday,2,216015,Fifty Shades of Grey,40000000,"Drama, Romance, Thriller",2015-02-11,571006128,5.2,3350
-2368,with gf,2018-12-08,saturday,2,210860,Mortdecai,60000000,"Comedy, Adventure",2015-01-21,30418560,5.4,1078
-2656,with gf,2019-02-26,tuesday,2,47327,Drive Angry,50000000,"Fantasy, Thriller, Action, Crime",2011-02-24,28931401,5.3,608
-3360,Alone,2018-09-07,friday,2,278924,Mechanic: Resurrection,40000000,"Action, Crime, Thriller",2016-08-25,125729635,5.3,1236
-4128,with gf,2019-01-14,monday,2,19899,Couples Retreat,70000000,"Comedy, Romance",2009-09-19,171844840,5.3,601
-4384,Alone,2018-06-19,tuesday,2,1979,Fantastic 4: Rise of the Silver Surfer,130000000,"Adventure, Fantasy, Action, Thriller",2007-06-13,289047763,5.4,2648
-4896,Alone,2019-01-29,tuesday,2,43074,Ghostbusters,144000000,"Action, Fantasy, Comedy",2016-07-14,229147509,5.3,2203
-5088,Family,2018-08-25,saturday,2,72559,G.I. Joe: Retaliation,130000000,"Adventure, Action, Science Fiction, Thriller",2013-03-26,371876278,5.4,3045
-5344,with gf,2019-01-06,sunday,2,9381,Babylon A.D.,70000000,"Action, Adventure, Science Fiction, Thriller",2008-08-20,72108608,5.4,687
-5440,with gf,2018-03-30,friday,2,124459,The Incredible Burt Wonderstone,30000000,Comedy,2013-03-14,27437881,5.3,732
-5760,Alone,2018-08-03,friday,2,49524,R.I.P.D.,130000000,"Fantasy, Action, Comedy, Crime",2013-07-18,61648500,5.4,1280
-6336,Alone,2018-11-30,friday,2,271969,Ben-Hur,100000000,"Adventure, Drama, Action",2016-08-17,94061311,5.3,642
-7168,with gf,2019-05-05,sunday,2,201088,Blackhat,70000000,"Crime, Drama, Mystery",2015-01-13,17752940,5.1,842
-7264,Alone,2019-02-25,monday,2,7840,"10,000 BC",105000000,"Adventure, Action, Drama, Fantasy",2008-02-22,266000000,5.1,934
-7296,with gf,2018-06-12,tuesday,2,2698,Evan Almighty,175000000,"Fantasy, Comedy, Family",2007-06-09,173000000,5.3,1194
-7680,Alone,2018-12-28,friday,2,13836,Race to Witch Mountain,50000000,"Adventure, Family, Fantasy, Science Fiction, Thriller",2009-03-12,106303988,5.4,520
-7840,Alone,2018-07-01,sunday,2,18480,Brüno,42000000,Comedy,2009-07-08,0,5.4,528
-8128,with gf,2018-05-21,monday,2,14560,Paul Blart: Mall Cop,26000000,"Action, Adventure, Comedy, Family",2009-01-15,183293131,5.2,807
-160,with gf,2018-11-11,sunday,3,184346,Deliver Us from Evil,30000000,"Thriller, Crime, Horror",2014-07-01,0,5.9,705
-192,Family,2018-12-25,tuesday,3,9955,Blades of Glory,53000000,"Action, Comedy, Drama",2007-03-30,0,5.9,578
-352,Family,2018-08-04,saturday,3,257344,Pixels,88000000,"Action, Comedy, Science Fiction",2015-07-16,243637091,5.6,2564
-512,Family,2019-04-20,saturday,3,23827,Paranormal Activity,15000,"Horror, Mystery",2007-09-14,193355800,5.9,1351
-672,Family,2019-01-05,saturday,3,709,Licence to Kill,32000000,"Adventure, Action, Thriller",1989-07-07,156167015,5.9,549
-736,with gf,2018-10-12,friday,3,9355,Mad Max Beyond Thunderdome,12305523,"Action, Adventure, Science Fiction",1985-06-29,36230219,5.9,765
-832,Family,2019-03-28,thursday,3,10202,Bedtime Stories,80000000,"Fantasy, Comedy, Family, Romance",2008-12-24,212874442,5.9,924
-864,with gf,2018-05-01,tuesday,3,52451,The Three Musketeers,75000000,"Adventure, Action, Thriller",2011-08-31,132274484,5.6,945
-992,Family,2018-04-10,tuesday,3,86834,Noah,125000000,"Drama, Adventure",2014-03-20,362637473,5.5,2408
-1152,Family,2018-12-07,friday,3,62213,Dark Shadows,150000000,"Comedy, Fantasy",2012-05-08,245527149,5.7,2383
-1312,Family,2018-06-02,saturday,3,335796,Ouija: Origin of Evil,9000000,"Horror, Thriller",2016-10-20,81705746,5.8,735
-1440,with gf,2018-04-07,saturday,3,2642,Two Weeks Notice,60000000,"Comedy, Romance",2002-12-19,93354918,5.9,505
-1472,Family,2018-04-12,thursday,3,283445,Sinister 2,10000000,Horror,2015-08-19,52882018,5.5,605
-1792,Family,2018-07-01,sunday,3,14869,G.I. Joe: The Rise of Cobra,175000000,"Adventure, Action, Thriller, Science Fiction",2009-08-04,302469017,5.6,1988
-1920,with gf,2018-08-11,saturday,3,10137,Stuart Little,133000000,"Animation, Fantasy, Family, Comedy",1999-12-17,300135367,5.8,998
-1952,Family,2018-08-23,thursday,3,36669,Die Another Day,140000000,"Adventure, Action, Thriller",2002-11-17,431971116,5.8,1112
-2112,Family,2018-10-02,tuesday,3,11674,101 Dalmatians,54000000,"Comedy, Family",1996-11-17,320689294,5.6,722
-2272,Family,2018-11-13,tuesday,3,41513,The Smurfs,110000000,"Animation, Family, Adventure, Comedy, Fantasy",2011-07-29,563749323,5.5,1201
-2400,with gf,2018-12-16,sunday,3,18360,Night at the Museum: Battle of the Smithsonian,150000000,"Adventure, Fantasy, Action, Comedy, Family",2009-05-20,413106170,5.9,2026
-2432,Family,2018-12-26,wednesday,3,23437,A Nightmare on Elm Street,35000000,"Horror, Mystery, Thriller",2010-04-30,115664037,5.5,771
-2592,Family,2019-02-08,friday,3,10661,You Don't Mess with the Zohan,90000000,"Comedy, Action",2008-06-05,201596308,5.5,1068
-2752,Family,2019-03-26,tuesday,3,10022,The Pacifier,56000000,"Action, Comedy, Drama, Family, Thriller",2005-03-04,113006880,5.8,865
-2912,Family,2018-04-08,sunday,3,951,Kindergarten Cop,15000000,Comedy,1990-12-21,201957688,5.8,643
-2976,Alone,2018-04-21,saturday,3,9600,Big Momma's House,30000000,"Crime, Comedy",2000-05-31,173959438,5.6,514
-3072,Family,2018-05-13,sunday,3,266294,Sisters,30000000,Comedy,2015-12-18,105011053,5.8,593
-3392,Family,2018-09-20,thursday,3,109431,Identity Thief,35000000,"Comedy, Crime",2013-02-07,173965010,5.6,1667
-3424,Alone,2018-10-01,monday,3,353491,The Dark Tower,60000000,"Action, Western, Science Fiction, Fantasy, Horror",2017-08-03,71000000,5.7,688
-3552,Family,2018-11-18,sunday,3,98357,Broken City,56000000,"Thriller, Crime, Drama",2013-01-18,19701164,5.7,601
-3712,Family,2019-01-27,sunday,3,534,Terminator Salvation,200000000,"Action, Science Fiction, Thriller",2009-05-20,371353001,5.9,2496
-3872,Family,2019-03-31,sunday,3,3597,I Know What You Did Last Summer,17000000,"Horror, Thriller, Mystery",1997-10-17,125586134,5.6,698
-3936,Alone,2019-04-29,monday,3,315837,Ghost in the Shell,110000000,"Action, Science Fiction, Thriller",2017-03-29,169801921,5.9,2547
-4032,Family,2018-10-28,sunday,3,7552,Fun with Dick and Jane,100000000,Comedy,2005-12-21,202026112,5.9,639
-4192,Family,2019-03-02,saturday,3,76494,What to Expect When You're Expecting,40000000,"Romance, Comedy, Drama",2012-05-17,79700000,5.8,611
-4352,Family,2018-04-08,sunday,3,76640,The Last Stand,30000000,"Action, Crime, Thriller",2013-01-12,0,5.7,1282
-4512,Family,2018-04-11,wednesday,3,1970,The Grudge,10000000,"Horror, Mystery, Thriller",2004-10-22,183474602,5.8,889
-4672,Family,2018-07-19,thursday,3,11452,National Lampoon’s Van Wilder,5000000,"Comedy, Romance",2002-03-29,38275483,5.9,867
-4992,Family,2019-02-28,thursday,3,13207,Friday the 13th,19000000,Horror,2009-02-11,91379051,5.7,566
-5152,Family,2019-02-05,tuesday,3,258489,The Legend of Tarzan,180000000,"Action, Adventure",2016-06-29,356743061,5.5,2488
-5312,Family,2018-05-04,friday,3,58595,Snow White and the Huntsman,170000000,"Adventure, Fantasy, Drama",2012-05-30,396600000,5.8,3183
-5472,Family,2018-09-06,thursday,3,47971,xXx: Return of Xander Cage,85000000,"Action, Adventure, Crime",2017-01-13,346147658,5.5,1497
-5632,Family,2018-05-14,monday,3,8247,Jumper,85000000,"Adventure, Fantasy, Science Fiction",2008-02-10,222231186,5.9,1855
-5728,Alone,2018-05-11,friday,3,91314,Transformers: Age of Extinction,210000000,"Science Fiction, Action, Adventure",2014-06-25,1091405097,5.8,3136
-5792,Family,2018-10-12,friday,3,1995,Lara Croft: Tomb Raider,115000000,"Adventure, Fantasy, Action, Thriller",2001-06-11,274703340,5.7,2235
-5952,Family,2018-12-29,saturday,3,59962,This Means War,65000000,"Action, Comedy, Romance",2012-02-14,156974557,5.9,1411
-6112,Family,2018-07-11,wednesday,3,10025,Just My Luck,28000000,"Comedy, Drama, Family, Fantasy, Romance",2006-05-12,38159905,5.8,512
-6144,with gf,2018-10-23,tuesday,3,8836,The X Files: I Want to Believe,30000000,"Drama, Mystery, Science Fiction, Thriller",2008-07-24,68369434,5.5,534
-6208,Alone,2018-04-15,sunday,3,228165,The SpongeBob Movie: Sponge Out of Water,74000000,"Animation, Adventure, Comedy, Family",2015-02-05,311594032,5.7,733
-6272,Family,2018-08-08,wednesday,3,9506,Anger Management,75000000,Comedy,2003-04-11,195745823,5.9,937
-6592,Family,2019-05-07,tuesday,3,57201,The Lone Ranger,255000000,"Action, Adventure, Western",2013-07-03,89289910,5.9,2361
-6688,Alone,2018-08-19,sunday,3,6282,Coyote Ugly,45000000,"Comedy, Drama, Music, Romance",2000-07-30,113916474,5.8,590
-6752,Family,2018-12-28,friday,3,296,Terminator 3: Rise of the Machines,200000000,"Action, Thriller, Science Fiction",2003-07-02,435000000,5.9,2177
-6912,Family,2018-11-22,thursday,3,2268,The Golden Compass,180000000,"Adventure, Fantasy",2007-12-04,372234864,5.8,1347
-7072,Family,2018-08-24,friday,3,254473,Brick Mansions,28000000,"Action, Crime, Drama",2014-04-22,68896829,5.7,628
-7232,Family,2018-10-16,tuesday,3,24021,The Twilight Saga: Eclipse,68000000,"Adventure, Fantasy, Drama, Romance",2010-06-23,698491347,5.9,2382
-7392,Family,2018-12-25,tuesday,3,324668,Jason Bourne,120000000,"Action, Thriller",2016-07-27,415484914,5.9,2386
-7456,with gf,2018-11-18,sunday,3,10313,The Men Who Stare at Goats,24000000,"Comedy, War",2009-10-17,68729358,5.9,755
-7552,Family,2019-02-01,friday,3,38117,Beastly,17000000,"Drama, Fantasy, Romance",2011-01-21,43165571,5.9,878
-7712,Family,2018-04-13,friday,3,34016,She's Out of My League,20000000,"Comedy, Romance",2010-03-11,49779728,5.9,544
-7872,Family,2018-11-20,tuesday,3,308531,Teenage Mutant Ninja Turtles: Out of the Shadows,135000000,"Fantasy, Action, Adventure, Comedy",2016-06-01,245623848,5.8,984
-7936,with gf,2018-06-13,wednesday,3,80271,LOL,11000000,"Drama, Comedy, Romance",2012-02-10,0,5.8,905
-8192,Family,2018-05-12,saturday,3,33909,Wall Street: Money Never Sleeps,70000000,"Drama, Crime",2010-09-02,134748021,5.8,504
-8352,Family,2019-04-07,sunday,3,126889,Alien: Covenant,97000000,"Horror, Science Fiction, Thriller",2017-05-09,232380243,5.7,2677
-8512,Family,2019-04-22,monday,3,28211,Chloe,15000000,"Drama, Thriller, Mystery",2009-03-25,8459458,5.9,514
-8608,Alone,2019-04-10,wednesday,3,50619,The Twilight Saga: Breaking Dawn - Part 1,110000000,"Adventure, Fantasy, Romance",2011-03-15,712171856,5.8,2622
-8672,Family,2019-04-06,saturday,3,58224,Mr. Popper's Penguins,55000000,"Comedy, Family",2011-06-17,187361754,5.7,775
-8704,Alone,2018-07-14,saturday,3,869,Planet of the Apes,100000000,"Thriller, Science Fiction, Action, Adventure",2001-07-25,362211740,5.6,1270
-8832,Family,2018-12-09,sunday,3,331313,Keeping Up with the Joneses,40000000,"Action, Comedy",2016-10-20,29918745,5.9,608
-8928,Alone,2019-02-20,wednesday,3,152760,The Monuments Men,70000000,"War, Drama, History, Action",2014-01-24,154984035,5.8,1545
-0,with gf,2018-03-30,friday,4,308639,Dope,700000,"Crime, Drama, Comedy",2015-06-19,17986781,7.2,698
-64,with gf,2018-06-10,sunday,4,1878,Fear and Loathing in Las Vegas,18500000,"Adventure, Drama, Comedy",1998-05-22,10680275,7.2,1321
-96,with gf,2018-08-05,sunday,4,152584,Blue Is the Warmest Color,4300000,"Romance, Drama",2013-10-09,10165694,7.2,1114
-288,Alone,2018-04-30,monday,4,9473,"South Park: Bigger, Longer & Uncut",21000000,"Animation, Comedy, Music",1999-06-30,0,7.1,916
-448,Alone,2018-12-28,friday,4,2501,The Bourne Identity,60000000,"Action, Drama, Mystery, Thriller",2002-06-14,214034224,7.3,3640
-576,with gf,2018-10-27,saturday,4,65754,The Girl with the Dragon Tattoo,90000000,"Thriller, Crime, Mystery, Drama",2011-12-14,232617430,7.2,2479
-1024,Alone,2018-05-10,thursday,4,8055,The Reader,32000000,"Drama, Romance",2008-12-10,113019290,7.2,835
-1120,Alone,2018-10-08,monday,4,68722,The Master,32000000,Drama,2012-09-07,28258060,7,720
-1216,Alone,2019-03-22,friday,4,601,E.T. the Extra-Terrestrial,10500000,"Science Fiction, Adventure, Family, Fantasy",1982-04-03,792965326,7.3,3359
-1248,Family,2018-07-09,monday,4,401,Garden State,2500000,"Comedy, Drama, Romance",2004-07-28,26781723,7.1,631
-1344,Alone,2018-10-12,friday,4,82690,Wreck-It Ralph,165000000,"Family, Animation, Comedy, Adventure",2012-11-01,471222889,7.1,4656
-1728,with gf,2018-06-06,wednesday,4,297762,Wonder Woman,149000000,"Action, Adventure, Fantasy",2017-05-30,820580447,7.2,5025
-1984,with gf,2018-09-02,sunday,4,69,Walk the Line,28000000,"Drama, Music, Romance",2005-09-13,186438883,7.3,732
-2016,with gf,2018-09-11,tuesday,4,5825,National Lampoon's Christmas Vacation,27000000,Comedy,1989-12-01,71320000,7.1,668
-2080,with gf,2018-09-25,tuesday,4,76341,Mad Max: Fury Road,150000000,"Action, Adventure, Science Fiction, Thriller",2015-05-13,378858340,7.3,9629
-2208,with gf,2018-10-25,thursday,4,813,Airplane!,3500000,Comedy,1980-07-02,83453539,7.1,1104
-2560,with gf,2019-02-03,sunday,4,44826,Hugo,170000000,"Adventure, Drama, Family",2011-11-22,185770160,7,2197
-2688,with gf,2019-03-08,friday,4,522,Ed Wood,18000000,"Comedy, Drama, History",1994-09-27,5887457,7.3,639
-2848,with gf,2019-04-24,wednesday,4,328387,Nerve,19000000,"Mystery, Adventure, Crime",2016-07-27,85241496,7.1,2262
-3040,Alone,2018-05-05,saturday,4,300671,13 Hours: The Secret Soldiers of Benghazi,50000000,"Action, Drama, History, Thriller, War",2016-01-13,69411370,7,963
-3136,Alone,2018-05-30,wednesday,4,376660,The Edge of Seventeen,9000000,"Comedy, Drama",2016-11-18,18803648,7.3,952
-3328,Alone,2018-08-25,saturday,4,239571,The Best of Me,26000000,"Drama, Romance",2014-10-16,35926213,7.2,777
-3520,Alone,2018-11-10,saturday,4,161,Ocean's Eleven,85000000,"Thriller, Crime",2001-12-07,450717150,7.2,3857
-3648,Alone,2018-12-30,sunday,4,8329,[REC],1500000,"Horror, Mystery",2007-04-10,30448000,7.1,954
-3744,Alone,2019-02-10,sunday,4,10112,The Aristocats,4000000,"Animation, Comedy, Family, Adventure",1970-12-23,55675257,7.1,1287
-3808,Alone,2019-03-05,tuesday,4,68734,Argo,44500000,"Drama, Thriller",2012-10-11,232324128,7.1,3473
-4096,Family,2019-05-09,thursday,4,324849,The Lego Batman Movie,80000000,"Action, Animation, Comedy, Family, Fantasy",2017-02-08,311950384,7.2,1473
-4224,Family,2018-09-21,friday,4,24428,The Avengers,220000000,"Science Fiction, Action, Adventure",2012-04-25,1519557910,7.4,12000
-4320,with gf,2019-01-18,friday,4,11886,Robin Hood,15000000,"Animation, Family",1973-11-08,32056467,7,1155
-4480,Alone,2019-03-11,monday,4,9444,Anastasia,53000000,"Animation, Family",1997-11-20,139804348,7.4,1481
-4576,with gf,2018-10-20,saturday,4,9693,Children of Men,76000000,"Drama, Action, Thriller, Science Fiction",2006-09-22,69959751,7.4,2120
-4608,with gf,2019-02-13,wednesday,4,2292,Clerks,27000,Comedy,1994-09-13,3151130,7.4,769
-4704,Alone,2018-11-02,friday,4,119450,Dawn of the Planet of the Apes,170000000,"Science Fiction, Action, Drama, Thriller",2014-06-26,710644566,7.3,4511
-4800,Family,2019-02-28,thursday,4,421,The Life Aquatic with Steve Zissou,50000000,"Adventure, Comedy, Drama",2004-12-10,34808403,7.1,781
-5056,Alone,2019-01-04,friday,4,628,Interview with the Vampire,60000000,"Horror, Romance",1994-11-11,223664608,7.2,1558
-5376,Alone,2018-05-29,tuesday,4,37135,Tarzan,150000000,"Adventure, Animation, Drama, Family",1999-06-18,448000000,7.1,1715
-5568,Alone,2018-11-28,wednesday,4,3580,Changeling,55000000,"Crime, Drama, Mystery",2008-01-30,113020255,7.3,1151
-5664,with gf,2018-11-11,sunday,4,4553,The Machinist,5000000,"Thriller, Drama",2004-02-09,8203235,7.3,1280
-5920,with gf,2018-07-02,monday,4,1372,Blood Diamond,100000000,"Drama, Thriller, Action",2006-12-07,170877916,7.4,2344
-6016,Alone,2018-10-03,wednesday,4,3933,Corpse Bride,40000000,"Romance, Fantasy, Animation, Music",2005-09-09,117195061,7.2,1957
-6240,Alone,2018-06-02,saturday,4,8741,The Thin Red Line,52000000,"Drama, History, War",1998-12-25,98126565,7.2,793
-6400,Alone,2019-04-19,friday,4,2567,The Aviator,116000000,Drama,2004-12-17,102000000,7,1526
-6496,with gf,2018-09-05,wednesday,4,15472,The Girl with the Dragon Tattoo,13000000,"Drama, Thriller, Crime, Mystery",2009-02-27,104345682,7.4,1020
-6784,Alone,2019-03-01,friday,4,228150,Fury,68000000,"War, Drama, Action",2014-10-15,211817906,7.4,4028
-6816,Family,2018-06-10,sunday,4,948,Halloween,300000,"Horror, Thriller",1978-10-25,70000000,7.4,1066
-6880,with gf,2018-08-15,wednesday,4,321741,Concussion,35000000,Drama,2015-11-12,50363790,7,844
-7008,Alone,2018-09-21,friday,4,50348,The Lincoln Lawyer,40000000,"Crime, Drama, Thriller",2011-03-17,85412898,7,923
-7104,with gf,2018-07-07,saturday,4,808,Shrek,60000000,"Adventure, Animation, Comedy, Family, Fantasy",2001-05-16,484409218,7.3,4183
-7488,Alone,2018-05-06,sunday,4,8374,The Boondock Saints,6000000,"Action, Thriller, Crime",1999-01-22,30471,7.2,848
-7584,Family,2018-07-27,friday,4,62215,Melancholia,7400000,"Drama, Science Fiction",2011-05-26,21817298,7,915
-7776,with gf,2018-12-15,saturday,4,281957,The Revenant,135000000,"Western, Drama, Adventure, Thriller",2015-12-25,532950503,7.3,6558
-7968,with gf,2018-10-29,monday,4,72113,Carnage,25000000,"Comedy, Drama",2011-09-16,27603069,7,760
-8064,Alone,2018-11-11,sunday,4,941,Lethal Weapon,15000000,"Adventure, Action, Comedy, Thriller, Crime",1987-03-06,120207127,7,1367
-8224,Alone,2018-10-28,sunday,4,58574,Sherlock Holmes: A Game of Shadows,125000000,"Adventure, Action, Crime, Mystery",2011-11-22,334615000,7,3971
-8448,with gf,2018-04-10,tuesday,4,6978,Big Trouble in Little China,25000000,"Action, Adventure, Comedy, Fantasy",1986-05-30,11000000,7.1,727
-8736,Alone,2018-12-08,saturday,4,329865,Arrival,47000000,"Thriller, Drama, Science Fiction, Mystery",2016-11-10,203388186,7.2,5729
-8800,with gf,2018-06-28,thursday,4,1592,Primal Fear,30000000,"Crime, Drama, Mystery, Thriller",1996-04-03,102616183,7.4,644
-224,with gf,2019-02-28,thursday,4.5,603,The Matrix,63000000,"Action, Science Fiction",1999-03-30,463517383,7.9,9079
-416,Alone,2018-11-05,monday,4.5,679,Aliens,18500000,"Horror, Action, Thriller, Science Fiction",1986-07-18,183316455,7.7,3282
-608,Alone,2018-05-02,wednesday,4.5,393,Kill Bill: Vol. 2,30000000,"Action, Crime, Thriller",2004-04-16,152159461,7.7,4061
-800,Alone,2018-10-20,saturday,4.5,578,Jaws,7000000,"Horror, Thriller, Adventure",1975-06-18,470654000,7.5,2628
-1184,Alone,2019-01-27,sunday,4.5,673,Harry Potter and the Prisoner of Azkaban,130000000,"Adventure, Fantasy, Family",2004-05-31,789804554,7.7,6037
-1568,with gf,2018-04-29,sunday,4.5,671,Harry Potter and the Philosopher's Stone,125000000,"Adventure, Fantasy, Family",2001-11-16,976475550,7.5,7188
-1760,with gf,2018-06-16,saturday,4.5,277216,Straight Outta Compton,28000000,"Drama, Music",2015-08-13,201634991,7.7,1381
-2144,with gf,2018-10-09,tuesday,4.5,525,The Blues Brothers,27000000,"Music, Comedy, Action, Crime",1980-06-17,115229890,7.5,1092
-2336,with gf,2018-11-29,thursday,4.5,400928,Gifted,7000000,Drama,2017-04-12,37461045,7.7,549
-2528,with gf,2019-01-26,saturday,4.5,197,Braveheart,72000000,"Action, Drama, History, War",1995-05-24,210000000,7.7,3404
-3104,Alone,2018-05-23,wednesday,4.5,45269,The King's Speech,15000000,"Drama, History",2010-09-06,414211549,7.6,2817
-3296,Alone,2018-08-12,sunday,4.5,222935,The Fault in Our Stars,12000000,"Romance, Drama",2014-05-16,307166834,7.6,3868
-3488,Alone,2018-10-28,sunday,4.5,70,Million Dollar Baby,30000000,Drama,2004-12-15,216763646,7.7,2519
-3680,Alone,2019-01-16,wednesday,4.5,272,Batman Begins,150000000,"Action, Crime, Drama",2005-06-10,374218673,7.5,7511
-4256,with gf,2018-04-27,friday,4.5,20453,3 Idiots,9000000,"Drama, Comedy, Romance",2009-12-23,70000000,7.8,850
-4448,Alone,2018-12-19,wednesday,4.5,2493,The Princess Bride,16000000,"Adventure, Family, Fantasy, Comedy, Romance",1987-09-18,30857814,7.6,1518
-4640,Alone,2018-04-28,saturday,4.5,782,Gattaca,36000000,"Thriller, Science Fiction, Mystery, Romance",1997-09-07,12532777,7.5,1846
-5024,Alone,2018-08-06,monday,4.5,747,Shaun of the Dead,4000000,"Horror, Comedy",2004-04-09,30039392,7.5,2479
-5216,Alone,2018-08-20,monday,4.5,14756,Ip Man,11715578,"Drama, Action, History",2008-12-12,21888598,7.5,1309
-5600,Alone,2019-04-18,thursday,4.5,10191,How to Train Your Dragon,165000000,"Fantasy, Adventure, Animation, Family",2010-03-05,494878759,7.5,4319
-5984,Alone,2018-05-26,saturday,4.5,334541,Manchester by the Sea,9000000,Drama,2016-11-18,75026965,7.5,1553
-6176,with gf,2019-02-03,sunday,4.5,50014,The Help,25000000,Drama,2011-08-09,124272124,7.9,1966
-6368,Alone,2019-02-06,wednesday,4.5,31011,Mr. Nobody,47000000,"Science Fiction, Drama, Romance, Fantasy",2009-09-11,3547209,7.9,1616
-6560,with gf,2019-01-27,sunday,4.5,180299,The Raid 2,4500000,"Action, Crime, Thriller",2014-03-27,2627209,7.6,832
-6944,with gf,2019-04-21,sunday,4.5,396535,Train to Busan,8820000,"Action, Horror, Thriller",2016-07-20,2129768,7.7,984
-7136,with gf,2018-12-03,monday,4.5,872,Singin' in the Rain,2540800,"Comedy, Music, Romance",1952-04-10,7200000,7.9,747
-7328,with gf,2019-04-26,friday,4.5,387,Das Boot,14000000,"Action, Drama, History, War, Adventure",1981-09-16,85000000,7.9,623
-7520,Alone,2018-08-31,friday,4.5,348,Alien,11000000,"Horror, Action, Thriller, Science Fiction",1979-05-25,104931801,7.9,4564
-7904,Alone,2019-04-21,sunday,4.5,83666,Moonrise Kingdom,16000000,"Comedy, Drama, Romance",2012-05-16,68263166,7.6,1701
-8288,with gf,2018-06-23,saturday,4.5,1366,Rocky,1000000,Drama,1976-11-21,117235147,7.5,1843
-8480,with gf,2018-09-19,wednesday,4.5,164,Breakfast at Tiffany's,2500000,"Comedy, Drama, Romance",1961-10-05,9500000,7.6,1082
-8864,Alone,2018-05-01,tuesday,4.5,968,Dog Day Afternoon,1800000,"Crime, Drama, Thriller",1975-08-11,46665856,7.6,685
-256,Alone,2018-03-30,friday,5,205596,The Imitation Game,14000000,"History, Drama, Thriller, War",2014-11-14,233555708,8,5895
-480,Alone,2019-03-02,saturday,5,311,Once Upon a Time in America,30000000,"Drama, Crime",1984-02-16,0,8.3,1104
-704,Family,2018-10-04,thursday,5,28,Apocalypse Now,31500000,"Drama, War",1979-08-15,89460381,8,2112
-928,with gf,2018-11-12,monday,5,19,Metropolis,92620000,"Drama, Science Fiction",1927-01-10,650422,8,666
-960,with gf,2019-02-18,monday,5,264644,Room,6000000,"Drama, Thriller",2015-10-16,35401758,8.1,2838
-1056,Alone,2018-06-27,wednesday,5,120,The Lord of the Rings: The Fellowship of the Ring,93000000,"Adventure, Fantasy, Action",2001-12-18,871368364,8,8892
-1376,Alone,2019-02-21,thursday,5,914,The Great Dictator,2000000,Comedy,1940-10-15,11000000,8.1,756
-1408,with gf,2018-04-01,sunday,5,1124,The Prestige,40000000,"Drama, Mystery, Thriller",2006-10-19,109676311,8,4510
-1536,with gf,2018-04-24,tuesday,5,12477,Grave of the Fireflies,3700000,"Animation, Drama, War",1988-04-16,0,8.2,974
-1600,with gf,2018-05-08,tuesday,5,103,Taxi Driver,1300000,"Crime, Drama",1976-02-07,28262574,8.1,2632
-1824,with gf,2018-07-07,saturday,5,637,Life Is Beautiful,20000000,"Comedy, Drama",1997-12-20,229400000,8.3,3643
-2048,with gf,2018-09-20,thursday,5,129,Spirited Away,15000000,"Fantasy, Adventure, Animation, Family",2001-07-20,274925095,8.3,3968
-2176,with gf,2018-10-16,tuesday,5,105,Back to the Future,19000000,"Adventure, Comedy, Science Fiction, Family",1985-07-03,381109762,8,6239
-2464,with gf,2019-01-05,saturday,5,122,The Lord of the Rings: The Return of the King,94000000,"Adventure, Fantasy, Action",2003-12-01,1118888979,8.1,8226
-2496,with gf,2019-01-17,thursday,5,335,Once Upon a Time in the West,5000000,Western,1968-12-21,5321508,8.1,1160
-2720,with gf,2019-03-18,monday,5,157336,Interstellar,165000000,"Adventure, Drama, Science Fiction",2014-11-05,675120017,8.1,11187
-2784,with gf,2019-04-03,wednesday,5,423,The Pianist,35000000,"Drama, War",2002-09-24,120072577,8.1,1927
-2880,Alone,2018-03-30,friday,5,598,City of God,3300000,"Drama, Crime",2002-02-05,30641770,8.2,1852
-2944,Alone,2018-04-14,saturday,5,111,Scarface,25000000,"Action, Crime, Drama, Thriller",1983-12-08,65884703,8,3017
-3168,Alone,2018-06-13,wednesday,5,3082,Modern Times,1,"Drama, Comedy",1936-02-05,8500000,8.1,881
-3264,Alone,2018-07-29,sunday,5,694,The Shining,19000000,"Horror, Thriller",1980-05-22,44017374,8.1,3890
-3456,Alone,2018-10-12,friday,5,510,One Flew Over the Cuckoo's Nest,3000000,Drama,1975-11-18,108981275,8.3,3001
-3616,Alone,2018-12-16,sunday,5,27205,Inception,160000000,"Action, Thriller, Science Fiction, Mystery, Adventure",2010-07-14,825532764,8.1,14075
-3840,Alone,2019-03-19,tuesday,5,11,Star Wars,11000000,"Adventure, Action, Science Fiction",1977-05-25,775398007,8.1,6778
-3904,Alone,2019-04-14,sunday,5,670,Oldboy,3000000,"Drama, Thriller, Mystery, Action",2003-01-01,14980005,8,2000
-4000,Family,2018-07-30,monday,5,497,The Green Mile,60000000,"Fantasy, Drama, Crime",1999-12-10,284600000,8.2,4166
-4064,Family,2019-02-28,thursday,5,155,The Dark Knight,185000000,"Drama, Action, Crime, Thriller",2008-07-16,1004558444,8.3,12269
-4288,with gf,2018-08-30,thursday,5,274,The Silence of the Lambs,19000000,"Crime, Drama, Thriller",1991-02-01,272742922,8.1,4549
-4416,Alone,2018-09-23,sunday,5,239,Some Like It Hot,2883848,"Comedy, Romance",1959-03-18,25000000,8,835
-4736,Alone,2019-02-12,tuesday,5,500,Reservoir Dogs,1200000,"Crime, Thriller",1992-09-02,14661007,8.1,3821
-4768,Family,2018-04-18,wednesday,5,73,American History X,20000000,Drama,1998-10-30,23875127,8.2,3120
-4864,Alone,2018-06-24,sunday,5,389,12 Angry Men,350000,Drama,1957-03-25,1000000,8.2,2130
-4960,with gf,2018-07-31,tuesday,5,8587,The Lion King,45000000,"Family, Animation, Drama",1994-06-23,788241776,8,5520
-5184,Alone,2018-05-09,wednesday,5,15,Citizen Kane,839727,"Mystery, Drama",1941-04-30,23217674,8,1244
-5248,Alone,2018-11-16,friday,5,807,Se7en,33000000,"Crime, Mystery, Thriller",1995-09-22,327311859,8.1,5915
-5280,Alone,2019-02-28,thursday,5,244786,Whiplash,3300000,Drama,2014-10-10,13092000,8.3,4376
-5408,Alone,2018-12-14,friday,5,10376,The Legend of 1900,9000000,Fantasy,1998-10-28,0,8.1,554
-5536,Alone,2018-07-03,tuesday,5,120467,The Grand Budapest Hotel,30000000,"Comedy, Drama",2014-02-26,174600318,8,4644
-5824,Alone,2018-12-24,monday,5,369557,Sing Street,4000000,"Romance, Drama, Music",2016-03-11,13624522,8,669
-5856,Alone,2019-03-18,monday,5,426,Vertigo,2479000,"Mystery, Romance, Thriller",1958-05-09,28000000,8,1162
-6048,Alone,2019-02-05,tuesday,5,1891,The Empire Strikes Back,18000000,"Adventure, Action, Science Fiction",1980-05-17,538400000,8.2,5998
-6080,with gf,2018-04-14,saturday,5,207,Dead Poets Society,16400000,Drama,1989-06-02,235860116,8.1,2786
-6304,Alone,2018-10-04,thursday,5,240,The Godfather: Part II,13000000,"Drama, Crime",1974-12-20,47542841,8.3,3418
-6528,with gf,2018-11-12,monday,5,550,Fight Club,63000000,Drama,1999-10-15,100853753,8.3,9678
-6624,Alone,2018-05-03,thursday,5,77338,The Intouchables,13000000,"Drama, Comedy",2011-11-02,426480871,8.2,5410
-6720,Alone,2018-10-07,sunday,5,429,"The Good, the Bad and the Ugly",1200000,Western,1966-12-23,6000000,8.1,2371
-6976,Alone,2018-05-18,friday,5,101,Leon: The Professional,16000000,"Thriller, Crime, Drama",1994-09-14,45284974,8.2,4293
-7200,Alone,2018-06-17,sunday,5,567,Rear Window,1000000,"Drama, Mystery, Thriller",1954-08-01,36764313,8.2,1531
-7360,Alone,2018-08-02,thursday,5,539,Psycho,806948,"Drama, Horror, Thriller",1960-06-16,32000000,8.3,2405
-7424,Family,2018-08-17,friday,5,769,GoodFellas,25000000,"Drama, Crime",1990-09-12,46836394,8.2,3211
-7648,Alone,2018-06-02,saturday,5,128,Princess Mononoke,26500000,"Adventure, Fantasy, Animation",1997-07-12,159375308,8.2,2041
-7744,with gf,2018-08-15,wednesday,5,935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1800000,"Drama, Comedy, War",1964-01-29,9440272,8,1472
-8096,Alone,2019-03-15,friday,5,4935,Howl's Moving Castle,24000000,"Fantasy, Animation, Adventure",2004-11-19,234710455,8.2,2049
-8160,with gf,2018-12-24,monday,5,1585,It's a Wonderful Life,3180000,"Drama, Family, Fantasy",1946-12-20,9644124,8,1103
-8256,Alone,2019-05-07,tuesday,5,331214,Band of Brothers,125000000,"Action, Drama, War",2001-09-09,0,8.2,725
-8320,with gf,2018-11-11,sunday,5,975,Paths of Glory,935000,"Drama, War",1957-09-18,0,8.2,565
-8416,Alone,2019-01-07,monday,5,121,The Lord of the Rings: The Two Towers,79000000,"Adventure, Fantasy, Action",2002-12-18,926287400,8,7641
-8544,Alone,2018-08-01,wednesday,5,185,A Clockwork Orange,2200000,"Science Fiction, Drama",1971-12-18,26589000,8,3432
-8640,with gf,2018-08-02,thursday,5,278,The Shawshank Redemption,25000000,"Drama, Crime",1994-09-23,28341469,8.5,8358
-8768,Alone,2019-05-07,tuesday,5,77,Memento,9000000,"Mystery, Thriller",2000-10-11,39723096,8.1,4168
-8896,Alone,2018-09-27,thursday,5,13,Forrest Gump,55000000,"Comedy, Drama, Romance",1994-07-06,677945399,8.2,8147
+32,with family,07/05/2018,monday,1,4258,Scary Movie 5,20000000,Comedy,11/04/2013,78378744,4.6,813
+1632,with family,14/05/2018,monday,1,71880,Jack and Jill,79000000,Comedy,11/11/2011,149673788,4,619
+3232,with family,07/07/2018,saturday,1,188207,The Legend of Hercules,70000000,"Action, Adventure",10/01/2014,61279452,4.4,542
+4832,with family,25/12/2018,tuesday,1,314,Catwoman,100000000,"Action, Crime",22/07/2004,82102379,4.2,833
+6432,with family,16/04/2018,monday,1,263472,Knock Knock,2500000,"Drama, Thriller",26/06/2015,6341684,4.9,880
+8032,with family,20/06/2018,wednesday,1,37169,The Human Centipede (First Sequence),2011799,Horror,26/04/2009,0,4.9,528
+384,Alone,18/09/2018,tuesday,2,403119,47 Meters Down,5500000,"Drama, Thriller, Horror, Adventure",15/06/2017,44235023,5.1,548
+544,with gf,10/04/2018,tuesday,2,100042,Dumb and Dumber To,40000000,Comedy,12/11/2014,169837010,5.4,1140
+640,Alone,16/09/2018,sunday,2,9645,Ghost Ship,35000000,"Horror, Mystery, Thriller",25/10/2002,68349884,5.3,540
+768,Alone,30/04/2018,monday,2,282035,The Mummy,125000000,"Thriller, Action, Adventure",06/06/2017,407778013,5.4,2122
+1504,with gf,17/04/2018,tuesday,2,13051,Max Payne,35000000,Action,15/10/2008,85416905,5.2,625
+1696,with gf,28/05/2018,monday,2,243688,Poltergeist,35000000,"Horror, Thriller",20/05/2015,95437994,5,924
+1888,with gf,03/08/2018,friday,2,44912,Green Lantern,200000000,"Adventure, Action, Thriller, Science Fiction",16/06/2011,219851172,5.1,2551
+2304,with gf,19/11/2018,monday,2,216015,Fifty Shades of Grey,40000000,"Drama, Romance, Thriller",11/02/2015,571006128,5.2,3350
+2368,with gf,08/12/2018,saturday,2,210860,Mortdecai,60000000,"Comedy, Adventure",21/01/2015,30418560,5.4,1078
+2656,with gf,26/02/2019,tuesday,2,47327,Drive Angry,50000000,"Fantasy, Thriller, Action, Crime",24/02/2011,28931401,5.3,608
+3360,Alone,07/09/2018,friday,2,278924,Mechanic: Resurrection,40000000,"Action, Crime, Thriller",25/08/2016,125729635,5.3,1236
+4128,with gf,14/01/2019,monday,2,19899,Couples Retreat,70000000,"Comedy, Romance",19/09/2009,171844840,5.3,601
+4384,Alone,19/06/2018,tuesday,2,1979,Fantastic 4: Rise of the Silver Surfer,130000000,"Adventure, Fantasy, Action, Thriller",13/06/2007,289047763,5.4,2648
+4896,Alone,29/01/2019,tuesday,2,43074,Ghostbusters,144000000,"Action, Fantasy, Comedy",14/07/2016,229147509,5.3,2203
+5088,with family,25/08/2018,saturday,2,72559,G.I. Joe: Retaliation,130000000,"Adventure, Action, Science Fiction, Thriller",26/03/2013,371876278,5.4,3045
+5344,with gf,06/01/2019,sunday,2,9381,Babylon A.D.,70000000,"Action, Adventure, Science Fiction, Thriller",20/08/2008,72108608,5.4,687
+5440,with gf,30/03/2018,friday,2,124459,The Incredible Burt Wonderstone,30000000,Comedy,14/03/2013,27437881,5.3,732
+5760,Alone,03/08/2018,friday,2,49524,R.I.P.D.,130000000,"Fantasy, Action, Comedy, Crime",18/07/2013,61648500,5.4,1280
+6336,Alone,30/11/2018,friday,2,271969,Ben-Hur,100000000,"Adventure, Drama, Action",17/08/2016,94061311,5.3,642
+7168,with gf,05/05/2019,sunday,2,201088,Blackhat,70000000,"Crime, Drama, Mystery",13/01/2015,17752940,5.1,842
+7264,Alone,25/02/2019,monday,2,7840,"10,000 BC",105000000,"Adventure, Action, Drama, Fantasy",22/02/2008,266000000,5.1,934
+7296,with gf,12/06/2018,tuesday,2,2698,Evan Almighty,175000000,"Fantasy, Comedy, Family",09/06/2007,173000000,5.3,1194
+7680,Alone,28/12/2018,friday,2,13836,Race to Witch Mountain,50000000,"Adventure, Family, Fantasy, Science Fiction, Thriller",12/03/2009,106303988,5.4,520
+7840,Alone,01/07/2018,sunday,2,18480,Brüno,42000000,Comedy,08/07/2009,0,5.4,528
+8128,with gf,21/05/2018,monday,2,14560,Paul Blart: Mall Cop,26000000,"Action, Adventure, Comedy, Family",15/01/2009,183293131,5.2,807
+160,with gf,11/11/2018,sunday,3,184346,Deliver Us from Evil,30000000,"Thriller, Crime, Horror",01/07/2014,0,5.9,705
+192,with family,25/12/2018,tuesday,3,9955,Blades of Glory,53000000,"Action, Comedy, Drama",30/03/2007,0,5.9,578
+352,with family,04/08/2018,saturday,3,257344,Pixels,88000000,"Action, Comedy, Science Fiction",16/07/2015,243637091,5.6,2564
+512,with family,20/04/2019,saturday,3,23827,Paranormal Activity,15000,"Horror, Mystery",14/09/2007,193355800,5.9,1351
+672,with family,05/01/2019,saturday,3,709,Licence to Kill,32000000,"Adventure, Action, Thriller",07/07/1989,156167015,5.9,549
+736,with gf,12/10/2018,friday,3,9355,Mad Max Beyond Thunderdome,12305523,"Action, Adventure, Science Fiction",29/06/1985,36230219,5.9,765
+832,with family,28/03/2019,thursday,3,10202,Bedtime Stories,80000000,"Fantasy, Comedy, Family, Romance",24/12/2008,212874442,5.9,924
+864,with gf,01/05/2018,tuesday,3,52451,The Three Musketeers,75000000,"Adventure, Action, Thriller",31/08/2011,132274484,5.6,945
+992,with family,10/04/2018,tuesday,3,86834,Noah,125000000,"Drama, Adventure",20/03/2014,362637473,5.5,2408
+1152,with family,07/12/2018,friday,3,62213,Dark Shadows,150000000,"Comedy, Fantasy",08/05/2012,245527149,5.7,2383
+1312,with family,02/06/2018,saturday,3,335796,Ouija: Origin of Evil,9000000,"Horror, Thriller",20/10/2016,81705746,5.8,735
+1440,with gf,07/04/2018,saturday,3,2642,Two Weeks Notice,60000000,"Comedy, Romance",19/12/2002,93354918,5.9,505
+1472,with family,12/04/2018,thursday,3,283445,Sinister 2,10000000,Horror,19/08/2015,52882018,5.5,605
+1792,with family,01/07/2018,sunday,3,14869,G.I. Joe: The Rise of Cobra,175000000,"Adventure, Action, Thriller, Science Fiction",04/08/2009,302469017,5.6,1988
+1920,with gf,11/08/2018,saturday,3,10137,Stuart Little,133000000,"Animation, Fantasy, Family, Comedy",17/12/1999,300135367,5.8,998
+1952,with family,23/08/2018,thursday,3,36669,Die Another Day,140000000,"Adventure, Action, Thriller",17/11/2002,431971116,5.8,1112
+2112,with family,02/10/2018,tuesday,3,11674,101 Dalmatians,54000000,"Comedy, Family",17/11/1996,320689294,5.6,722
+2272,with family,13/11/2018,tuesday,3,41513,The Smurfs,110000000,"Animation, Family, Adventure, Comedy, Fantasy",29/07/2011,563749323,5.5,1201
+2400,with gf,16/12/2018,sunday,3,18360,Night at the Museum: Battle of the Smithsonian,150000000,"Adventure, Fantasy, Action, Comedy, Family",20/05/2009,413106170,5.9,2026
+2432,with family,26/12/2018,wednesday,3,23437,A Nightmare on Elm Street,35000000,"Horror, Mystery, Thriller",30/04/2010,115664037,5.5,771
+2592,with family,08/02/2019,friday,3,10661,You Don't Mess with the Zohan,90000000,"Comedy, Action",05/06/2008,201596308,5.5,1068
+2752,with family,26/03/2019,tuesday,3,10022,The Pacifier,56000000,"Action, Comedy, Drama, Family, Thriller",04/03/2005,113006880,5.8,865
+2912,with family,08/04/2018,sunday,3,951,Kindergarten Cop,15000000,Comedy,21/12/1990,201957688,5.8,643
+2976,Alone,21/04/2018,saturday,3,9600,Big Momma's House,30000000,"Crime, Comedy",31/05/2000,173959438,5.6,514
+3072,with family,13/05/2018,sunday,3,266294,Sisters,30000000,Comedy,18/12/2015,105011053,5.8,593
+3392,with family,20/09/2018,thursday,3,109431,Identity Thief,35000000,"Comedy, Crime",07/02/2013,173965010,5.6,1667
+3424,Alone,01/10/2018,monday,3,353491,The Dark Tower,60000000,"Action, Western, Science Fiction, Fantasy, Horror",03/08/2017,71000000,5.7,688
+3552,with family,18/11/2018,sunday,3,98357,Broken City,56000000,"Thriller, Crime, Drama",18/01/2013,19701164,5.7,601
+3712,with family,27/01/2019,sunday,3,534,Terminator Salvation,200000000,"Action, Science Fiction, Thriller",20/05/2009,371353001,5.9,2496
+3872,with family,31/03/2019,sunday,3,3597,I Know What You Did Last Summer,17000000,"Horror, Thriller, Mystery",17/10/1997,125586134,5.6,698
+3936,Alone,29/04/2019,monday,3,315837,Ghost in the Shell,110000000,"Action, Science Fiction, Thriller",29/03/2017,169801921,5.9,2547
+4032,with family,28/10/2018,sunday,3,7552,Fun with Dick and Jane,100000000,Comedy,21/12/2005,202026112,5.9,639
+4192,with family,02/03/2019,saturday,3,76494,What to Expect When You're Expecting,40000000,"Romance, Comedy, Drama",17/05/2012,79700000,5.8,611
+4352,with family,08/04/2018,sunday,3,76640,The Last Stand,30000000,"Action, Crime, Thriller",12/01/2013,0,5.7,1282
+4512,with family,11/04/2018,wednesday,3,1970,The Grudge,10000000,"Horror, Mystery, Thriller",22/10/2004,183474602,5.8,889
+4672,with family,19/07/2018,thursday,3,11452,National Lampoon’s Van Wilder,5000000,"Comedy, Romance",29/03/2002,38275483,5.9,867
+4992,with family,28/02/2019,thursday,3,13207,Friday the 13th,19000000,Horror,11/02/2009,91379051,5.7,566
+5152,with family,05/02/2019,tuesday,3,258489,The Legend of Tarzan,180000000,"Action, Adventure",29/06/2016,356743061,5.5,2488
+5312,with family,04/05/2018,friday,3,58595,Snow White and the Huntsman,170000000,"Adventure, Fantasy, Drama",30/05/2012,396600000,5.8,3183
+5472,with family,06/09/2018,thursday,3,47971,xXx: Return of Xander Cage,85000000,"Action, Adventure, Crime",13/01/2017,346147658,5.5,1497
+5632,with family,14/05/2018,monday,3,8247,Jumper,85000000,"Adventure, Fantasy, Science Fiction",10/02/2008,222231186,5.9,1855
+5728,Alone,11/05/2018,friday,3,91314,Transformers: Age of Extinction,210000000,"Science Fiction, Action, Adventure",25/06/2014,1091405097,5.8,3136
+5792,with family,12/10/2018,friday,3,1995,Lara Croft: Tomb Raider,115000000,"Adventure, Fantasy, Action, Thriller",11/06/2001,274703340,5.7,2235
+5952,with family,29/12/2018,saturday,3,59962,This Means War,65000000,"Action, Comedy, Romance",14/02/2012,156974557,5.9,1411
+6112,with family,11/07/2018,wednesday,3,10025,Just My Luck,28000000,"Comedy, Drama, Family, Fantasy, Romance",12/05/2006,38159905,5.8,512
+6144,with gf,23/10/2018,tuesday,3,8836,The X Files: I Want to Believe,30000000,"Drama, Mystery, Science Fiction, Thriller",24/07/2008,68369434,5.5,534
+6208,Alone,15/04/2018,sunday,3,228165,The SpongeBob Movie: Sponge Out of Water,74000000,"Animation, Adventure, Comedy, Family",05/02/2015,311594032,5.7,733
+6272,with family,08/08/2018,wednesday,3,9506,Anger Management,75000000,Comedy,11/04/2003,195745823,5.9,937
+6592,with family,07/05/2019,tuesday,3,57201,The Lone Ranger,255000000,"Action, Adventure, Western",03/07/2013,89289910,5.9,2361
+6688,Alone,19/08/2018,sunday,3,6282,Coyote Ugly,45000000,"Comedy, Drama, Music, Romance",30/07/2000,113916474,5.8,590
+6752,with family,28/12/2018,friday,3,296,Terminator 3: Rise of the Machines,200000000,"Action, Thriller, Science Fiction",02/07/2003,435000000,5.9,2177
+6912,with family,22/11/2018,thursday,3,2268,The Golden Compass,180000000,"Adventure, Fantasy",04/12/2007,372234864,5.8,1347
+7072,with family,24/08/2018,friday,3,254473,Brick Mansions,28000000,"Action, Crime, Drama",22/04/2014,68896829,5.7,628
+7232,with family,16/10/2018,tuesday,3,24021,The Twilight Saga: Eclipse,68000000,"Adventure, Fantasy, Drama, Romance",23/06/2010,698491347,5.9,2382
+7392,with family,25/12/2018,tuesday,3,324668,Jason Bourne,120000000,"Action, Thriller",27/07/2016,415484914,5.9,2386
+7456,with gf,18/11/2018,sunday,3,10313,The Men Who Stare at Goats,24000000,"Comedy, War",17/10/2009,68729358,5.9,755
+7552,with family,01/02/2019,friday,3,38117,Beastly,17000000,"Drama, Fantasy, Romance",21/01/2011,43165571,5.9,878
+7712,with family,13/04/2018,friday,3,34016,She's Out of My League,20000000,"Comedy, Romance",11/03/2010,49779728,5.9,544
+7872,with family,20/11/2018,tuesday,3,308531,Teenage Mutant Ninja Turtles: Out of the Shadows,135000000,"Fantasy, Action, Adventure, Comedy",01/06/2016,245623848,5.8,984
+7936,with gf,13/06/2018,wednesday,3,80271,LOL,11000000,"Drama, Comedy, Romance",10/02/2012,0,5.8,905
+8192,with family,12/05/2018,saturday,3,33909,Wall Street: Money Never Sleeps,70000000,"Drama, Crime",02/09/2010,134748021,5.8,504
+8352,with family,07/04/2019,sunday,3,126889,Alien: Covenant,97000000,"Horror, Science Fiction, Thriller",09/05/2017,232380243,5.7,2677
+8512,with family,22/04/2019,monday,3,28211,Chloe,15000000,"Drama, Thriller, Mystery",25/03/2009,8459458,5.9,514
+8608,Alone,10/04/2019,wednesday,3,50619,The Twilight Saga: Breaking Dawn - Part 1,110000000,"Adventure, Fantasy, Romance",15/03/2011,712171856,5.8,2622
+8672,with family,06/04/2019,saturday,3,58224,Mr. Popper's Penguins,55000000,"Comedy, Family",17/06/2011,187361754,5.7,775
+8704,Alone,14/07/2018,saturday,3,869,Planet of the Apes,100000000,"Thriller, Science Fiction, Action, Adventure",25/07/2001,362211740,5.6,1270
+8832,with family,09/12/2018,sunday,3,331313,Keeping Up with the Joneses,40000000,"Action, Comedy",20/10/2016,29918745,5.9,608
+8928,Alone,20/02/2019,wednesday,3,152760,The Monuments Men,70000000,"War, Drama, History, Action",24/01/2014,154984035,5.8,1545
+0,with gf,30/03/2018,friday,4,308639,Dope,700000,"Crime, Drama, Comedy",19/06/2015,17986781,7.2,698
+64,with gf,10/06/2018,sunday,4,1878,Fear and Loathing in Las Vegas,18500000,"Adventure, Drama, Comedy",22/05/1998,10680275,7.2,1321
+96,with gf,05/08/2018,sunday,4,152584,Blue Is the Warmest Color,4300000,"Romance, Drama",09/10/2013,10165694,7.2,1114
+288,Alone,30/04/2018,monday,4,9473,"South Park: Bigger, Longer & Uncut",21000000,"Animation, Comedy, Music",30/06/1999,0,7.1,916
+448,Alone,28/12/2018,friday,4,2501,The Bourne Identity,60000000,"Action, Drama, Mystery, Thriller",14/06/2002,214034224,7.3,3640
+576,with gf,27/10/2018,saturday,4,65754,The Girl with the Dragon Tattoo,90000000,"Thriller, Crime, Mystery, Drama",14/12/2011,232617430,7.2,2479
+1024,Alone,10/05/2018,thursday,4,8055,The Reader,32000000,"Drama, Romance",10/12/2008,113019290,7.2,835
+1120,Alone,08/10/2018,monday,4,68722,The Master,32000000,Drama,07/09/2012,28258060,7,720
+1216,Alone,22/03/2019,friday,4,601,E.T. the Extra-Terrestrial,10500000,"Science Fiction, Adventure, Family, Fantasy",03/04/1982,792965326,7.3,3359
+1248,with family,09/07/2018,monday,4,401,Garden State,2500000,"Comedy, Drama, Romance",28/07/2004,26781723,7.1,631
+1344,Alone,12/10/2018,friday,4,82690,Wreck-It Ralph,165000000,"Family, Animation, Comedy, Adventure",01/11/2012,471222889,7.1,4656
+1728,with gf,06/06/2018,wednesday,4,297762,Wonder Woman,149000000,"Action, Adventure, Fantasy",30/05/2017,820580447,7.2,5025
+1984,with gf,02/09/2018,sunday,4,69,Walk the Line,28000000,"Drama, Music, Romance",13/09/2005,186438883,7.3,732
+2016,with gf,11/09/2018,tuesday,4,5825,National Lampoon's Christmas Vacation,27000000,Comedy,01/12/1989,71320000,7.1,668
+2080,with gf,25/09/2018,tuesday,4,76341,Mad Max: Fury Road,150000000,"Action, Adventure, Science Fiction, Thriller",13/05/2015,378858340,7.3,9629
+2208,with gf,25/10/2018,thursday,4,813,Airplane!,3500000,Comedy,02/07/1980,83453539,7.1,1104
+2560,with gf,03/02/2019,sunday,4,44826,Hugo,170000000,"Adventure, Drama, Family",22/11/2011,185770160,7,2197
+2688,with gf,08/03/2019,friday,4,522,Ed Wood,18000000,"Comedy, Drama, History",27/09/1994,5887457,7.3,639
+2848,with gf,24/04/2019,wednesday,4,328387,Nerve,19000000,"Mystery, Adventure, Crime",27/07/2016,85241496,7.1,2262
+3040,Alone,05/05/2018,saturday,4,300671,13 Hours: The Secret Soldiers of Benghazi,50000000,"Action, Drama, History, Thriller, War",13/01/2016,69411370,7,963
+3136,Alone,30/05/2018,wednesday,4,376660,The Edge of Seventeen,9000000,"Comedy, Drama",18/11/2016,18803648,7.3,952
+3328,Alone,25/08/2018,saturday,4,239571,The Best of Me,26000000,"Drama, Romance",16/10/2014,35926213,7.2,777
+3520,Alone,10/11/2018,saturday,4,161,Ocean's Eleven,85000000,"Thriller, Crime",07/12/2001,450717150,7.2,3857
+3648,Alone,30/12/2018,sunday,4,8329,[REC],1500000,"Horror, Mystery",10/04/2007,30448000,7.1,954
+3744,Alone,10/02/2019,sunday,4,10112,The Aristocats,4000000,"Animation, Comedy, Family, Adventure",23/12/1970,55675257,7.1,1287
+3808,Alone,05/03/2019,tuesday,4,68734,Argo,44500000,"Drama, Thriller",11/10/2012,232324128,7.1,3473
+4096,with family,09/05/2019,thursday,4,324849,The Lego Batman Movie,80000000,"Action, Animation, Comedy, Family, Fantasy",08/02/2017,311950384,7.2,1473
+4224,with family,21/09/2018,friday,4,24428,The Avengers,220000000,"Science Fiction, Action, Adventure",25/04/2012,1519557910,7.4,12000
+4320,with gf,18/01/2019,friday,4,11886,Robin Hood,15000000,"Animation, Family",08/11/1973,32056467,7,1155
+4480,Alone,11/03/2019,monday,4,9444,Anastasia,53000000,"Animation, Family",20/11/1997,139804348,7.4,1481
+4576,with gf,20/10/2018,saturday,4,9693,Children of Men,76000000,"Drama, Action, Thriller, Science Fiction",22/09/2006,69959751,7.4,2120
+4608,with gf,13/02/2019,wednesday,4,2292,Clerks,27000,Comedy,13/09/1994,3151130,7.4,769
+4704,Alone,02/11/2018,friday,4,119450,Dawn of the Planet of the Apes,170000000,"Science Fiction, Action, Drama, Thriller",26/06/2014,710644566,7.3,4511
+4800,with family,28/02/2019,thursday,4,421,The Life Aquatic with Steve Zissou,50000000,"Adventure, Comedy, Drama",10/12/2004,34808403,7.1,781
+5056,Alone,04/01/2019,friday,4,628,Interview with the Vampire,60000000,"Horror, Romance",11/11/1994,223664608,7.2,1558
+5376,Alone,29/05/2018,tuesday,4,37135,Tarzan,150000000,"Adventure, Animation, Drama, Family",18/06/1999,448000000,7.1,1715
+5568,Alone,28/11/2018,wednesday,4,3580,Changeling,55000000,"Crime, Drama, Mystery",30/01/2008,113020255,7.3,1151
+5664,with gf,11/11/2018,sunday,4,4553,The Machinist,5000000,"Thriller, Drama",09/02/2004,8203235,7.3,1280
+5920,with gf,02/07/2018,monday,4,1372,Blood Diamond,100000000,"Drama, Thriller, Action",07/12/2006,170877916,7.4,2344
+6016,Alone,03/10/2018,wednesday,4,3933,Corpse Bride,40000000,"Romance, Fantasy, Animation, Music",09/09/2005,117195061,7.2,1957
+6240,Alone,02/06/2018,saturday,4,8741,The Thin Red Line,52000000,"Drama, History, War",25/12/1998,98126565,7.2,793
+6400,Alone,19/04/2019,friday,4,2567,The Aviator,116000000,Drama,17/12/2004,102000000,7,1526
+6496,with gf,05/09/2018,wednesday,4,15472,The Girl with the Dragon Tattoo,13000000,"Drama, Thriller, Crime, Mystery",27/02/2009,104345682,7.4,1020
+6784,Alone,01/03/2019,friday,4,228150,Fury,68000000,"War, Drama, Action",15/10/2014,211817906,7.4,4028
+6816,with family,10/06/2018,sunday,4,948,Halloween,300000,"Horror, Thriller",25/10/1978,70000000,7.4,1066
+6880,with gf,15/08/2018,wednesday,4,321741,Concussion,35000000,Drama,12/11/2015,50363790,7,844
+7008,Alone,21/09/2018,friday,4,50348,The Lincoln Lawyer,40000000,"Crime, Drama, Thriller",17/03/2011,85412898,7,923
+7104,with gf,07/07/2018,saturday,4,808,Shrek,60000000,"Adventure, Animation, Comedy, Family, Fantasy",16/05/2001,484409218,7.3,4183
+7488,Alone,06/05/2018,sunday,4,8374,The Boondock Saints,6000000,"Action, Thriller, Crime",22/01/1999,30471,7.2,848
+7584,with family,27/07/2018,friday,4,62215,Melancholia,7400000,"Drama, Science Fiction",26/05/2011,21817298,7,915
+7776,with gf,15/12/2018,saturday,4,281957,The Revenant,135000000,"Western, Drama, Adventure, Thriller",25/12/2015,532950503,7.3,6558
+7968,with gf,29/10/2018,monday,4,72113,Carnage,25000000,"Comedy, Drama",16/09/2011,27603069,7,760
+8064,Alone,11/11/2018,sunday,4,941,Lethal Weapon,15000000,"Adventure, Action, Comedy, Thriller, Crime",06/03/1987,120207127,7,1367
+8224,Alone,28/10/2018,sunday,4,58574,Sherlock Holmes: A Game of Shadows,125000000,"Adventure, Action, Crime, Mystery",22/11/2011,334615000,7,3971
+8448,with gf,10/04/2018,tuesday,4,6978,Big Trouble in Little China,25000000,"Action, Adventure, Comedy, Fantasy",30/05/1986,11000000,7.1,727
+8736,Alone,08/12/2018,saturday,4,329865,Arrival,47000000,"Thriller, Drama, Science Fiction, Mystery",10/11/2016,203388186,7.2,5729
+8800,with gf,28/06/2018,thursday,4,1592,Primal Fear,30000000,"Crime, Drama, Mystery, Thriller",03/04/1996,102616183,7.4,644
+224,with gf,28/02/2019,thursday,4.5,603,The Matrix,63000000,"Action, Science Fiction",30/03/1999,463517383,7.9,9079
+416,Alone,05/11/2018,monday,4.5,679,Aliens,18500000,"Horror, Action, Thriller, Science Fiction",18/07/1986,183316455,7.7,3282
+608,Alone,02/05/2018,wednesday,4.5,393,Kill Bill: Vol. 2,30000000,"Action, Crime, Thriller",16/04/2004,152159461,7.7,4061
+800,Alone,20/10/2018,saturday,4.5,578,Jaws,7000000,"Horror, Thriller, Adventure",18/06/1975,470654000,7.5,2628
+1184,Alone,27/01/2019,sunday,4.5,673,Harry Potter and the Prisoner of Azkaban,130000000,"Adventure, Fantasy, Family",31/05/2004,789804554,7.7,6037
+1568,with gf,29/04/2018,sunday,4.5,671,Harry Potter and the Philosopher's Stone,125000000,"Adventure, Fantasy, Family",16/11/2001,976475550,7.5,7188
+1760,with gf,16/06/2018,saturday,4.5,277216,Straight Outta Compton,28000000,"Drama, Music",13/08/2015,201634991,7.7,1381
+2144,with gf,09/10/2018,tuesday,4.5,525,The Blues Brothers,27000000,"Music, Comedy, Action, Crime",17/06/1980,115229890,7.5,1092
+2336,with gf,29/11/2018,thursday,4.5,400928,Gifted,7000000,Drama,12/04/2017,37461045,7.7,549
+2528,with gf,26/01/2019,saturday,4.5,197,Braveheart,72000000,"Action, Drama, History, War",24/05/1995,210000000,7.7,3404
+3104,Alone,23/05/2018,wednesday,4.5,45269,The King's Speech,15000000,"Drama, History",06/09/2010,414211549,7.6,2817
+3296,Alone,12/08/2018,sunday,4.5,222935,The Fault in Our Stars,12000000,"Romance, Drama",16/05/2014,307166834,7.6,3868
+3488,Alone,28/10/2018,sunday,4.5,70,Million Dollar Baby,30000000,Drama,15/12/2004,216763646,7.7,2519
+3680,Alone,16/01/2019,wednesday,4.5,272,Batman Begins,150000000,"Action, Crime, Drama",10/06/2005,374218673,7.5,7511
+4256,with gf,27/04/2018,friday,4.5,20453,3 Idiots,9000000,"Drama, Comedy, Romance",23/12/2009,70000000,7.8,850
+4448,Alone,19/12/2018,wednesday,4.5,2493,The Princess Bride,16000000,"Adventure, Family, Fantasy, Comedy, Romance",18/09/1987,30857814,7.6,1518
+4640,Alone,28/04/2018,saturday,4.5,782,Gattaca,36000000,"Thriller, Science Fiction, Mystery, Romance",07/09/1997,12532777,7.5,1846
+5024,Alone,06/08/2018,monday,4.5,747,Shaun of the Dead,4000000,"Horror, Comedy",09/04/2004,30039392,7.5,2479
+5216,Alone,20/08/2018,monday,4.5,14756,Ip Man,11715578,"Drama, Action, History",12/12/2008,21888598,7.5,1309
+5600,Alone,18/04/2019,thursday,4.5,10191,How to Train Your Dragon,165000000,"Fantasy, Adventure, Animation, Family",05/03/2010,494878759,7.5,4319
+5984,Alone,26/05/2018,saturday,4.5,334541,Manchester by the Sea,9000000,Drama,18/11/2016,75026965,7.5,1553
+6176,with gf,03/02/2019,sunday,4.5,50014,The Help,25000000,Drama,09/08/2011,124272124,7.9,1966
+6368,Alone,06/02/2019,wednesday,4.5,31011,Mr. Nobody,47000000,"Science Fiction, Drama, Romance, Fantasy",11/09/2009,3547209,7.9,1616
+6560,with gf,27/01/2019,sunday,4.5,180299,The Raid 2,4500000,"Action, Crime, Thriller",27/03/2014,2627209,7.6,832
+6944,with gf,21/04/2019,sunday,4.5,396535,Train to Busan,8820000,"Action, Horror, Thriller",20/07/2016,2129768,7.7,984
+7136,with gf,03/12/2018,monday,4.5,872,Singin' in the Rain,2540800,"Comedy, Music, Romance",10/04/1952,7200000,7.9,747
+7328,with gf,26/04/2019,friday,4.5,387,Das Boot,14000000,"Action, Drama, History, War, Adventure",16/09/1981,85000000,7.9,623
+7520,Alone,31/08/2018,friday,4.5,348,Alien,11000000,"Horror, Action, Thriller, Science Fiction",25/05/1979,104931801,7.9,4564
+7904,Alone,21/04/2019,sunday,4.5,83666,Moonrise Kingdom,16000000,"Comedy, Drama, Romance",16/05/2012,68263166,7.6,1701
+8288,with gf,23/06/2018,saturday,4.5,1366,Rocky,1000000,Drama,21/11/1976,117235147,7.5,1843
+8480,with gf,19/09/2018,wednesday,4.5,164,Breakfast at Tiffany's,2500000,"Comedy, Drama, Romance",05/10/1961,9500000,7.6,1082
+8864,Alone,01/05/2018,tuesday,4.5,968,Dog Day Afternoon,1800000,"Crime, Drama, Thriller",11/08/1975,46665856,7.6,685
+256,Alone,30/03/2018,friday,5,205596,The Imitation Game,14000000,"History, Drama, Thriller, War",14/11/2014,233555708,8,5895
+480,Alone,02/03/2019,saturday,5,311,Once Upon a Time in America,30000000,"Drama, Crime",16/02/1984,0,8.3,1104
+704,with family,04/10/2018,thursday,5,28,Apocalypse Now,31500000,"Drama, War",15/08/1979,89460381,8,2112
+928,with gf,12/11/2018,monday,5,19,Metropolis,92620000,"Drama, Science Fiction",10/01/1927,650422,8,666
+960,with gf,18/02/2019,monday,5,264644,Room,6000000,"Drama, Thriller",16/10/2015,35401758,8.1,2838
+1056,Alone,27/06/2018,wednesday,5,120,The Lord of the Rings: The Fellowship of the Ring,93000000,"Adventure, Fantasy, Action",18/12/2001,871368364,8,8892
+1376,Alone,21/02/2019,thursday,5,914,The Great Dictator,2000000,Comedy,15/10/1940,11000000,8.1,756
+1408,with gf,01/04/2018,sunday,5,1124,The Prestige,40000000,"Drama, Mystery, Thriller",19/10/2006,109676311,8,4510
+1536,with gf,24/04/2018,tuesday,5,12477,Grave of the Fireflies,3700000,"Animation, Drama, War",16/04/1988,0,8.2,974
+1600,with gf,08/05/2018,tuesday,5,103,Taxi Driver,1300000,"Crime, Drama",07/02/1976,28262574,8.1,2632
+1824,with gf,07/07/2018,saturday,5,637,Life Is Beautiful,20000000,"Comedy, Drama",20/12/1997,229400000,8.3,3643
+2048,with gf,20/09/2018,thursday,5,129,Spirited Away,15000000,"Fantasy, Adventure, Animation, Family",20/07/2001,274925095,8.3,3968
+2176,with gf,16/10/2018,tuesday,5,105,Back to the Future,19000000,"Adventure, Comedy, Science Fiction, Family",03/07/1985,381109762,8,6239
+2464,with gf,05/01/2019,saturday,5,122,The Lord of the Rings: The Return of the King,94000000,"Adventure, Fantasy, Action",01/12/2003,1118888979,8.1,8226
+2496,with gf,17/01/2019,thursday,5,335,Once Upon a Time in the West,5000000,Western,21/12/1968,5321508,8.1,1160
+2720,with gf,18/03/2019,monday,5,157336,Interstellar,165000000,"Adventure, Drama, Science Fiction",05/11/2014,675120017,8.1,11187
+2784,with gf,03/04/2019,wednesday,5,423,The Pianist,35000000,"Drama, War",24/09/2002,120072577,8.1,1927
+2880,Alone,30/03/2018,friday,5,598,City of God,3300000,"Drama, Crime",05/02/2002,30641770,8.2,1852
+2944,Alone,14/04/2018,saturday,5,111,Scarface,25000000,"Action, Crime, Drama, Thriller",08/12/1983,65884703,8,3017
+3168,Alone,13/06/2018,wednesday,5,3082,Modern Times,1,"Drama, Comedy",05/02/1936,8500000,8.1,881
+3264,Alone,29/07/2018,sunday,5,694,The Shining,19000000,"Horror, Thriller",22/05/1980,44017374,8.1,3890
+3456,Alone,12/10/2018,friday,5,510,One Flew Over the Cuckoo's Nest,3000000,Drama,18/11/1975,108981275,8.3,3001
+3616,Alone,16/12/2018,sunday,5,27205,Inception,160000000,"Action, Thriller, Science Fiction, Mystery, Adventure",14/07/2010,825532764,8.1,14075
+3840,Alone,19/03/2019,tuesday,5,11,Star Wars,11000000,"Adventure, Action, Science Fiction",25/05/1977,775398007,8.1,6778
+3904,Alone,14/04/2019,sunday,5,670,Oldboy,3000000,"Drama, Thriller, Mystery, Action",01/01/2003,14980005,8,2000
+4000,with family,30/07/2018,monday,5,497,The Green Mile,60000000,"Fantasy, Drama, Crime",10/12/1999,284600000,8.2,4166
+4064,with family,28/02/2019,thursday,5,155,The Dark Knight,185000000,"Drama, Action, Crime, Thriller",16/07/2008,1004558444,8.3,12269
+4288,with gf,30/08/2018,thursday,5,274,The Silence of the Lambs,19000000,"Crime, Drama, Thriller",01/02/1991,272742922,8.1,4549
+4416,Alone,23/09/2018,sunday,5,239,Some Like It Hot,2883848,"Comedy, Romance",18/03/1959,25000000,8,835
+4736,Alone,12/02/2019,tuesday,5,500,Reservoir Dogs,1200000,"Crime, Thriller",02/09/1992,14661007,8.1,3821
+4768,with family,18/04/2018,wednesday,5,73,American History X,20000000,Drama,30/10/1998,23875127,8.2,3120
+4864,Alone,24/06/2018,sunday,5,389,12 Angry Men,350000,Drama,25/03/1957,1000000,8.2,2130
+4960,with gf,31/07/2018,tuesday,5,8587,The Lion King,45000000,"Family, Animation, Drama",23/06/1994,788241776,8,5520
+5184,Alone,09/05/2018,wednesday,5,15,Citizen Kane,839727,"Mystery, Drama",30/04/1941,23217674,8,1244
+5248,Alone,16/11/2018,friday,5,807,Se7en,33000000,"Crime, Mystery, Thriller",22/09/1995,327311859,8.1,5915
+5280,Alone,28/02/2019,thursday,5,244786,Whiplash,3300000,Drama,10/10/2014,13092000,8.3,4376
+5408,Alone,14/12/2018,friday,5,10376,The Legend of 1900,9000000,Fantasy,28/10/1998,0,8.1,554
+5536,Alone,03/07/2018,tuesday,5,120467,The Grand Budapest Hotel,30000000,"Comedy, Drama",26/02/2014,174600318,8,4644
+5824,Alone,24/12/2018,monday,5,369557,Sing Street,4000000,"Romance, Drama, Music",11/03/2016,13624522,8,669
+5856,Alone,18/03/2019,monday,5,426,Vertigo,2479000,"Mystery, Romance, Thriller",09/05/1958,28000000,8,1162
+6048,Alone,05/02/2019,tuesday,5,1891,The Empire Strikes Back,18000000,"Adventure, Action, Science Fiction",17/05/1980,538400000,8.2,5998
+6080,with gf,14/04/2018,saturday,5,207,Dead Poets Society,16400000,Drama,02/06/1989,235860116,8.1,2786
+6304,Alone,04/10/2018,thursday,5,240,The Godfather: Part II,13000000,"Drama, Crime",20/12/1974,47542841,8.3,3418
+6528,with gf,12/11/2018,monday,5,550,Fight Club,63000000,Drama,15/10/1999,100853753,8.3,9678
+6624,Alone,03/05/2018,thursday,5,77338,The Intouchables,13000000,"Drama, Comedy",02/11/2011,426480871,8.2,5410
+6720,Alone,07/10/2018,sunday,5,429,"The Good, the Bad and the Ugly",1200000,Western,23/12/1966,6000000,8.1,2371
+6976,Alone,18/05/2018,friday,5,101,Leon: The Professional,16000000,"Thriller, Crime, Drama",14/09/1994,45284974,8.2,4293
+7200,Alone,17/06/2018,sunday,5,567,Rear Window,1000000,"Drama, Mystery, Thriller",01/08/1954,36764313,8.2,1531
+7360,Alone,02/08/2018,thursday,5,539,Psycho,806948,"Drama, Horror, Thriller",16/06/1960,32000000,8.3,2405
+7424,with family,17/08/2018,friday,5,769,GoodFellas,25000000,"Drama, Crime",12/09/1990,46836394,8.2,3211
+7648,Alone,02/06/2018,saturday,5,128,Princess Mononoke,26500000,"Adventure, Fantasy, Animation",12/07/1997,159375308,8.2,2041
+7744,with gf,15/08/2018,wednesday,5,935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1800000,"Drama, Comedy, War",29/01/1964,9440272,8,1472
+8096,Alone,15/03/2019,friday,5,4935,Howl's Moving Castle,24000000,"Fantasy, Animation, Adventure",19/11/2004,234710455,8.2,2049
+8160,with gf,24/12/2018,monday,5,1585,It's a Wonderful Life,3180000,"Drama, Family, Fantasy",20/12/1946,9644124,8,1103
+8256,Alone,07/05/2019,tuesday,5,331214,Band of Brothers,125000000,"Action, Drama, War",09/09/2001,0,8.2,725
+8320,with gf,11/11/2018,sunday,5,975,Paths of Glory,935000,"Drama, War",18/09/1957,0,8.2,565
+8416,Alone,07/01/2019,monday,5,121,The Lord of the Rings: The Two Towers,79000000,"Adventure, Fantasy, Action",18/12/2002,926287400,8,7641
+8544,Alone,01/08/2018,wednesday,5,185,A Clockwork Orange,2200000,"Science Fiction, Drama",18/12/1971,26589000,8,3432
+8640,with gf,02/08/2018,thursday,5,278,The Shawshank Redemption,25000000,"Drama, Crime",23/09/1994,28341469,8.5,8358
+8768,Alone,07/05/2019,tuesday,5,77,Memento,9000000,"Mystery, Thriller",11/10/2000,39723096,8.1,4168
+8896,Alone,27/09/2018,thursday,5,13,Forrest Gump,55000000,"Comedy, Drama, Romance",06/07/1994,677945399,8.2,8147
